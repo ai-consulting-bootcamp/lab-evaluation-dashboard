@@ -47,7 +47,8 @@ matters, because that is the one that reaches a customer.
 |---|---|
 | `lab_evaluation_dashboard_ugo_ahukannah/evaluation_score_dashboard.twbx` | The Tableau workbook &mdash; 5 worksheets, 2 dashboards, both data sources packaged |
 | `lab_evaluation_dashboard_ugo_ahukannah/dashboard_screenshot.png` | Dashboard 1 as published |
-| `lab_evaluation_dashboard_ugo_ahukannah/judge_agreement_dashboard_screenshot.png` | Dashboard 2 as published |
+| `lab_evaluation_dashboard_ugo_ahukannah/judge_agreement_dashboard.twbx` | The optional extra's workbook file. **Byte-identical to the file above** &mdash; Tableau Public keeps both dashboards in one workbook, so this is the same packaged file under the filename the brief names for the extra. |
+| `lab_evaluation_dashboard_ugo_ahukannah/judge_agreement_screenshot.png` | Dashboard 2 as published |
 | [`data_source.md`](lab_evaluation_dashboard_ugo_ahukannah/data_source.md) | Step 1 &mdash; which data, from where, and how it was reshaped |
 | [`dashboard_build_spec.md`](lab_evaluation_dashboard_ugo_ahukannah/dashboard_build_spec.md) | Steps 4&ndash;11 &mdash; every sheet, shelf, filter and dashboard zone |
 | [`reflection.md`](lab_evaluation_dashboard_ugo_ahukannah/reflection.md) | Communication-layer reflection: what was included, excluded, and what I would change |
@@ -69,6 +70,14 @@ matters, because that is the one that reaches a customer.
 | 23&ndash;27 &mdash; *(optional)* judge agreement | Dashboard 2, both agreement sheets, `judge_agreement.csv` |
 
 The optional extra is complete.
+
+## Interaction check
+
+The published filters were tested rather than assumed: unchecking *Standard model,
+reduced instructions* on Dashboard 1 removes it from the category and metric
+charts (its axis labels drop from five occurrences to one, the remaining one being
+the filter card itself) and the charts re-render. The filter was restored
+afterwards, so the published default shows all configurations.
 
 ## Rebuilding the data
 
