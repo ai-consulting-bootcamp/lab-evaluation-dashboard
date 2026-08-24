@@ -1,0 +1,77 @@
+evaluation_id,task,category,difficulty,model_version,judge_verdict,checker_verdict,judge_score,checker_score,agreement,disagreement_type,date
+qa-mini-Q07,Grounded question answering,Lending rules,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q20,Grounded question answering,Edge cases,Hard,"Standard model, full instructions",Pass,Fail,100,0,0,"Judge passed, checker failed",2026-08-03
+qa-mini-Q13,Grounded question answering,Credit-report rules,Hard,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q14,Grounded question answering,Credit-report rules,Hard,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q18,Grounded question answering,Company policy,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q06,Grounded question answering,Lending rules,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q09,Grounded question answering,Lending rules,Hard,"Standard model, full instructions",Pass,Fail,100,0,0,"Judge passed, checker failed",2026-08-03
+qa-mini-Q04,Grounded question answering,Lending rules,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q12,Grounded question answering,Credit-report rules,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q22,Grounded question answering,Edge cases,Medium,"Standard model, full instructions",Fail,Pass,0,100,0,"Checker passed, judge failed",2026-08-03
+qa-mini-Q19,Grounded question answering,Edge cases,Hard,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q11,Grounded question answering,Credit-report rules,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q10,Grounded question answering,Credit-report rules,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q21,Grounded question answering,Edge cases,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q05,Grounded question answering,Lending rules,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q16,Grounded question answering,Company policy,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q03,Grounded question answering,Lending rules,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q15,Grounded question answering,Company policy,Medium,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q01,Grounded question answering,Lending rules,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q17,Grounded question answering,Company policy,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q08,Grounded question answering,Lending rules,Hard,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-mini-Q02,Grounded question answering,Lending rules,Easy,"Standard model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-03
+qa-gpt4o-Q20,Grounded question answering,Edge cases,Hard,"Premium model, full instructions",Pass,Fail,100,0,0,"Judge passed, checker failed",2026-08-10
+qa-gpt4o-Q07,Grounded question answering,Lending rules,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q13,Grounded question answering,Credit-report rules,Hard,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q06,Grounded question answering,Lending rules,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q14,Grounded question answering,Credit-report rules,Hard,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q18,Grounded question answering,Company policy,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q09,Grounded question answering,Lending rules,Hard,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q04,Grounded question answering,Lending rules,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q12,Grounded question answering,Credit-report rules,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q22,Grounded question answering,Edge cases,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q19,Grounded question answering,Edge cases,Hard,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q11,Grounded question answering,Credit-report rules,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q10,Grounded question answering,Credit-report rules,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q05,Grounded question answering,Lending rules,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q21,Grounded question answering,Edge cases,Medium,"Premium model, full instructions",Fail,Pass,0,100,0,"Checker passed, judge failed",2026-08-10
+qa-gpt4o-Q16,Grounded question answering,Company policy,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q03,Grounded question answering,Lending rules,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q15,Grounded question answering,Company policy,Medium,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q01,Grounded question answering,Lending rules,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q17,Grounded question answering,Company policy,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q08,Grounded question answering,Lending rules,Hard,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-gpt4o-Q02,Grounded question answering,Lending rules,Easy,"Premium model, full instructions",Pass,Pass,100,100,100,Agreed,2026-08-10
+qa-terse-Q20,Grounded question answering,Edge cases,Hard,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q07,Grounded question answering,Lending rules,Medium,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+qa-terse-Q13,Grounded question answering,Credit-report rules,Hard,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+qa-terse-Q18,Grounded question answering,Company policy,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q06,Grounded question answering,Lending rules,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q14,Grounded question answering,Credit-report rules,Hard,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+qa-terse-Q04,Grounded question answering,Lending rules,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q09,Grounded question answering,Lending rules,Hard,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+qa-terse-Q12,Grounded question answering,Credit-report rules,Easy,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q22,Grounded question answering,Edge cases,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q11,Grounded question answering,Credit-report rules,Easy,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q19,Grounded question answering,Edge cases,Hard,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q21,Grounded question answering,Edge cases,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q10,Grounded question answering,Credit-report rules,Easy,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q05,Grounded question answering,Lending rules,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q03,Grounded question answering,Lending rules,Easy,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q16,Grounded question answering,Company policy,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q15,Grounded question answering,Company policy,Medium,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q17,Grounded question answering,Company policy,Easy,"Standard model, reduced instructions",Fail,Fail,0,0,100,Agreed,2026-08-17
+qa-terse-Q01,Grounded question answering,Lending rules,Easy,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+qa-terse-Q08,Grounded question answering,Lending rules,Hard,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+qa-terse-Q02,Grounded question answering,Lending rules,Easy,"Standard model, reduced instructions",Pass,Pass,100,100,100,Agreed,2026-08-17
+letter-gpt-4o-mini-P1,Compliance letter drafting,Missing information,Medium,gpt-4o-mini,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-mini-P2,Compliance letter drafting,Hallucination,Medium,gpt-4o-mini,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-mini-P3,Compliance letter drafting,Safety,Medium,gpt-4o-mini,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-mini-P4,Compliance letter drafting,Incorrect tone,Medium,gpt-4o-mini,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-mini-P5,Compliance letter drafting,Missing information under constraint conflict,Medium,gpt-4o-mini,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-P1,Compliance letter drafting,Missing information,Medium,gpt-4o,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-P2,Compliance letter drafting,Hallucination,Medium,gpt-4o,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-P3,Compliance letter drafting,Safety,Medium,gpt-4o,Pass,Pass,100.0,100,100,Agreed,2026-08-24
+letter-gpt-4o-P4,Compliance letter drafting,Incorrect tone,Medium,gpt-4o,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24
+letter-gpt-4o-P5,Compliance letter drafting,Missing information under constraint conflict,Medium,gpt-4o,Pass,Fail,100.0,0,0,"Judge passed, checker failed",2026-08-24

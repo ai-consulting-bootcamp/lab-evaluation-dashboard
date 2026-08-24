@@ -1,0 +1,397 @@
+evaluation_id,example_id,category,category_key,difficulty,model_version,config_key,metric,metric_key,score,date
+mini-Q07-correctness,Q07,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q07-groundedness,Q07,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q07-citation_validity,Q07,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q07-citation_wellformed,Q07,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q07-citation_fabricated_free,Q07,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q07-overall,Q07,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q20-correctness,Q20,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q20-groundedness,Q20,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q20-citation_validity,Q20,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Points to the right source,citation_validity,0.0,2026-08-03
+mini-Q20-citation_wellformed,Q20,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q20-citation_fabricated_free,Q20,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q20-overall,Q20,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Overall quality score,overall,80.0,2026-08-03
+mini-Q13-correctness,Q13,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q13-groundedness,Q13,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q13-citation_validity,Q13,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q13-citation_wellformed,Q13,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q13-citation_fabricated_free,Q13,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q13-overall,Q13,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q14-correctness,Q14,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q14-groundedness,Q14,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q14-citation_validity,Q14,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q14-citation_wellformed,Q14,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q14-citation_fabricated_free,Q14,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q14-overall,Q14,Credit-report rules,fcra,Hard,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q18-correctness,Q18,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q18-groundedness,Q18,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q18-citation_validity,Q18,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q18-citation_wellformed,Q18,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q18-citation_fabricated_free,Q18,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q18-overall,Q18,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q06-correctness,Q06,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,0.0,2026-08-03
+mini-Q06-groundedness,Q06,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q06-citation_validity,Q06,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q06-citation_wellformed,Q06,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q06-citation_fabricated_free,Q06,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q06-overall,Q06,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Overall quality score,overall,80.0,2026-08-03
+mini-Q09-correctness,Q09,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q09-groundedness,Q09,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q09-citation_validity,Q09,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Points to the right source,citation_validity,0.0,2026-08-03
+mini-Q09-citation_wellformed,Q09,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q09-citation_fabricated_free,Q09,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q09-overall,Q09,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Overall quality score,overall,80.0,2026-08-03
+mini-Q04-correctness,Q04,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q04-groundedness,Q04,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q04-citation_validity,Q04,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q04-citation_wellformed,Q04,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q04-citation_fabricated_free,Q04,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q04-overall,Q04,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q12-correctness,Q12,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q12-groundedness,Q12,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q12-citation_validity,Q12,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q12-citation_wellformed,Q12,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q12-citation_fabricated_free,Q12,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q12-overall,Q12,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q22-correctness,Q22,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,0.0,2026-08-03
+mini-Q22-groundedness,Q22,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,0.0,2026-08-03
+mini-Q22-citation_validity,Q22,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q22-citation_wellformed,Q22,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q22-citation_fabricated_free,Q22,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q22-overall,Q22,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Overall quality score,overall,60.0,2026-08-03
+mini-Q19-correctness,Q19,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q19-groundedness,Q19,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q19-citation_validity,Q19,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q19-citation_wellformed,Q19,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q19-citation_fabricated_free,Q19,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q19-overall,Q19,Edge cases,edge_case,Hard,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q11-correctness,Q11,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q11-groundedness,Q11,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q11-citation_validity,Q11,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q11-citation_wellformed,Q11,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q11-citation_fabricated_free,Q11,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q11-overall,Q11,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q10-correctness,Q10,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q10-groundedness,Q10,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q10-citation_validity,Q10,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q10-citation_wellformed,Q10,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q10-citation_fabricated_free,Q10,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q10-overall,Q10,Credit-report rules,fcra,Easy,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q21-correctness,Q21,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q21-groundedness,Q21,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q21-citation_validity,Q21,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q21-citation_wellformed,Q21,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q21-citation_fabricated_free,Q21,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q21-overall,Q21,Edge cases,edge_case,Medium,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q05-correctness,Q05,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,0.0,2026-08-03
+mini-Q05-groundedness,Q05,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q05-citation_validity,Q05,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q05-citation_wellformed,Q05,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q05-citation_fabricated_free,Q05,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q05-overall,Q05,Lending rules,regulation_b,Medium,"Standard model, full instructions",mini,Overall quality score,overall,80.0,2026-08-03
+mini-Q16-correctness,Q16,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q16-groundedness,Q16,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q16-citation_validity,Q16,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q16-citation_wellformed,Q16,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q16-citation_fabricated_free,Q16,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q16-overall,Q16,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q03-correctness,Q03,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q03-groundedness,Q03,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q03-citation_validity,Q03,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q03-citation_wellformed,Q03,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q03-citation_fabricated_free,Q03,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q03-overall,Q03,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q15-correctness,Q15,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q15-groundedness,Q15,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q15-citation_validity,Q15,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q15-citation_wellformed,Q15,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q15-citation_fabricated_free,Q15,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q15-overall,Q15,Company policy,internal_policy,Medium,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q01-correctness,Q01,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q01-groundedness,Q01,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q01-citation_validity,Q01,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q01-citation_wellformed,Q01,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q01-citation_fabricated_free,Q01,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q01-overall,Q01,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q17-correctness,Q17,Company policy,internal_policy,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q17-groundedness,Q17,Company policy,internal_policy,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q17-citation_validity,Q17,Company policy,internal_policy,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q17-citation_wellformed,Q17,Company policy,internal_policy,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q17-citation_fabricated_free,Q17,Company policy,internal_policy,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q17-overall,Q17,Company policy,internal_policy,Easy,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q08-correctness,Q08,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Answer is correct,correctness,100.0,2026-08-03
+mini-Q08-groundedness,Q08,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q08-citation_validity,Q08,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q08-citation_wellformed,Q08,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q08-citation_fabricated_free,Q08,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q08-overall,Q08,Lending rules,regulation_b,Hard,"Standard model, full instructions",mini,Overall quality score,overall,100.0,2026-08-03
+mini-Q02-correctness,Q02,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Answer is correct,correctness,0.0,2026-08-03
+mini-Q02-groundedness,Q02,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Claims backed by the source,groundedness,100.0,2026-08-03
+mini-Q02-citation_validity,Q02,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Points to the right source,citation_validity,100.0,2026-08-03
+mini-Q02-citation_wellformed,Q02,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Source reference is usable,citation_wellformed,100.0,2026-08-03
+mini-Q02-citation_fabricated_free,Q02,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,No invented sources,citation_fabricated_free,100.0,2026-08-03
+mini-Q02-overall,Q02,Lending rules,regulation_b,Easy,"Standard model, full instructions",mini,Overall quality score,overall,80.0,2026-08-03
+gpt4o-Q20-correctness,Q20,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q20-groundedness,Q20,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q20-citation_validity,Q20,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,0.0,2026-08-10
+gpt4o-Q20-citation_wellformed,Q20,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q20-citation_fabricated_free,Q20,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q20-overall,Q20,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Overall quality score,overall,80.0,2026-08-10
+gpt4o-Q07-correctness,Q07,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q07-groundedness,Q07,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q07-citation_validity,Q07,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q07-citation_wellformed,Q07,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q07-citation_fabricated_free,Q07,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q07-overall,Q07,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q13-correctness,Q13,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q13-groundedness,Q13,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q13-citation_validity,Q13,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q13-citation_wellformed,Q13,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q13-citation_fabricated_free,Q13,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q13-overall,Q13,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q06-correctness,Q06,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q06-groundedness,Q06,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q06-citation_validity,Q06,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q06-citation_wellformed,Q06,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q06-citation_fabricated_free,Q06,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q06-overall,Q06,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q14-correctness,Q14,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q14-groundedness,Q14,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q14-citation_validity,Q14,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q14-citation_wellformed,Q14,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q14-citation_fabricated_free,Q14,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q14-overall,Q14,Credit-report rules,fcra,Hard,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q18-correctness,Q18,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q18-groundedness,Q18,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q18-citation_validity,Q18,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q18-citation_wellformed,Q18,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q18-citation_fabricated_free,Q18,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q18-overall,Q18,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q09-correctness,Q09,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q09-groundedness,Q09,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q09-citation_validity,Q09,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q09-citation_wellformed,Q09,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q09-citation_fabricated_free,Q09,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q09-overall,Q09,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q04-correctness,Q04,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q04-groundedness,Q04,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q04-citation_validity,Q04,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q04-citation_wellformed,Q04,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q04-citation_fabricated_free,Q04,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q04-overall,Q04,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q12-correctness,Q12,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q12-groundedness,Q12,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q12-citation_validity,Q12,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q12-citation_wellformed,Q12,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q12-citation_fabricated_free,Q12,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q12-overall,Q12,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q22-correctness,Q22,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q22-groundedness,Q22,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q22-citation_validity,Q22,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q22-citation_wellformed,Q22,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q22-citation_fabricated_free,Q22,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q22-overall,Q22,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q19-correctness,Q19,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q19-groundedness,Q19,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q19-citation_validity,Q19,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q19-citation_wellformed,Q19,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q19-citation_fabricated_free,Q19,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q19-overall,Q19,Edge cases,edge_case,Hard,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q11-correctness,Q11,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q11-groundedness,Q11,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q11-citation_validity,Q11,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q11-citation_wellformed,Q11,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q11-citation_fabricated_free,Q11,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q11-overall,Q11,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q10-correctness,Q10,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q10-groundedness,Q10,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q10-citation_validity,Q10,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q10-citation_wellformed,Q10,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q10-citation_fabricated_free,Q10,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q10-overall,Q10,Credit-report rules,fcra,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q05-correctness,Q05,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,0.0,2026-08-10
+gpt4o-Q05-groundedness,Q05,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q05-citation_validity,Q05,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q05-citation_wellformed,Q05,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q05-citation_fabricated_free,Q05,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q05-overall,Q05,Lending rules,regulation_b,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,80.0,2026-08-10
+gpt4o-Q21-correctness,Q21,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q21-groundedness,Q21,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,0.0,2026-08-10
+gpt4o-Q21-citation_validity,Q21,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q21-citation_wellformed,Q21,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q21-citation_fabricated_free,Q21,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q21-overall,Q21,Edge cases,edge_case,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,80.0,2026-08-10
+gpt4o-Q16-correctness,Q16,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q16-groundedness,Q16,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q16-citation_validity,Q16,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q16-citation_wellformed,Q16,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q16-citation_fabricated_free,Q16,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q16-overall,Q16,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q03-correctness,Q03,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q03-groundedness,Q03,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q03-citation_validity,Q03,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q03-citation_wellformed,Q03,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q03-citation_fabricated_free,Q03,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q03-overall,Q03,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q15-correctness,Q15,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q15-groundedness,Q15,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q15-citation_validity,Q15,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q15-citation_wellformed,Q15,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q15-citation_fabricated_free,Q15,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q15-overall,Q15,Company policy,internal_policy,Medium,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q01-correctness,Q01,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q01-groundedness,Q01,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q01-citation_validity,Q01,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q01-citation_wellformed,Q01,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q01-citation_fabricated_free,Q01,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q01-overall,Q01,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q17-correctness,Q17,Company policy,internal_policy,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q17-groundedness,Q17,Company policy,internal_policy,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q17-citation_validity,Q17,Company policy,internal_policy,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q17-citation_wellformed,Q17,Company policy,internal_policy,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q17-citation_fabricated_free,Q17,Company policy,internal_policy,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q17-overall,Q17,Company policy,internal_policy,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q08-correctness,Q08,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q08-groundedness,Q08,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q08-citation_validity,Q08,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q08-citation_wellformed,Q08,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q08-citation_fabricated_free,Q08,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q08-overall,Q08,Lending rules,regulation_b,Hard,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+gpt4o-Q02-correctness,Q02,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Answer is correct,correctness,100.0,2026-08-10
+gpt4o-Q02-groundedness,Q02,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Claims backed by the source,groundedness,100.0,2026-08-10
+gpt4o-Q02-citation_validity,Q02,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Points to the right source,citation_validity,100.0,2026-08-10
+gpt4o-Q02-citation_wellformed,Q02,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Source reference is usable,citation_wellformed,100.0,2026-08-10
+gpt4o-Q02-citation_fabricated_free,Q02,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,No invented sources,citation_fabricated_free,100.0,2026-08-10
+gpt4o-Q02-overall,Q02,Lending rules,regulation_b,Easy,"Premium model, full instructions",gpt4o,Overall quality score,overall,100.0,2026-08-10
+terse-Q20-correctness,Q20,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q20-groundedness,Q20,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q20-citation_validity,Q20,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q20-citation_wellformed,Q20,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q20-citation_fabricated_free,Q20,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q20-overall,Q20,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Overall quality score,overall,60.0,2026-08-17
+terse-Q07-correctness,Q07,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q07-groundedness,Q07,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q07-citation_validity,Q07,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q07-citation_wellformed,Q07,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q07-citation_fabricated_free,Q07,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q07-overall,Q07,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,100.0,2026-08-17
+terse-Q13-correctness,Q13,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q13-groundedness,Q13,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q13-citation_validity,Q13,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q13-citation_wellformed,Q13,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q13-citation_fabricated_free,Q13,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q13-overall,Q13,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Overall quality score,overall,100.0,2026-08-17
+terse-Q18-correctness,Q18,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q18-groundedness,Q18,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q18-citation_validity,Q18,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q18-citation_wellformed,Q18,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q18-citation_fabricated_free,Q18,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q18-overall,Q18,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q06-correctness,Q06,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q06-groundedness,Q06,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q06-citation_validity,Q06,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q06-citation_wellformed,Q06,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q06-citation_fabricated_free,Q06,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q06-overall,Q06,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q14-correctness,Q14,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q14-groundedness,Q14,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q14-citation_validity,Q14,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q14-citation_wellformed,Q14,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q14-citation_fabricated_free,Q14,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q14-overall,Q14,Credit-report rules,fcra,Hard,"Standard model, reduced instructions",terse,Overall quality score,overall,100.0,2026-08-17
+terse-Q04-correctness,Q04,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q04-groundedness,Q04,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q04-citation_validity,Q04,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q04-citation_wellformed,Q04,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q04-citation_fabricated_free,Q04,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q04-overall,Q04,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q09-correctness,Q09,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q09-groundedness,Q09,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q09-citation_validity,Q09,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q09-citation_wellformed,Q09,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q09-citation_fabricated_free,Q09,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q09-overall,Q09,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Overall quality score,overall,100.0,2026-08-17
+terse-Q12-correctness,Q12,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q12-groundedness,Q12,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q12-citation_validity,Q12,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q12-citation_wellformed,Q12,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q12-citation_fabricated_free,Q12,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q12-overall,Q12,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q22-correctness,Q22,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,0.0,2026-08-17
+terse-Q22-groundedness,Q22,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q22-citation_validity,Q22,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q22-citation_wellformed,Q22,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q22-citation_fabricated_free,Q22,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q22-overall,Q22,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,20.0,2026-08-17
+terse-Q11-correctness,Q11,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q11-groundedness,Q11,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q11-citation_validity,Q11,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q11-citation_wellformed,Q11,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q11-citation_fabricated_free,Q11,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q11-overall,Q11,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q19-correctness,Q19,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q19-groundedness,Q19,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q19-citation_validity,Q19,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q19-citation_wellformed,Q19,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q19-citation_fabricated_free,Q19,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q19-overall,Q19,Edge cases,edge_case,Hard,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q21-correctness,Q21,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q21-groundedness,Q21,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q21-citation_validity,Q21,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q21-citation_wellformed,Q21,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q21-citation_fabricated_free,Q21,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q21-overall,Q21,Edge cases,edge_case,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q10-correctness,Q10,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q10-groundedness,Q10,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q10-citation_validity,Q10,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q10-citation_wellformed,Q10,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q10-citation_fabricated_free,Q10,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q10-overall,Q10,Credit-report rules,fcra,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q05-correctness,Q05,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q05-groundedness,Q05,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q05-citation_validity,Q05,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q05-citation_wellformed,Q05,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q05-citation_fabricated_free,Q05,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q05-overall,Q05,Lending rules,regulation_b,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q03-correctness,Q03,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q03-groundedness,Q03,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q03-citation_validity,Q03,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q03-citation_wellformed,Q03,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q03-citation_fabricated_free,Q03,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q03-overall,Q03,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q16-correctness,Q16,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q16-groundedness,Q16,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q16-citation_validity,Q16,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q16-citation_wellformed,Q16,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q16-citation_fabricated_free,Q16,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q16-overall,Q16,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q15-correctness,Q15,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q15-groundedness,Q15,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q15-citation_validity,Q15,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q15-citation_wellformed,Q15,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q15-citation_fabricated_free,Q15,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q15-overall,Q15,Company policy,internal_policy,Medium,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q17-correctness,Q17,Company policy,internal_policy,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q17-groundedness,Q17,Company policy,internal_policy,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,0.0,2026-08-17
+terse-Q17-citation_validity,Q17,Company policy,internal_policy,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,0.0,2026-08-17
+terse-Q17-citation_wellformed,Q17,Company policy,internal_policy,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,0.0,2026-08-17
+terse-Q17-citation_fabricated_free,Q17,Company policy,internal_policy,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q17-overall,Q17,Company policy,internal_policy,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,40.0,2026-08-17
+terse-Q01-correctness,Q01,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q01-groundedness,Q01,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q01-citation_validity,Q01,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q01-citation_wellformed,Q01,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q01-citation_fabricated_free,Q01,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q01-overall,Q01,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,100.0,2026-08-17
+terse-Q08-correctness,Q08,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Answer is correct,correctness,100.0,2026-08-17
+terse-Q08-groundedness,Q08,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q08-citation_validity,Q08,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q08-citation_wellformed,Q08,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q08-citation_fabricated_free,Q08,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q08-overall,Q08,Lending rules,regulation_b,Hard,"Standard model, reduced instructions",terse,Overall quality score,overall,100.0,2026-08-17
+terse-Q02-correctness,Q02,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Answer is correct,correctness,0.0,2026-08-17
+terse-Q02-groundedness,Q02,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Claims backed by the source,groundedness,100.0,2026-08-17
+terse-Q02-citation_validity,Q02,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Points to the right source,citation_validity,100.0,2026-08-17
+terse-Q02-citation_wellformed,Q02,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Source reference is usable,citation_wellformed,100.0,2026-08-17
+terse-Q02-citation_fabricated_free,Q02,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,No invented sources,citation_fabricated_free,100.0,2026-08-17
+terse-Q02-overall,Q02,Lending rules,regulation_b,Easy,"Standard model, reduced instructions",terse,Overall quality score,overall,80.0,2026-08-17
