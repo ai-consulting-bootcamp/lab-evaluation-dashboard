@@ -1,0 +1,25 @@
+{
+  "evaluation_rows": 1800,
+  "agreement_rows": 900,
+  "evaluation_missing_critical": 0,
+  "agreement_missing_critical": 0,
+  "score_min": 0.0,
+  "score_max": 100.0,
+  "overall_average": 61.94,
+  "overall_agreement_rate": 0.7567,
+  "date_min": "2026-05-26",
+  "date_max": "2026-08-23",
+  "categories": [
+    "code",
+    "instruction_following",
+    "knowledge",
+    "reasoning",
+    "tool_calling"
+  ],
+  "models": [
+    "Assistant v1.0",
+    "Assistant v1.1",
+    "Assistant v1.2",
+    "Assistant v2.0"
+  ]
+}

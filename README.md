@@ -1,23 +1,20 @@
-# Evaluation Dashboard
+# LAB | Evaluation Dashboard — Paola Hintze
 
-**Track:** Module 5 — Evaluation & strategy · **When:** Week 8, Day 2 · **Status:** Required
+This submission turns evaluation data into two stakeholder-ready Tableau dashboards: a model performance view and a judge agreement view. The dashboards emphasize decisions and improvement priorities rather than statistical methodology.
 
-This repository contains everything you need for this lab.
+## Submission folder
 
-## Files
+All deliverables are in [`lab_evaluation_dashboard_paola_hintze/`](./lab_evaluation_dashboard_paola_hintze/).
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+## What is included
 
-## How to complete this lab
+- Tableau packaged workbooks with model, category, and date filters
+- seven visualizations across the core lab and judge agreement extension
+- clear dashboard screenshots
+- clean, documented source data
+- an offline interactive HTML companion
+- reproducible data and asset generation
+- reflection, testing notes, and rubric evidence
 
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
+Open [`lab_evaluation_dashboard_paola_hintze/README.md`](./lab_evaluation_dashboard_paola_hintze/README.md) for the file map, findings, and usage instructions.
 
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.

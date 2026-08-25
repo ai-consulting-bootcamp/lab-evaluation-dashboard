@@ -1,0 +1,1801 @@
+evaluation_id,category,score,model_version,date,score_band,score_bin
+1,reasoning,22.36,Assistant v2.0,2026-05-26,Needs improvement,20
+2,reasoning,67.7,Assistant v2.0,2026-05-26,Watch,60
+3,reasoning,76.55,Assistant v1.2,2026-05-26,Watch,70
+4,reasoning,65.93,Assistant v2.0,2026-05-26,Watch,60
+5,knowledge,69.98,Assistant v2.0,2026-05-26,Watch,60
+6,knowledge,91.02,Assistant v2.0,2026-05-26,Strong,90
+7,knowledge,47.17,Assistant v1.0,2026-05-26,Needs improvement,40
+8,knowledge,78.01,Assistant v2.0,2026-05-26,Watch,70
+9,code,35.48,Assistant v1.0,2026-05-26,Needs improvement,30
+10,code,24.42,Assistant v1.1,2026-05-26,Needs improvement,20
+11,code,41.09,Assistant v1.2,2026-05-26,Needs improvement,40
+12,code,36.44,Assistant v1.0,2026-05-26,Needs improvement,30
+13,instruction_following,65.99,Assistant v1.0,2026-05-26,Watch,60
+14,instruction_following,84.79,Assistant v1.2,2026-05-26,Strong,80
+15,instruction_following,83.68,Assistant v1.2,2026-05-26,Strong,80
+16,instruction_following,71.09,Assistant v1.1,2026-05-26,Watch,70
+17,tool_calling,55.68,Assistant v1.0,2026-05-26,Needs improvement,50
+18,tool_calling,74.19,Assistant v2.0,2026-05-26,Watch,70
+19,tool_calling,19.08,Assistant v1.1,2026-05-26,Needs improvement,10
+20,tool_calling,53.89,Assistant v2.0,2026-05-26,Needs improvement,50
+21,reasoning,28.85,Assistant v1.0,2026-05-27,Needs improvement,20
+22,reasoning,33.01,Assistant v1.0,2026-05-27,Needs improvement,30
+23,reasoning,68.16,Assistant v1.2,2026-05-27,Watch,60
+24,reasoning,28.52,Assistant v1.2,2026-05-27,Needs improvement,20
+25,knowledge,63.19,Assistant v1.1,2026-05-27,Watch,60
+26,knowledge,56.85,Assistant v1.0,2026-05-27,Needs improvement,50
+27,knowledge,83.82,Assistant v1.0,2026-05-27,Strong,80
+28,knowledge,72.29,Assistant v2.0,2026-05-27,Watch,70
+29,code,41.01,Assistant v1.1,2026-05-27,Needs improvement,40
+30,code,82.06,Assistant v2.0,2026-05-27,Strong,80
+31,code,44.54,Assistant v2.0,2026-05-27,Needs improvement,40
+32,code,18.48,Assistant v2.0,2026-05-27,Needs improvement,10
+33,instruction_following,56.05,Assistant v1.2,2026-05-27,Needs improvement,50
+34,instruction_following,66.14,Assistant v1.0,2026-05-27,Watch,60
+35,instruction_following,88.46,Assistant v1.2,2026-05-27,Strong,80
+36,instruction_following,70.73,Assistant v1.2,2026-05-27,Watch,70
+37,tool_calling,67.12,Assistant v1.2,2026-05-27,Watch,60
+38,tool_calling,67.55,Assistant v1.2,2026-05-27,Watch,60
+39,tool_calling,73.56,Assistant v1.2,2026-05-27,Watch,70
+40,tool_calling,75.55,Assistant v1.0,2026-05-27,Watch,70
+41,reasoning,86.59,Assistant v2.0,2026-05-28,Strong,80
+42,reasoning,95.21,Assistant v1.1,2026-05-28,Strong,90
+43,reasoning,16.03,Assistant v1.0,2026-05-28,Needs improvement,10
+44,reasoning,63.78,Assistant v2.0,2026-05-28,Watch,60
+45,knowledge,62.03,Assistant v1.0,2026-05-28,Watch,60
+46,knowledge,81.26,Assistant v1.1,2026-05-28,Strong,80
+47,knowledge,90.12,Assistant v1.1,2026-05-28,Strong,90
+48,knowledge,72.9,Assistant v1.0,2026-05-28,Watch,70
+49,code,33.98,Assistant v2.0,2026-05-28,Needs improvement,30
+50,code,21.79,Assistant v1.0,2026-05-28,Needs improvement,20
+51,code,89.5,Assistant v1.2,2026-05-28,Strong,80
+52,code,60.35,Assistant v1.1,2026-05-28,Watch,60
+53,instruction_following,76.97,Assistant v2.0,2026-05-28,Watch,70
+54,instruction_following,86.99,Assistant v1.2,2026-05-28,Strong,80
+55,instruction_following,78.41,Assistant v1.0,2026-05-28,Watch,70
+56,instruction_following,83.2,Assistant v1.2,2026-05-28,Strong,80
+57,tool_calling,77.56,Assistant v1.2,2026-05-28,Watch,70
+58,tool_calling,47.08,Assistant v1.0,2026-05-28,Needs improvement,40
+59,tool_calling,64.44,Assistant v2.0,2026-05-28,Watch,60
+60,tool_calling,58.32,Assistant v1.2,2026-05-28,Needs improvement,50
+61,reasoning,63.55,Assistant v2.0,2026-05-29,Watch,60
+62,reasoning,19.72,Assistant v2.0,2026-05-29,Needs improvement,10
+63,reasoning,52.17,Assistant v2.0,2026-05-29,Needs improvement,50
+64,reasoning,88.01,Assistant v1.0,2026-05-29,Strong,80
+65,knowledge,85.71,Assistant v1.0,2026-05-29,Strong,80
+66,knowledge,75.91,Assistant v1.1,2026-05-29,Watch,70
+67,knowledge,62.09,Assistant v1.0,2026-05-29,Watch,60
+68,knowledge,73.29,Assistant v1.0,2026-05-29,Watch,70
+69,code,67.25,Assistant v1.0,2026-05-29,Watch,60
+70,code,56.53,Assistant v1.0,2026-05-29,Needs improvement,50
+71,code,33.82,Assistant v1.0,2026-05-29,Needs improvement,30
+72,code,64.49,Assistant v2.0,2026-05-29,Watch,60
+73,instruction_following,88.11,Assistant v2.0,2026-05-29,Strong,80
+74,instruction_following,88.84,Assistant v1.2,2026-05-29,Strong,80
+75,instruction_following,75.12,Assistant v2.0,2026-05-29,Watch,70
+76,instruction_following,71.67,Assistant v1.2,2026-05-29,Watch,70
+77,tool_calling,78.24,Assistant v1.1,2026-05-29,Watch,70
+78,tool_calling,49.67,Assistant v1.1,2026-05-29,Needs improvement,40
+79,tool_calling,49.18,Assistant v1.2,2026-05-29,Needs improvement,40
+80,tool_calling,69.64,Assistant v1.2,2026-05-29,Watch,60
+81,reasoning,71.67,Assistant v2.0,2026-05-30,Watch,70
+82,reasoning,51.04,Assistant v1.2,2026-05-30,Needs improvement,50
+83,reasoning,28.2,Assistant v1.1,2026-05-30,Needs improvement,20
+84,reasoning,38.02,Assistant v1.0,2026-05-30,Needs improvement,30
+85,knowledge,16.84,Assistant v1.0,2026-05-30,Needs improvement,10
+86,knowledge,81.35,Assistant v1.0,2026-05-30,Strong,80
+87,knowledge,61.41,Assistant v1.1,2026-05-30,Watch,60
+88,knowledge,89.08,Assistant v1.0,2026-05-30,Strong,80
+89,code,44.9,Assistant v1.0,2026-05-30,Needs improvement,40
+90,code,45.12,Assistant v1.1,2026-05-30,Needs improvement,40
+91,code,77.35,Assistant v1.1,2026-05-30,Watch,70
+92,code,64.95,Assistant v2.0,2026-05-30,Watch,60
+93,instruction_following,76.51,Assistant v1.1,2026-05-30,Watch,70
+94,instruction_following,89.19,Assistant v2.0,2026-05-30,Strong,80
+95,instruction_following,75.76,Assistant v1.2,2026-05-30,Watch,70
+96,instruction_following,81.21,Assistant v1.0,2026-05-30,Strong,80
+97,tool_calling,28.73,Assistant v1.1,2026-05-30,Needs improvement,20
+98,tool_calling,74.14,Assistant v2.0,2026-05-30,Watch,70
+99,tool_calling,44.37,Assistant v2.0,2026-05-30,Needs improvement,40
+100,tool_calling,86.82,Assistant v1.2,2026-05-30,Strong,80
+101,reasoning,70.46,Assistant v2.0,2026-05-31,Watch,70
+102,reasoning,55.71,Assistant v2.0,2026-05-31,Needs improvement,50
+103,reasoning,24.56,Assistant v1.2,2026-05-31,Needs improvement,20
+104,reasoning,49.18,Assistant v1.0,2026-05-31,Needs improvement,40
+105,knowledge,86.44,Assistant v1.2,2026-05-31,Strong,80
+106,knowledge,60.74,Assistant v1.0,2026-05-31,Watch,60
+107,knowledge,35.12,Assistant v1.2,2026-05-31,Needs improvement,30
+108,knowledge,75.92,Assistant v1.2,2026-05-31,Watch,70
+109,code,8.16,Assistant v1.1,2026-05-31,Needs improvement,0
+110,code,73.08,Assistant v1.0,2026-05-31,Watch,70
+111,code,60.63,Assistant v2.0,2026-05-31,Watch,60
+112,code,11.59,Assistant v1.0,2026-05-31,Needs improvement,10
+113,instruction_following,71.14,Assistant v2.0,2026-05-31,Watch,70
+114,instruction_following,63.49,Assistant v2.0,2026-05-31,Watch,60
+115,instruction_following,51.05,Assistant v1.1,2026-05-31,Needs improvement,50
+116,instruction_following,71.27,Assistant v2.0,2026-05-31,Watch,70
+117,tool_calling,68.72,Assistant v1.0,2026-05-31,Watch,60
+118,tool_calling,70.73,Assistant v1.1,2026-05-31,Watch,70
+119,tool_calling,19.05,Assistant v1.0,2026-05-31,Needs improvement,10
+120,tool_calling,79.24,Assistant v1.1,2026-05-31,Watch,70
+121,reasoning,65.13,Assistant v1.1,2026-06-01,Watch,60
+122,reasoning,27.3,Assistant v1.2,2026-06-01,Needs improvement,20
+123,reasoning,18.17,Assistant v1.1,2026-06-01,Needs improvement,10
+124,reasoning,31.78,Assistant v2.0,2026-06-01,Needs improvement,30
+125,knowledge,52.36,Assistant v1.0,2026-06-01,Needs improvement,50
+126,knowledge,93.53,Assistant v1.2,2026-06-01,Strong,90
+127,knowledge,94.96,Assistant v2.0,2026-06-01,Strong,90
+128,knowledge,36.26,Assistant v2.0,2026-06-01,Needs improvement,30
+129,code,43.36,Assistant v1.1,2026-06-01,Needs improvement,40
+130,code,44.44,Assistant v1.0,2026-06-01,Needs improvement,40
+131,code,70.32,Assistant v1.2,2026-06-01,Watch,70
+132,code,25.73,Assistant v1.0,2026-06-01,Needs improvement,20
+133,instruction_following,82.02,Assistant v1.0,2026-06-01,Strong,80
+134,instruction_following,83.37,Assistant v1.2,2026-06-01,Strong,80
+135,instruction_following,43.99,Assistant v1.2,2026-06-01,Needs improvement,40
+136,instruction_following,65.55,Assistant v1.1,2026-06-01,Watch,60
+137,tool_calling,61.43,Assistant v1.2,2026-06-01,Watch,60
+138,tool_calling,75.31,Assistant v2.0,2026-06-01,Watch,70
+139,tool_calling,66.28,Assistant v1.2,2026-06-01,Watch,60
+140,tool_calling,28.13,Assistant v1.1,2026-06-01,Needs improvement,20
+141,reasoning,73.97,Assistant v1.2,2026-06-02,Watch,70
+142,reasoning,34.78,Assistant v2.0,2026-06-02,Needs improvement,30
+143,reasoning,79.19,Assistant v1.1,2026-06-02,Watch,70
+144,reasoning,47.55,Assistant v1.2,2026-06-02,Needs improvement,40
+145,knowledge,62.08,Assistant v1.1,2026-06-02,Watch,60
+146,knowledge,66.09,Assistant v2.0,2026-06-02,Watch,60
+147,knowledge,62.5,Assistant v1.0,2026-06-02,Watch,60
+148,knowledge,98.66,Assistant v1.2,2026-06-02,Strong,90
+149,code,40.3,Assistant v1.1,2026-06-02,Needs improvement,40
+150,code,18.01,Assistant v2.0,2026-06-02,Needs improvement,10
+151,code,48.42,Assistant v2.0,2026-06-02,Needs improvement,40
+152,code,40.69,Assistant v2.0,2026-06-02,Needs improvement,40
+153,instruction_following,90.59,Assistant v2.0,2026-06-02,Strong,90
+154,instruction_following,83.88,Assistant v1.0,2026-06-02,Strong,80
+155,instruction_following,68.14,Assistant v1.1,2026-06-02,Watch,60
+156,instruction_following,70.49,Assistant v1.1,2026-06-02,Watch,70
+157,tool_calling,60.16,Assistant v1.2,2026-06-02,Watch,60
+158,tool_calling,69.18,Assistant v2.0,2026-06-02,Watch,60
+159,tool_calling,65.37,Assistant v1.1,2026-06-02,Watch,60
+160,tool_calling,55.25,Assistant v1.1,2026-06-02,Needs improvement,50
+161,reasoning,19.01,Assistant v2.0,2026-06-03,Needs improvement,10
+162,reasoning,44.6,Assistant v1.1,2026-06-03,Needs improvement,40
+163,reasoning,37.63,Assistant v2.0,2026-06-03,Needs improvement,30
+164,reasoning,62.51,Assistant v1.0,2026-06-03,Watch,60
+165,knowledge,43.89,Assistant v2.0,2026-06-03,Needs improvement,40
+166,knowledge,76.34,Assistant v1.2,2026-06-03,Watch,70
+167,knowledge,57.83,Assistant v1.0,2026-06-03,Needs improvement,50
+168,knowledge,95.0,Assistant v2.0,2026-06-03,Strong,90
+169,code,53.92,Assistant v1.2,2026-06-03,Needs improvement,50
+170,code,41.83,Assistant v1.1,2026-06-03,Needs improvement,40
+171,code,28.15,Assistant v1.0,2026-06-03,Needs improvement,20
+172,code,59.55,Assistant v1.2,2026-06-03,Needs improvement,50
+173,instruction_following,100.0,Assistant v2.0,2026-06-03,Strong,90
+174,instruction_following,86.63,Assistant v1.1,2026-06-03,Strong,80
+175,instruction_following,77.21,Assistant v2.0,2026-06-03,Watch,70
+176,instruction_following,90.73,Assistant v1.2,2026-06-03,Strong,90
+177,tool_calling,71.71,Assistant v2.0,2026-06-03,Watch,70
+178,tool_calling,34.85,Assistant v1.2,2026-06-03,Needs improvement,30
+179,tool_calling,62.13,Assistant v1.2,2026-06-03,Watch,60
+180,tool_calling,16.63,Assistant v1.0,2026-06-03,Needs improvement,10
+181,reasoning,60.47,Assistant v1.0,2026-06-04,Watch,60
+182,reasoning,38.88,Assistant v1.2,2026-06-04,Needs improvement,30
+183,reasoning,76.24,Assistant v1.1,2026-06-04,Watch,70
+184,reasoning,24.8,Assistant v1.1,2026-06-04,Needs improvement,20
+185,knowledge,74.22,Assistant v2.0,2026-06-04,Watch,70
+186,knowledge,71.11,Assistant v1.1,2026-06-04,Watch,70
+187,knowledge,54.52,Assistant v2.0,2026-06-04,Needs improvement,50
+188,knowledge,69.4,Assistant v1.2,2026-06-04,Watch,60
+189,code,35.32,Assistant v1.2,2026-06-04,Needs improvement,30
+190,code,35.46,Assistant v1.0,2026-06-04,Needs improvement,30
+191,code,39.71,Assistant v2.0,2026-06-04,Needs improvement,30
+192,code,41.99,Assistant v1.1,2026-06-04,Needs improvement,40
+193,instruction_following,54.04,Assistant v1.0,2026-06-04,Needs improvement,50
+194,instruction_following,64.78,Assistant v1.0,2026-06-04,Watch,60
+195,instruction_following,50.05,Assistant v1.1,2026-06-04,Needs improvement,50
+196,instruction_following,89.48,Assistant v1.1,2026-06-04,Strong,80
+197,tool_calling,80.86,Assistant v2.0,2026-06-04,Strong,80
+198,tool_calling,70.57,Assistant v1.1,2026-06-04,Watch,70
+199,tool_calling,50.4,Assistant v1.1,2026-06-04,Needs improvement,50
+200,tool_calling,23.75,Assistant v1.0,2026-06-04,Needs improvement,20
+201,reasoning,57.95,Assistant v1.1,2026-06-05,Needs improvement,50
+202,reasoning,44.63,Assistant v1.0,2026-06-05,Needs improvement,40
+203,reasoning,51.08,Assistant v1.0,2026-06-05,Needs improvement,50
+204,reasoning,58.54,Assistant v1.1,2026-06-05,Needs improvement,50
+205,knowledge,93.43,Assistant v1.0,2026-06-05,Strong,90
+206,knowledge,80.85,Assistant v2.0,2026-06-05,Strong,80
+207,knowledge,51.27,Assistant v1.1,2026-06-05,Needs improvement,50
+208,knowledge,88.41,Assistant v1.2,2026-06-05,Strong,80
+209,code,75.18,Assistant v1.0,2026-06-05,Watch,70
+210,code,74.54,Assistant v1.1,2026-06-05,Watch,70
+211,code,62.18,Assistant v1.1,2026-06-05,Watch,60
+212,code,56.39,Assistant v1.1,2026-06-05,Needs improvement,50
+213,instruction_following,71.84,Assistant v1.0,2026-06-05,Watch,70
+214,instruction_following,64.71,Assistant v1.2,2026-06-05,Watch,60
+215,instruction_following,54.34,Assistant v1.2,2026-06-05,Needs improvement,50
+216,instruction_following,43.48,Assistant v2.0,2026-06-05,Needs improvement,40
+217,tool_calling,41.4,Assistant v1.1,2026-06-05,Needs improvement,40
+218,tool_calling,18.96,Assistant v2.0,2026-06-05,Needs improvement,10
+219,tool_calling,78.4,Assistant v1.0,2026-06-05,Watch,70
+220,tool_calling,9.9,Assistant v1.2,2026-06-05,Needs improvement,0
+221,reasoning,55.78,Assistant v1.0,2026-06-06,Needs improvement,50
+222,reasoning,31.15,Assistant v1.0,2026-06-06,Needs improvement,30
+223,reasoning,7.06,Assistant v1.1,2026-06-06,Needs improvement,0
+224,reasoning,72.86,Assistant v1.0,2026-06-06,Watch,70
+225,knowledge,84.15,Assistant v2.0,2026-06-06,Strong,80
+226,knowledge,89.29,Assistant v1.1,2026-06-06,Strong,80
+227,knowledge,62.46,Assistant v1.0,2026-06-06,Watch,60
+228,knowledge,73.62,Assistant v2.0,2026-06-06,Watch,70
+229,code,39.01,Assistant v1.2,2026-06-06,Needs improvement,30
+230,code,35.88,Assistant v1.0,2026-06-06,Needs improvement,30
+231,code,92.19,Assistant v2.0,2026-06-06,Strong,90
+232,code,26.89,Assistant v1.2,2026-06-06,Needs improvement,20
+233,instruction_following,69.54,Assistant v1.1,2026-06-06,Watch,60
+234,instruction_following,51.74,Assistant v2.0,2026-06-06,Needs improvement,50
+235,instruction_following,79.55,Assistant v1.0,2026-06-06,Watch,70
+236,instruction_following,82.75,Assistant v1.1,2026-06-06,Strong,80
+237,tool_calling,71.42,Assistant v2.0,2026-06-06,Watch,70
+238,tool_calling,92.19,Assistant v2.0,2026-06-06,Strong,90
+239,tool_calling,71.69,Assistant v2.0,2026-06-06,Watch,70
+240,tool_calling,34.65,Assistant v1.2,2026-06-06,Needs improvement,30
+241,reasoning,70.85,Assistant v2.0,2026-06-07,Watch,70
+242,reasoning,2.21,Assistant v1.1,2026-06-07,Needs improvement,0
+243,reasoning,72.04,Assistant v1.2,2026-06-07,Watch,70
+244,reasoning,37.21,Assistant v2.0,2026-06-07,Needs improvement,30
+245,knowledge,69.49,Assistant v1.1,2026-06-07,Watch,60
+246,knowledge,58.4,Assistant v1.2,2026-06-07,Needs improvement,50
+247,knowledge,94.48,Assistant v1.2,2026-06-07,Strong,90
+248,knowledge,40.62,Assistant v1.2,2026-06-07,Needs improvement,40
+249,code,59.97,Assistant v1.0,2026-06-07,Needs improvement,50
+250,code,64.05,Assistant v1.2,2026-06-07,Watch,60
+251,code,62.91,Assistant v1.1,2026-06-07,Watch,60
+252,code,55.67,Assistant v2.0,2026-06-07,Needs improvement,50
+253,instruction_following,71.21,Assistant v1.1,2026-06-07,Watch,70
+254,instruction_following,62.44,Assistant v1.1,2026-06-07,Watch,60
+255,instruction_following,51.95,Assistant v1.1,2026-06-07,Needs improvement,50
+256,instruction_following,64.74,Assistant v2.0,2026-06-07,Watch,60
+257,tool_calling,58.63,Assistant v1.2,2026-06-07,Needs improvement,50
+258,tool_calling,20.91,Assistant v1.0,2026-06-07,Needs improvement,20
+259,tool_calling,55.29,Assistant v1.1,2026-06-07,Needs improvement,50
+260,tool_calling,70.76,Assistant v1.1,2026-06-07,Watch,70
+261,reasoning,34.38,Assistant v2.0,2026-06-08,Needs improvement,30
+262,reasoning,76.26,Assistant v2.0,2026-06-08,Watch,70
+263,reasoning,85.41,Assistant v2.0,2026-06-08,Strong,80
+264,reasoning,81.61,Assistant v2.0,2026-06-08,Strong,80
+265,knowledge,82.11,Assistant v2.0,2026-06-08,Strong,80
+266,knowledge,32.53,Assistant v1.1,2026-06-08,Needs improvement,30
+267,knowledge,72.85,Assistant v1.2,2026-06-08,Watch,70
+268,knowledge,91.01,Assistant v1.1,2026-06-08,Strong,90
+269,code,14.36,Assistant v1.1,2026-06-08,Needs improvement,10
+270,code,55.19,Assistant v2.0,2026-06-08,Needs improvement,50
+271,code,88.69,Assistant v2.0,2026-06-08,Strong,80
+272,code,33.76,Assistant v1.0,2026-06-08,Needs improvement,30
+273,instruction_following,78.81,Assistant v2.0,2026-06-08,Watch,70
+274,instruction_following,70.26,Assistant v2.0,2026-06-08,Watch,70
+275,instruction_following,72.79,Assistant v2.0,2026-06-08,Watch,70
+276,instruction_following,57.53,Assistant v1.0,2026-06-08,Needs improvement,50
+277,tool_calling,47.06,Assistant v2.0,2026-06-08,Needs improvement,40
+278,tool_calling,53.23,Assistant v1.0,2026-06-08,Needs improvement,50
+279,tool_calling,37.81,Assistant v1.1,2026-06-08,Needs improvement,30
+280,tool_calling,69.16,Assistant v2.0,2026-06-08,Watch,60
+281,reasoning,28.23,Assistant v1.1,2026-06-09,Needs improvement,20
+282,reasoning,22.34,Assistant v1.0,2026-06-09,Needs improvement,20
+283,reasoning,39.23,Assistant v1.1,2026-06-09,Needs improvement,30
+284,reasoning,63.9,Assistant v2.0,2026-06-09,Watch,60
+285,knowledge,90.86,Assistant v2.0,2026-06-09,Strong,90
+286,knowledge,19.3,Assistant v1.2,2026-06-09,Needs improvement,10
+287,knowledge,91.88,Assistant v1.0,2026-06-09,Strong,90
+288,knowledge,83.7,Assistant v2.0,2026-06-09,Strong,80
+289,code,7.35,Assistant v1.0,2026-06-09,Needs improvement,0
+290,code,47.98,Assistant v2.0,2026-06-09,Needs improvement,40
+291,code,19.4,Assistant v1.2,2026-06-09,Needs improvement,10
+292,code,35.6,Assistant v2.0,2026-06-09,Needs improvement,30
+293,instruction_following,69.53,Assistant v1.2,2026-06-09,Watch,60
+294,instruction_following,85.06,Assistant v1.2,2026-06-09,Strong,80
+295,instruction_following,88.49,Assistant v1.2,2026-06-09,Strong,80
+296,instruction_following,74.3,Assistant v1.2,2026-06-09,Watch,70
+297,tool_calling,84.6,Assistant v1.1,2026-06-09,Strong,80
+298,tool_calling,74.72,Assistant v1.2,2026-06-09,Watch,70
+299,tool_calling,71.28,Assistant v1.2,2026-06-09,Watch,70
+300,tool_calling,95.46,Assistant v1.2,2026-06-09,Strong,90
+301,reasoning,47.97,Assistant v1.0,2026-06-10,Needs improvement,40
+302,reasoning,58.07,Assistant v1.2,2026-06-10,Needs improvement,50
+303,reasoning,81.02,Assistant v1.2,2026-06-10,Strong,80
+304,reasoning,20.35,Assistant v2.0,2026-06-10,Needs improvement,20
+305,knowledge,92.41,Assistant v2.0,2026-06-10,Strong,90
+306,knowledge,68.2,Assistant v1.0,2026-06-10,Watch,60
+307,knowledge,77.16,Assistant v2.0,2026-06-10,Watch,70
+308,knowledge,76.46,Assistant v1.2,2026-06-10,Watch,70
+309,code,67.7,Assistant v1.1,2026-06-10,Watch,60
+310,code,31.83,Assistant v2.0,2026-06-10,Needs improvement,30
+311,code,72.41,Assistant v1.1,2026-06-10,Watch,70
+312,code,42.08,Assistant v1.0,2026-06-10,Needs improvement,40
+313,instruction_following,75.98,Assistant v2.0,2026-06-10,Watch,70
+314,instruction_following,78.69,Assistant v1.0,2026-06-10,Watch,70
+315,instruction_following,100.0,Assistant v1.1,2026-06-10,Strong,90
+316,instruction_following,77.05,Assistant v1.2,2026-06-10,Watch,70
+317,tool_calling,75.53,Assistant v2.0,2026-06-10,Watch,70
+318,tool_calling,32.49,Assistant v1.0,2026-06-10,Needs improvement,30
+319,tool_calling,74.59,Assistant v2.0,2026-06-10,Watch,70
+320,tool_calling,48.59,Assistant v1.0,2026-06-10,Needs improvement,40
+321,reasoning,0.0,Assistant v1.0,2026-06-11,Needs improvement,0
+322,reasoning,39.28,Assistant v1.0,2026-06-11,Needs improvement,30
+323,reasoning,28.19,Assistant v2.0,2026-06-11,Needs improvement,20
+324,reasoning,48.95,Assistant v2.0,2026-06-11,Needs improvement,40
+325,knowledge,53.35,Assistant v1.1,2026-06-11,Needs improvement,50
+326,knowledge,68.69,Assistant v1.0,2026-06-11,Watch,60
+327,knowledge,87.3,Assistant v2.0,2026-06-11,Strong,80
+328,knowledge,65.84,Assistant v1.1,2026-06-11,Watch,60
+329,code,34.31,Assistant v1.0,2026-06-11,Needs improvement,30
+330,code,70.26,Assistant v1.1,2026-06-11,Watch,70
+331,code,58.41,Assistant v1.1,2026-06-11,Needs improvement,50
+332,code,43.16,Assistant v1.1,2026-06-11,Needs improvement,40
+333,instruction_following,94.82,Assistant v1.2,2026-06-11,Strong,90
+334,instruction_following,73.52,Assistant v1.0,2026-06-11,Watch,70
+335,instruction_following,100.0,Assistant v2.0,2026-06-11,Strong,90
+336,instruction_following,95.29,Assistant v1.1,2026-06-11,Strong,90
+337,tool_calling,79.0,Assistant v1.2,2026-06-11,Watch,70
+338,tool_calling,39.4,Assistant v1.2,2026-06-11,Needs improvement,30
+339,tool_calling,70.65,Assistant v1.1,2026-06-11,Watch,70
+340,tool_calling,55.69,Assistant v1.1,2026-06-11,Needs improvement,50
+341,reasoning,45.81,Assistant v1.1,2026-06-12,Needs improvement,40
+342,reasoning,67.35,Assistant v1.1,2026-06-12,Watch,60
+343,reasoning,74.0,Assistant v1.2,2026-06-12,Watch,70
+344,reasoning,73.79,Assistant v1.0,2026-06-12,Watch,70
+345,knowledge,92.09,Assistant v1.2,2026-06-12,Strong,90
+346,knowledge,57.44,Assistant v1.2,2026-06-12,Needs improvement,50
+347,knowledge,94.3,Assistant v1.1,2026-06-12,Strong,90
+348,knowledge,93.22,Assistant v1.0,2026-06-12,Strong,90
+349,code,15.15,Assistant v1.0,2026-06-12,Needs improvement,10
+350,code,40.25,Assistant v1.2,2026-06-12,Needs improvement,40
+351,code,32.81,Assistant v1.1,2026-06-12,Needs improvement,30
+352,code,71.52,Assistant v2.0,2026-06-12,Watch,70
+353,instruction_following,100.0,Assistant v2.0,2026-06-12,Strong,90
+354,instruction_following,72.45,Assistant v1.0,2026-06-12,Watch,70
+355,instruction_following,67.12,Assistant v1.1,2026-06-12,Watch,60
+356,instruction_following,44.72,Assistant v1.1,2026-06-12,Needs improvement,40
+357,tool_calling,68.61,Assistant v2.0,2026-06-12,Watch,60
+358,tool_calling,49.88,Assistant v1.0,2026-06-12,Needs improvement,40
+359,tool_calling,92.46,Assistant v2.0,2026-06-12,Strong,90
+360,tool_calling,56.68,Assistant v2.0,2026-06-12,Needs improvement,50
+361,reasoning,56.82,Assistant v2.0,2026-06-13,Needs improvement,50
+362,reasoning,25.18,Assistant v1.1,2026-06-13,Needs improvement,20
+363,reasoning,45.17,Assistant v1.0,2026-06-13,Needs improvement,40
+364,reasoning,44.09,Assistant v1.0,2026-06-13,Needs improvement,40
+365,knowledge,99.79,Assistant v1.2,2026-06-13,Strong,90
+366,knowledge,74.15,Assistant v1.1,2026-06-13,Watch,70
+367,knowledge,74.86,Assistant v1.1,2026-06-13,Watch,70
+368,knowledge,67.27,Assistant v1.1,2026-06-13,Watch,60
+369,code,39.73,Assistant v1.2,2026-06-13,Needs improvement,30
+370,code,85.69,Assistant v2.0,2026-06-13,Strong,80
+371,code,41.24,Assistant v1.2,2026-06-13,Needs improvement,40
+372,code,44.17,Assistant v2.0,2026-06-13,Needs improvement,40
+373,instruction_following,93.69,Assistant v1.2,2026-06-13,Strong,90
+374,instruction_following,87.72,Assistant v1.0,2026-06-13,Strong,80
+375,instruction_following,50.46,Assistant v1.2,2026-06-13,Needs improvement,50
+376,instruction_following,87.33,Assistant v1.0,2026-06-13,Strong,80
+377,tool_calling,70.61,Assistant v1.2,2026-06-13,Watch,70
+378,tool_calling,25.13,Assistant v2.0,2026-06-13,Needs improvement,20
+379,tool_calling,89.93,Assistant v1.1,2026-06-13,Strong,80
+380,tool_calling,53.89,Assistant v1.0,2026-06-13,Needs improvement,50
+381,reasoning,23.09,Assistant v1.0,2026-06-14,Needs improvement,20
+382,reasoning,44.09,Assistant v1.0,2026-06-14,Needs improvement,40
+383,reasoning,37.9,Assistant v1.0,2026-06-14,Needs improvement,30
+384,reasoning,77.79,Assistant v1.0,2026-06-14,Watch,70
+385,knowledge,38.44,Assistant v2.0,2026-06-14,Needs improvement,30
+386,knowledge,78.89,Assistant v1.2,2026-06-14,Watch,70
+387,knowledge,94.77,Assistant v2.0,2026-06-14,Strong,90
+388,knowledge,54.19,Assistant v1.2,2026-06-14,Needs improvement,50
+389,code,5.34,Assistant v1.0,2026-06-14,Needs improvement,0
+390,code,69.81,Assistant v1.1,2026-06-14,Watch,60
+391,code,33.56,Assistant v1.0,2026-06-14,Needs improvement,30
+392,code,64.04,Assistant v1.0,2026-06-14,Watch,60
+393,instruction_following,81.0,Assistant v1.2,2026-06-14,Strong,80
+394,instruction_following,64.36,Assistant v1.1,2026-06-14,Watch,60
+395,instruction_following,47.5,Assistant v2.0,2026-06-14,Needs improvement,40
+396,instruction_following,88.93,Assistant v1.2,2026-06-14,Strong,80
+397,tool_calling,38.98,Assistant v1.0,2026-06-14,Needs improvement,30
+398,tool_calling,88.29,Assistant v2.0,2026-06-14,Strong,80
+399,tool_calling,19.45,Assistant v2.0,2026-06-14,Needs improvement,10
+400,tool_calling,37.98,Assistant v1.0,2026-06-14,Needs improvement,30
+401,reasoning,45.32,Assistant v1.1,2026-06-15,Needs improvement,40
+402,reasoning,29.44,Assistant v2.0,2026-06-15,Needs improvement,20
+403,reasoning,72.61,Assistant v1.2,2026-06-15,Watch,70
+404,reasoning,24.63,Assistant v1.2,2026-06-15,Needs improvement,20
+405,knowledge,91.88,Assistant v1.2,2026-06-15,Strong,90
+406,knowledge,96.05,Assistant v2.0,2026-06-15,Strong,90
+407,knowledge,87.12,Assistant v1.1,2026-06-15,Strong,80
+408,knowledge,96.32,Assistant v2.0,2026-06-15,Strong,90
+409,code,34.88,Assistant v1.2,2026-06-15,Needs improvement,30
+410,code,62.62,Assistant v1.0,2026-06-15,Watch,60
+411,code,36.1,Assistant v1.1,2026-06-15,Needs improvement,30
+412,code,46.98,Assistant v1.1,2026-06-15,Needs improvement,40
+413,instruction_following,67.34,Assistant v1.2,2026-06-15,Watch,60
+414,instruction_following,47.13,Assistant v1.2,2026-06-15,Needs improvement,40
+415,instruction_following,83.15,Assistant v1.2,2026-06-15,Strong,80
+416,instruction_following,84.97,Assistant v1.1,2026-06-15,Strong,80
+417,tool_calling,45.78,Assistant v1.0,2026-06-15,Needs improvement,40
+418,tool_calling,50.49,Assistant v2.0,2026-06-15,Needs improvement,50
+419,tool_calling,49.04,Assistant v1.0,2026-06-15,Needs improvement,40
+420,tool_calling,43.75,Assistant v1.1,2026-06-15,Needs improvement,40
+421,reasoning,42.95,Assistant v1.2,2026-06-16,Needs improvement,40
+422,reasoning,30.02,Assistant v2.0,2026-06-16,Needs improvement,30
+423,reasoning,48.6,Assistant v1.1,2026-06-16,Needs improvement,40
+424,reasoning,63.67,Assistant v2.0,2026-06-16,Watch,60
+425,knowledge,73.69,Assistant v1.1,2026-06-16,Watch,70
+426,knowledge,45.28,Assistant v2.0,2026-06-16,Needs improvement,40
+427,knowledge,94.33,Assistant v1.1,2026-06-16,Strong,90
+428,knowledge,61.62,Assistant v1.2,2026-06-16,Watch,60
+429,code,90.99,Assistant v2.0,2026-06-16,Strong,90
+430,code,47.68,Assistant v1.1,2026-06-16,Needs improvement,40
+431,code,78.06,Assistant v1.2,2026-06-16,Watch,70
+432,code,57.04,Assistant v1.0,2026-06-16,Needs improvement,50
+433,instruction_following,92.99,Assistant v2.0,2026-06-16,Strong,90
+434,instruction_following,91.05,Assistant v1.1,2026-06-16,Strong,90
+435,instruction_following,69.35,Assistant v1.2,2026-06-16,Watch,60
+436,instruction_following,66.87,Assistant v1.1,2026-06-16,Watch,60
+437,tool_calling,69.63,Assistant v1.1,2026-06-16,Watch,60
+438,tool_calling,46.46,Assistant v1.2,2026-06-16,Needs improvement,40
+439,tool_calling,73.91,Assistant v2.0,2026-06-16,Watch,70
+440,tool_calling,75.19,Assistant v1.2,2026-06-16,Watch,70
+441,reasoning,74.83,Assistant v2.0,2026-06-17,Watch,70
+442,reasoning,66.94,Assistant v1.2,2026-06-17,Watch,60
+443,reasoning,9.41,Assistant v1.1,2026-06-17,Needs improvement,0
+444,reasoning,48.42,Assistant v2.0,2026-06-17,Needs improvement,40
+445,knowledge,83.59,Assistant v1.2,2026-06-17,Strong,80
+446,knowledge,82.51,Assistant v2.0,2026-06-17,Strong,80
+447,knowledge,81.21,Assistant v1.2,2026-06-17,Strong,80
+448,knowledge,72.21,Assistant v1.2,2026-06-17,Watch,70
+449,code,35.52,Assistant v1.1,2026-06-17,Needs improvement,30
+450,code,29.92,Assistant v1.1,2026-06-17,Needs improvement,20
+451,code,65.7,Assistant v2.0,2026-06-17,Watch,60
+452,code,14.35,Assistant v1.0,2026-06-17,Needs improvement,10
+453,instruction_following,49.78,Assistant v2.0,2026-06-17,Needs improvement,40
+454,instruction_following,72.04,Assistant v2.0,2026-06-17,Watch,70
+455,instruction_following,39.85,Assistant v1.0,2026-06-17,Needs improvement,30
+456,instruction_following,75.25,Assistant v1.2,2026-06-17,Watch,70
+457,tool_calling,44.78,Assistant v1.2,2026-06-17,Needs improvement,40
+458,tool_calling,38.93,Assistant v1.2,2026-06-17,Needs improvement,30
+459,tool_calling,10.07,Assistant v1.0,2026-06-17,Needs improvement,10
+460,tool_calling,67.5,Assistant v1.0,2026-06-17,Watch,60
+461,reasoning,29.41,Assistant v1.2,2026-06-18,Needs improvement,20
+462,reasoning,18.31,Assistant v2.0,2026-06-18,Needs improvement,10
+463,reasoning,66.6,Assistant v1.2,2026-06-18,Watch,60
+464,reasoning,19.66,Assistant v1.2,2026-06-18,Needs improvement,10
+465,knowledge,75.4,Assistant v1.1,2026-06-18,Watch,70
+466,knowledge,67.78,Assistant v1.0,2026-06-18,Watch,60
+467,knowledge,80.55,Assistant v1.1,2026-06-18,Strong,80
+468,knowledge,82.18,Assistant v1.1,2026-06-18,Strong,80
+469,code,25.77,Assistant v1.1,2026-06-18,Needs improvement,20
+470,code,25.75,Assistant v1.0,2026-06-18,Needs improvement,20
+471,code,29.44,Assistant v1.0,2026-06-18,Needs improvement,20
+472,code,69.98,Assistant v1.1,2026-06-18,Watch,60
+473,instruction_following,70.48,Assistant v2.0,2026-06-18,Watch,70
+474,instruction_following,65.28,Assistant v1.0,2026-06-18,Watch,60
+475,instruction_following,70.76,Assistant v2.0,2026-06-18,Watch,70
+476,instruction_following,83.82,Assistant v1.2,2026-06-18,Strong,80
+477,tool_calling,70.16,Assistant v1.0,2026-06-18,Watch,70
+478,tool_calling,70.13,Assistant v1.0,2026-06-18,Watch,70
+479,tool_calling,100.0,Assistant v1.2,2026-06-18,Strong,90
+480,tool_calling,75.46,Assistant v2.0,2026-06-18,Watch,70
+481,reasoning,11.89,Assistant v1.0,2026-06-19,Needs improvement,10
+482,reasoning,46.46,Assistant v1.1,2026-06-19,Needs improvement,40
+483,reasoning,65.73,Assistant v2.0,2026-06-19,Watch,60
+484,reasoning,55.53,Assistant v1.0,2026-06-19,Needs improvement,50
+485,knowledge,94.83,Assistant v1.2,2026-06-19,Strong,90
+486,knowledge,76.82,Assistant v1.2,2026-06-19,Watch,70
+487,knowledge,100.0,Assistant v1.2,2026-06-19,Strong,90
+488,knowledge,78.49,Assistant v1.2,2026-06-19,Watch,70
+489,code,32.29,Assistant v1.2,2026-06-19,Needs improvement,30
+490,code,39.92,Assistant v1.2,2026-06-19,Needs improvement,30
+491,code,85.09,Assistant v1.2,2026-06-19,Strong,80
+492,code,50.97,Assistant v2.0,2026-06-19,Needs improvement,50
+493,instruction_following,77.45,Assistant v1.2,2026-06-19,Watch,70
+494,instruction_following,48.93,Assistant v2.0,2026-06-19,Needs improvement,40
+495,instruction_following,65.59,Assistant v2.0,2026-06-19,Watch,60
+496,instruction_following,63.85,Assistant v1.1,2026-06-19,Watch,60
+497,tool_calling,54.69,Assistant v1.2,2026-06-19,Needs improvement,50
+498,tool_calling,51.14,Assistant v1.2,2026-06-19,Needs improvement,50
+499,tool_calling,32.18,Assistant v2.0,2026-06-19,Needs improvement,30
+500,tool_calling,58.59,Assistant v1.1,2026-06-19,Needs improvement,50
+501,reasoning,12.41,Assistant v1.1,2026-06-20,Needs improvement,10
+502,reasoning,89.45,Assistant v2.0,2026-06-20,Strong,80
+503,reasoning,55.58,Assistant v1.2,2026-06-20,Needs improvement,50
+504,reasoning,71.54,Assistant v2.0,2026-06-20,Watch,70
+505,knowledge,98.12,Assistant v2.0,2026-06-20,Strong,90
+506,knowledge,59.29,Assistant v2.0,2026-06-20,Needs improvement,50
+507,knowledge,67.3,Assistant v1.1,2026-06-20,Watch,60
+508,knowledge,74.63,Assistant v1.2,2026-06-20,Watch,70
+509,code,40.95,Assistant v1.1,2026-06-20,Needs improvement,40
+510,code,27.69,Assistant v1.0,2026-06-20,Needs improvement,20
+511,code,47.62,Assistant v1.1,2026-06-20,Needs improvement,40
+512,code,61.52,Assistant v2.0,2026-06-20,Watch,60
+513,instruction_following,75.17,Assistant v2.0,2026-06-20,Watch,70
+514,instruction_following,100.0,Assistant v2.0,2026-06-20,Strong,90
+515,instruction_following,73.3,Assistant v1.0,2026-06-20,Watch,70
+516,instruction_following,56.71,Assistant v2.0,2026-06-20,Needs improvement,50
+517,tool_calling,58.54,Assistant v1.0,2026-06-20,Needs improvement,50
+518,tool_calling,78.39,Assistant v1.2,2026-06-20,Watch,70
+519,tool_calling,48.01,Assistant v1.0,2026-06-20,Needs improvement,40
+520,tool_calling,58.25,Assistant v1.0,2026-06-20,Needs improvement,50
+521,reasoning,65.25,Assistant v1.0,2026-06-21,Watch,60
+522,reasoning,53.43,Assistant v1.2,2026-06-21,Needs improvement,50
+523,reasoning,71.67,Assistant v2.0,2026-06-21,Watch,70
+524,reasoning,19.84,Assistant v1.0,2026-06-21,Needs improvement,10
+525,knowledge,84.33,Assistant v1.0,2026-06-21,Strong,80
+526,knowledge,71.68,Assistant v2.0,2026-06-21,Watch,70
+527,knowledge,77.25,Assistant v1.0,2026-06-21,Watch,70
+528,knowledge,52.45,Assistant v1.0,2026-06-21,Needs improvement,50
+529,code,60.6,Assistant v1.1,2026-06-21,Watch,60
+530,code,56.69,Assistant v1.2,2026-06-21,Needs improvement,50
+531,code,45.44,Assistant v1.2,2026-06-21,Needs improvement,40
+532,code,76.1,Assistant v1.1,2026-06-21,Watch,70
+533,instruction_following,77.59,Assistant v1.2,2026-06-21,Watch,70
+534,instruction_following,80.39,Assistant v1.0,2026-06-21,Strong,80
+535,instruction_following,77.44,Assistant v2.0,2026-06-21,Watch,70
+536,instruction_following,81.67,Assistant v1.0,2026-06-21,Strong,80
+537,tool_calling,37.14,Assistant v1.1,2026-06-21,Needs improvement,30
+538,tool_calling,64.7,Assistant v1.2,2026-06-21,Watch,60
+539,tool_calling,40.05,Assistant v1.0,2026-06-21,Needs improvement,40
+540,tool_calling,15.8,Assistant v1.0,2026-06-21,Needs improvement,10
+541,reasoning,50.34,Assistant v2.0,2026-06-22,Needs improvement,50
+542,reasoning,27.07,Assistant v1.0,2026-06-22,Needs improvement,20
+543,reasoning,30.25,Assistant v2.0,2026-06-22,Needs improvement,30
+544,reasoning,63.0,Assistant v1.1,2026-06-22,Watch,60
+545,knowledge,90.27,Assistant v1.1,2026-06-22,Strong,90
+546,knowledge,81.15,Assistant v2.0,2026-06-22,Strong,80
+547,knowledge,74.34,Assistant v1.2,2026-06-22,Watch,70
+548,knowledge,52.62,Assistant v1.1,2026-06-22,Needs improvement,50
+549,code,60.3,Assistant v1.2,2026-06-22,Watch,60
+550,code,30.97,Assistant v1.1,2026-06-22,Needs improvement,30
+551,code,55.95,Assistant v1.0,2026-06-22,Needs improvement,50
+552,code,66.05,Assistant v2.0,2026-06-22,Watch,60
+553,instruction_following,65.88,Assistant v1.2,2026-06-22,Watch,60
+554,instruction_following,95.52,Assistant v1.2,2026-06-22,Strong,90
+555,instruction_following,58.19,Assistant v1.0,2026-06-22,Needs improvement,50
+556,instruction_following,88.64,Assistant v2.0,2026-06-22,Strong,80
+557,tool_calling,52.55,Assistant v1.0,2026-06-22,Needs improvement,50
+558,tool_calling,23.41,Assistant v1.1,2026-06-22,Needs improvement,20
+559,tool_calling,47.03,Assistant v1.1,2026-06-22,Needs improvement,40
+560,tool_calling,73.44,Assistant v2.0,2026-06-22,Watch,70
+561,reasoning,80.48,Assistant v1.1,2026-06-23,Strong,80
+562,reasoning,48.28,Assistant v1.2,2026-06-23,Needs improvement,40
+563,reasoning,53.02,Assistant v1.1,2026-06-23,Needs improvement,50
+564,reasoning,39.59,Assistant v1.2,2026-06-23,Needs improvement,30
+565,knowledge,54.06,Assistant v2.0,2026-06-23,Needs improvement,50
+566,knowledge,88.46,Assistant v1.1,2026-06-23,Strong,80
+567,knowledge,57.53,Assistant v2.0,2026-06-23,Needs improvement,50
+568,knowledge,37.04,Assistant v1.1,2026-06-23,Needs improvement,30
+569,code,20.08,Assistant v1.2,2026-06-23,Needs improvement,20
+570,code,81.35,Assistant v2.0,2026-06-23,Strong,80
+571,code,73.59,Assistant v1.2,2026-06-23,Watch,70
+572,code,63.1,Assistant v2.0,2026-06-23,Watch,60
+573,instruction_following,96.96,Assistant v1.2,2026-06-23,Strong,90
+574,instruction_following,65.13,Assistant v1.2,2026-06-23,Watch,60
+575,instruction_following,77.74,Assistant v1.0,2026-06-23,Watch,70
+576,instruction_following,59.02,Assistant v1.1,2026-06-23,Needs improvement,50
+577,tool_calling,86.2,Assistant v1.2,2026-06-23,Strong,80
+578,tool_calling,77.0,Assistant v2.0,2026-06-23,Watch,70
+579,tool_calling,83.8,Assistant v1.2,2026-06-23,Strong,80
+580,tool_calling,56.45,Assistant v2.0,2026-06-23,Needs improvement,50
+581,reasoning,79.79,Assistant v1.2,2026-06-24,Watch,70
+582,reasoning,79.02,Assistant v1.2,2026-06-24,Watch,70
+583,reasoning,59.23,Assistant v2.0,2026-06-24,Needs improvement,50
+584,reasoning,31.59,Assistant v1.0,2026-06-24,Needs improvement,30
+585,knowledge,81.88,Assistant v1.1,2026-06-24,Strong,80
+586,knowledge,77.95,Assistant v1.2,2026-06-24,Watch,70
+587,knowledge,67.26,Assistant v1.1,2026-06-24,Watch,60
+588,knowledge,76.43,Assistant v2.0,2026-06-24,Watch,70
+589,code,39.79,Assistant v1.1,2026-06-24,Needs improvement,30
+590,code,84.36,Assistant v1.1,2026-06-24,Strong,80
+591,code,66.98,Assistant v1.2,2026-06-24,Watch,60
+592,code,58.71,Assistant v1.1,2026-06-24,Needs improvement,50
+593,instruction_following,50.33,Assistant v1.2,2026-06-24,Needs improvement,50
+594,instruction_following,55.05,Assistant v1.1,2026-06-24,Needs improvement,50
+595,instruction_following,71.45,Assistant v1.2,2026-06-24,Watch,70
+596,instruction_following,50.26,Assistant v2.0,2026-06-24,Needs improvement,50
+597,tool_calling,49.18,Assistant v1.0,2026-06-24,Needs improvement,40
+598,tool_calling,86.49,Assistant v1.1,2026-06-24,Strong,80
+599,tool_calling,18.2,Assistant v1.2,2026-06-24,Needs improvement,10
+600,tool_calling,76.78,Assistant v1.2,2026-06-24,Watch,70
+601,reasoning,77.17,Assistant v2.0,2026-06-25,Watch,70
+602,reasoning,26.0,Assistant v1.0,2026-06-25,Needs improvement,20
+603,reasoning,70.31,Assistant v2.0,2026-06-25,Watch,70
+604,reasoning,63.52,Assistant v1.2,2026-06-25,Watch,60
+605,knowledge,57.49,Assistant v1.1,2026-06-25,Needs improvement,50
+606,knowledge,78.45,Assistant v1.0,2026-06-25,Watch,70
+607,knowledge,100.0,Assistant v2.0,2026-06-25,Strong,90
+608,knowledge,86.46,Assistant v2.0,2026-06-25,Strong,80
+609,code,89.56,Assistant v1.1,2026-06-25,Strong,80
+610,code,72.32,Assistant v2.0,2026-06-25,Watch,70
+611,code,57.11,Assistant v2.0,2026-06-25,Needs improvement,50
+612,code,27.2,Assistant v1.0,2026-06-25,Needs improvement,20
+613,instruction_following,78.32,Assistant v2.0,2026-06-25,Watch,70
+614,instruction_following,72.78,Assistant v2.0,2026-06-25,Watch,70
+615,instruction_following,22.07,Assistant v1.0,2026-06-25,Needs improvement,20
+616,instruction_following,75.5,Assistant v2.0,2026-06-25,Watch,70
+617,tool_calling,65.73,Assistant v2.0,2026-06-25,Watch,60
+618,tool_calling,70.57,Assistant v1.0,2026-06-25,Watch,70
+619,tool_calling,71.83,Assistant v1.1,2026-06-25,Watch,70
+620,tool_calling,53.53,Assistant v1.2,2026-06-25,Needs improvement,50
+621,reasoning,38.19,Assistant v1.2,2026-06-26,Needs improvement,30
+622,reasoning,24.61,Assistant v1.0,2026-06-26,Needs improvement,20
+623,reasoning,54.0,Assistant v1.2,2026-06-26,Needs improvement,50
+624,reasoning,52.96,Assistant v1.0,2026-06-26,Needs improvement,50
+625,knowledge,88.24,Assistant v2.0,2026-06-26,Strong,80
+626,knowledge,84.9,Assistant v1.2,2026-06-26,Strong,80
+627,knowledge,60.8,Assistant v1.2,2026-06-26,Watch,60
+628,knowledge,46.34,Assistant v1.0,2026-06-26,Needs improvement,40
+629,code,43.95,Assistant v1.2,2026-06-26,Needs improvement,40
+630,code,58.33,Assistant v1.1,2026-06-26,Needs improvement,50
+631,code,78.28,Assistant v2.0,2026-06-26,Watch,70
+632,code,80.31,Assistant v1.2,2026-06-26,Strong,80
+633,instruction_following,99.86,Assistant v1.2,2026-06-26,Strong,90
+634,instruction_following,52.61,Assistant v2.0,2026-06-26,Needs improvement,50
+635,instruction_following,63.47,Assistant v1.2,2026-06-26,Watch,60
+636,instruction_following,95.49,Assistant v2.0,2026-06-26,Strong,90
+637,tool_calling,21.97,Assistant v2.0,2026-06-26,Needs improvement,20
+638,tool_calling,50.6,Assistant v1.0,2026-06-26,Needs improvement,50
+639,tool_calling,45.24,Assistant v2.0,2026-06-26,Needs improvement,40
+640,tool_calling,71.56,Assistant v2.0,2026-06-26,Watch,70
+641,reasoning,72.19,Assistant v1.2,2026-06-27,Watch,70
+642,reasoning,55.47,Assistant v1.0,2026-06-27,Needs improvement,50
+643,reasoning,24.69,Assistant v1.2,2026-06-27,Needs improvement,20
+644,reasoning,36.75,Assistant v1.1,2026-06-27,Needs improvement,30
+645,knowledge,45.52,Assistant v1.0,2026-06-27,Needs improvement,40
+646,knowledge,90.73,Assistant v2.0,2026-06-27,Strong,90
+647,knowledge,67.11,Assistant v1.0,2026-06-27,Watch,60
+648,knowledge,89.08,Assistant v1.2,2026-06-27,Strong,80
+649,code,54.77,Assistant v1.1,2026-06-27,Needs improvement,50
+650,code,60.1,Assistant v1.0,2026-06-27,Watch,60
+651,code,55.74,Assistant v1.0,2026-06-27,Needs improvement,50
+652,code,44.46,Assistant v1.1,2026-06-27,Needs improvement,40
+653,instruction_following,87.09,Assistant v1.0,2026-06-27,Strong,80
+654,instruction_following,100.0,Assistant v2.0,2026-06-27,Strong,90
+655,instruction_following,59.01,Assistant v1.0,2026-06-27,Needs improvement,50
+656,instruction_following,68.54,Assistant v1.2,2026-06-27,Watch,60
+657,tool_calling,37.5,Assistant v1.1,2026-06-27,Needs improvement,30
+658,tool_calling,60.3,Assistant v1.2,2026-06-27,Watch,60
+659,tool_calling,56.25,Assistant v1.2,2026-06-27,Needs improvement,50
+660,tool_calling,69.97,Assistant v1.1,2026-06-27,Watch,60
+661,reasoning,48.45,Assistant v1.2,2026-06-28,Needs improvement,40
+662,reasoning,27.54,Assistant v1.2,2026-06-28,Needs improvement,20
+663,reasoning,68.76,Assistant v2.0,2026-06-28,Watch,60
+664,reasoning,20.09,Assistant v1.2,2026-06-28,Needs improvement,20
+665,knowledge,60.68,Assistant v1.0,2026-06-28,Watch,60
+666,knowledge,77.56,Assistant v1.1,2026-06-28,Watch,70
+667,knowledge,76.87,Assistant v1.1,2026-06-28,Watch,70
+668,knowledge,64.16,Assistant v1.2,2026-06-28,Watch,60
+669,code,50.27,Assistant v1.0,2026-06-28,Needs improvement,50
+670,code,68.08,Assistant v2.0,2026-06-28,Watch,60
+671,code,58.03,Assistant v1.0,2026-06-28,Needs improvement,50
+672,code,45.69,Assistant v2.0,2026-06-28,Needs improvement,40
+673,instruction_following,86.9,Assistant v2.0,2026-06-28,Strong,80
+674,instruction_following,51.07,Assistant v1.1,2026-06-28,Needs improvement,50
+675,instruction_following,100.0,Assistant v2.0,2026-06-28,Strong,90
+676,instruction_following,84.63,Assistant v1.0,2026-06-28,Strong,80
+677,tool_calling,45.56,Assistant v1.2,2026-06-28,Needs improvement,40
+678,tool_calling,56.7,Assistant v1.2,2026-06-28,Needs improvement,50
+679,tool_calling,66.68,Assistant v1.0,2026-06-28,Watch,60
+680,tool_calling,44.52,Assistant v1.1,2026-06-28,Needs improvement,40
+681,reasoning,59.93,Assistant v1.1,2026-06-29,Needs improvement,50
+682,reasoning,27.89,Assistant v1.1,2026-06-29,Needs improvement,20
+683,reasoning,82.69,Assistant v2.0,2026-06-29,Strong,80
+684,reasoning,94.67,Assistant v2.0,2026-06-29,Strong,90
+685,knowledge,75.92,Assistant v1.2,2026-06-29,Watch,70
+686,knowledge,69.78,Assistant v2.0,2026-06-29,Watch,60
+687,knowledge,77.85,Assistant v1.2,2026-06-29,Watch,70
+688,knowledge,37.66,Assistant v1.0,2026-06-29,Needs improvement,30
+689,code,54.91,Assistant v1.0,2026-06-29,Needs improvement,50
+690,code,66.02,Assistant v1.0,2026-06-29,Watch,60
+691,code,72.22,Assistant v1.0,2026-06-29,Watch,70
+692,code,42.76,Assistant v2.0,2026-06-29,Needs improvement,40
+693,instruction_following,100.0,Assistant v1.2,2026-06-29,Strong,90
+694,instruction_following,30.04,Assistant v1.1,2026-06-29,Needs improvement,30
+695,instruction_following,47.33,Assistant v1.0,2026-06-29,Needs improvement,40
+696,instruction_following,88.16,Assistant v1.1,2026-06-29,Strong,80
+697,tool_calling,43.1,Assistant v2.0,2026-06-29,Needs improvement,40
+698,tool_calling,62.88,Assistant v2.0,2026-06-29,Watch,60
+699,tool_calling,58.66,Assistant v2.0,2026-06-29,Needs improvement,50
+700,tool_calling,70.08,Assistant v1.0,2026-06-29,Watch,70
+701,reasoning,77.62,Assistant v1.2,2026-06-30,Watch,70
+702,reasoning,10.56,Assistant v1.1,2026-06-30,Needs improvement,10
+703,reasoning,84.72,Assistant v1.2,2026-06-30,Strong,80
+704,reasoning,38.11,Assistant v1.1,2026-06-30,Needs improvement,30
+705,knowledge,67.3,Assistant v2.0,2026-06-30,Watch,60
+706,knowledge,42.91,Assistant v1.1,2026-06-30,Needs improvement,40
+707,knowledge,91.78,Assistant v1.2,2026-06-30,Strong,90
+708,knowledge,49.04,Assistant v2.0,2026-06-30,Needs improvement,40
+709,code,40.8,Assistant v1.0,2026-06-30,Needs improvement,40
+710,code,30.59,Assistant v1.1,2026-06-30,Needs improvement,30
+711,code,53.58,Assistant v2.0,2026-06-30,Needs improvement,50
+712,code,77.1,Assistant v1.2,2026-06-30,Watch,70
+713,instruction_following,86.51,Assistant v1.2,2026-06-30,Strong,80
+714,instruction_following,41.59,Assistant v1.0,2026-06-30,Needs improvement,40
+715,instruction_following,80.38,Assistant v1.2,2026-06-30,Strong,80
+716,instruction_following,57.13,Assistant v1.2,2026-06-30,Needs improvement,50
+717,tool_calling,62.36,Assistant v1.1,2026-06-30,Watch,60
+718,tool_calling,68.81,Assistant v1.2,2026-06-30,Watch,60
+719,tool_calling,25.14,Assistant v1.0,2026-06-30,Needs improvement,20
+720,tool_calling,46.14,Assistant v1.1,2026-06-30,Needs improvement,40
+721,reasoning,49.44,Assistant v1.1,2026-07-01,Needs improvement,40
+722,reasoning,32.34,Assistant v1.0,2026-07-01,Needs improvement,30
+723,reasoning,62.02,Assistant v1.1,2026-07-01,Watch,60
+724,reasoning,57.79,Assistant v1.0,2026-07-01,Needs improvement,50
+725,knowledge,80.68,Assistant v1.2,2026-07-01,Strong,80
+726,knowledge,95.93,Assistant v1.1,2026-07-01,Strong,90
+727,knowledge,85.81,Assistant v1.2,2026-07-01,Strong,80
+728,knowledge,68.76,Assistant v1.2,2026-07-01,Watch,60
+729,code,77.48,Assistant v2.0,2026-07-01,Watch,70
+730,code,79.87,Assistant v1.0,2026-07-01,Watch,70
+731,code,70.75,Assistant v1.1,2026-07-01,Watch,70
+732,code,81.84,Assistant v1.1,2026-07-01,Strong,80
+733,instruction_following,85.68,Assistant v1.1,2026-07-01,Strong,80
+734,instruction_following,98.75,Assistant v1.2,2026-07-01,Strong,90
+735,instruction_following,86.43,Assistant v1.1,2026-07-01,Strong,80
+736,instruction_following,65.64,Assistant v1.1,2026-07-01,Watch,60
+737,tool_calling,60.05,Assistant v1.0,2026-07-01,Watch,60
+738,tool_calling,58.56,Assistant v1.0,2026-07-01,Needs improvement,50
+739,tool_calling,69.82,Assistant v1.1,2026-07-01,Watch,60
+740,tool_calling,55.37,Assistant v1.2,2026-07-01,Needs improvement,50
+741,reasoning,48.45,Assistant v1.1,2026-07-02,Needs improvement,40
+742,reasoning,50.16,Assistant v2.0,2026-07-02,Needs improvement,50
+743,reasoning,75.97,Assistant v1.2,2026-07-02,Watch,70
+744,reasoning,29.64,Assistant v1.1,2026-07-02,Needs improvement,20
+745,knowledge,78.75,Assistant v2.0,2026-07-02,Watch,70
+746,knowledge,65.64,Assistant v1.1,2026-07-02,Watch,60
+747,knowledge,51.0,Assistant v1.0,2026-07-02,Needs improvement,50
+748,knowledge,79.17,Assistant v1.1,2026-07-02,Watch,70
+749,code,62.72,Assistant v1.0,2026-07-02,Watch,60
+750,code,52.04,Assistant v2.0,2026-07-02,Needs improvement,50
+751,code,38.03,Assistant v1.2,2026-07-02,Needs improvement,30
+752,code,47.33,Assistant v1.0,2026-07-02,Needs improvement,40
+753,instruction_following,60.68,Assistant v1.2,2026-07-02,Watch,60
+754,instruction_following,100.0,Assistant v2.0,2026-07-02,Strong,90
+755,instruction_following,89.2,Assistant v1.1,2026-07-02,Strong,80
+756,instruction_following,100.0,Assistant v2.0,2026-07-02,Strong,90
+757,tool_calling,55.93,Assistant v1.1,2026-07-02,Needs improvement,50
+758,tool_calling,40.13,Assistant v1.1,2026-07-02,Needs improvement,40
+759,tool_calling,28.46,Assistant v1.1,2026-07-02,Needs improvement,20
+760,tool_calling,66.31,Assistant v2.0,2026-07-02,Watch,60
+761,reasoning,63.01,Assistant v2.0,2026-07-03,Watch,60
+762,reasoning,75.77,Assistant v1.0,2026-07-03,Watch,70
+763,reasoning,41.12,Assistant v1.0,2026-07-03,Needs improvement,40
+764,reasoning,36.68,Assistant v1.1,2026-07-03,Needs improvement,30
+765,knowledge,84.24,Assistant v1.0,2026-07-03,Strong,80
+766,knowledge,60.0,Assistant v1.2,2026-07-03,Needs improvement,50
+767,knowledge,73.52,Assistant v1.1,2026-07-03,Watch,70
+768,knowledge,58.72,Assistant v1.2,2026-07-03,Needs improvement,50
+769,code,27.46,Assistant v1.1,2026-07-03,Needs improvement,20
+770,code,44.43,Assistant v1.1,2026-07-03,Needs improvement,40
+771,code,70.15,Assistant v1.0,2026-07-03,Watch,70
+772,code,37.97,Assistant v1.2,2026-07-03,Needs improvement,30
+773,instruction_following,98.58,Assistant v1.1,2026-07-03,Strong,90
+774,instruction_following,56.4,Assistant v1.1,2026-07-03,Needs improvement,50
+775,instruction_following,84.05,Assistant v1.2,2026-07-03,Strong,80
+776,instruction_following,83.97,Assistant v1.0,2026-07-03,Strong,80
+777,tool_calling,58.01,Assistant v1.2,2026-07-03,Needs improvement,50
+778,tool_calling,53.01,Assistant v2.0,2026-07-03,Needs improvement,50
+779,tool_calling,55.5,Assistant v1.2,2026-07-03,Needs improvement,50
+780,tool_calling,55.1,Assistant v1.2,2026-07-03,Needs improvement,50
+781,reasoning,31.67,Assistant v1.0,2026-07-04,Needs improvement,30
+782,reasoning,56.16,Assistant v2.0,2026-07-04,Needs improvement,50
+783,reasoning,47.96,Assistant v2.0,2026-07-04,Needs improvement,40
+784,reasoning,84.17,Assistant v2.0,2026-07-04,Strong,80
+785,knowledge,80.5,Assistant v2.0,2026-07-04,Strong,80
+786,knowledge,56.84,Assistant v1.2,2026-07-04,Needs improvement,50
+787,knowledge,66.4,Assistant v1.2,2026-07-04,Watch,60
+788,knowledge,100.0,Assistant v1.2,2026-07-04,Strong,90
+789,code,73.85,Assistant v1.2,2026-07-04,Watch,70
+790,code,84.0,Assistant v2.0,2026-07-04,Strong,80
+791,code,100.0,Assistant v2.0,2026-07-04,Strong,90
+792,code,59.99,Assistant v1.1,2026-07-04,Needs improvement,50
+793,instruction_following,44.72,Assistant v1.2,2026-07-04,Needs improvement,40
+794,instruction_following,50.78,Assistant v1.0,2026-07-04,Needs improvement,50
+795,instruction_following,81.43,Assistant v1.1,2026-07-04,Strong,80
+796,instruction_following,48.85,Assistant v1.0,2026-07-04,Needs improvement,40
+797,tool_calling,70.77,Assistant v1.1,2026-07-04,Watch,70
+798,tool_calling,61.85,Assistant v1.2,2026-07-04,Watch,60
+799,tool_calling,70.12,Assistant v1.1,2026-07-04,Watch,70
+800,tool_calling,78.72,Assistant v2.0,2026-07-04,Watch,70
+801,reasoning,32.93,Assistant v1.2,2026-07-05,Needs improvement,30
+802,reasoning,80.43,Assistant v1.1,2026-07-05,Strong,80
+803,reasoning,52.92,Assistant v1.0,2026-07-05,Needs improvement,50
+804,reasoning,77.8,Assistant v2.0,2026-07-05,Watch,70
+805,knowledge,85.44,Assistant v1.1,2026-07-05,Strong,80
+806,knowledge,68.3,Assistant v1.2,2026-07-05,Watch,60
+807,knowledge,51.56,Assistant v1.2,2026-07-05,Needs improvement,50
+808,knowledge,54.2,Assistant v2.0,2026-07-05,Needs improvement,50
+809,code,26.7,Assistant v1.2,2026-07-05,Needs improvement,20
+810,code,54.83,Assistant v1.1,2026-07-05,Needs improvement,50
+811,code,58.68,Assistant v1.1,2026-07-05,Needs improvement,50
+812,code,34.9,Assistant v1.1,2026-07-05,Needs improvement,30
+813,instruction_following,45.96,Assistant v1.2,2026-07-05,Needs improvement,40
+814,instruction_following,66.7,Assistant v1.1,2026-07-05,Watch,60
+815,instruction_following,88.38,Assistant v1.1,2026-07-05,Strong,80
+816,instruction_following,100.0,Assistant v2.0,2026-07-05,Strong,90
+817,tool_calling,33.2,Assistant v1.2,2026-07-05,Needs improvement,30
+818,tool_calling,56.9,Assistant v1.0,2026-07-05,Needs improvement,50
+819,tool_calling,72.32,Assistant v2.0,2026-07-05,Watch,70
+820,tool_calling,52.44,Assistant v1.0,2026-07-05,Needs improvement,50
+821,reasoning,91.52,Assistant v1.2,2026-07-06,Strong,90
+822,reasoning,67.54,Assistant v1.2,2026-07-06,Watch,60
+823,reasoning,30.5,Assistant v1.0,2026-07-06,Needs improvement,30
+824,reasoning,23.13,Assistant v2.0,2026-07-06,Needs improvement,20
+825,knowledge,95.8,Assistant v1.1,2026-07-06,Strong,90
+826,knowledge,76.93,Assistant v1.0,2026-07-06,Watch,70
+827,knowledge,74.1,Assistant v2.0,2026-07-06,Watch,70
+828,knowledge,74.85,Assistant v1.0,2026-07-06,Watch,70
+829,code,75.65,Assistant v1.2,2026-07-06,Watch,70
+830,code,34.52,Assistant v1.1,2026-07-06,Needs improvement,30
+831,code,69.9,Assistant v1.1,2026-07-06,Watch,60
+832,code,53.16,Assistant v2.0,2026-07-06,Needs improvement,50
+833,instruction_following,58.67,Assistant v1.1,2026-07-06,Needs improvement,50
+834,instruction_following,66.91,Assistant v1.2,2026-07-06,Watch,60
+835,instruction_following,83.58,Assistant v1.0,2026-07-06,Strong,80
+836,instruction_following,95.44,Assistant v1.2,2026-07-06,Strong,90
+837,tool_calling,63.9,Assistant v1.0,2026-07-06,Watch,60
+838,tool_calling,69.14,Assistant v1.2,2026-07-06,Watch,60
+839,tool_calling,45.64,Assistant v1.1,2026-07-06,Needs improvement,40
+840,tool_calling,28.65,Assistant v1.0,2026-07-06,Needs improvement,20
+841,reasoning,32.21,Assistant v1.1,2026-07-07,Needs improvement,30
+842,reasoning,27.12,Assistant v1.1,2026-07-07,Needs improvement,20
+843,reasoning,61.24,Assistant v1.2,2026-07-07,Watch,60
+844,reasoning,53.54,Assistant v1.1,2026-07-07,Needs improvement,50
+845,knowledge,27.45,Assistant v1.2,2026-07-07,Needs improvement,20
+846,knowledge,72.65,Assistant v1.2,2026-07-07,Watch,70
+847,knowledge,73.01,Assistant v1.0,2026-07-07,Watch,70
+848,knowledge,73.27,Assistant v1.0,2026-07-07,Watch,70
+849,code,29.06,Assistant v2.0,2026-07-07,Needs improvement,20
+850,code,67.48,Assistant v2.0,2026-07-07,Watch,60
+851,code,76.69,Assistant v1.1,2026-07-07,Watch,70
+852,code,66.3,Assistant v1.0,2026-07-07,Watch,60
+853,instruction_following,100.0,Assistant v2.0,2026-07-07,Strong,90
+854,instruction_following,90.38,Assistant v1.1,2026-07-07,Strong,90
+855,instruction_following,90.05,Assistant v1.2,2026-07-07,Strong,90
+856,instruction_following,85.95,Assistant v2.0,2026-07-07,Strong,80
+857,tool_calling,58.59,Assistant v1.0,2026-07-07,Needs improvement,50
+858,tool_calling,62.78,Assistant v1.1,2026-07-07,Watch,60
+859,tool_calling,52.17,Assistant v1.0,2026-07-07,Needs improvement,50
+860,tool_calling,75.18,Assistant v2.0,2026-07-07,Watch,70
+861,reasoning,44.07,Assistant v1.2,2026-07-08,Needs improvement,40
+862,reasoning,9.34,Assistant v1.1,2026-07-08,Needs improvement,0
+863,reasoning,80.6,Assistant v2.0,2026-07-08,Strong,80
+864,reasoning,44.48,Assistant v1.0,2026-07-08,Needs improvement,40
+865,knowledge,82.32,Assistant v1.0,2026-07-08,Strong,80
+866,knowledge,69.73,Assistant v1.1,2026-07-08,Watch,60
+867,knowledge,64.95,Assistant v2.0,2026-07-08,Watch,60
+868,knowledge,70.74,Assistant v1.2,2026-07-08,Watch,70
+869,code,46.53,Assistant v1.0,2026-07-08,Needs improvement,40
+870,code,52.62,Assistant v1.1,2026-07-08,Needs improvement,50
+871,code,35.97,Assistant v1.2,2026-07-08,Needs improvement,30
+872,code,38.73,Assistant v2.0,2026-07-08,Needs improvement,30
+873,instruction_following,44.2,Assistant v1.0,2026-07-08,Needs improvement,40
+874,instruction_following,52.43,Assistant v1.1,2026-07-08,Needs improvement,50
+875,instruction_following,43.36,Assistant v1.0,2026-07-08,Needs improvement,40
+876,instruction_following,82.62,Assistant v2.0,2026-07-08,Strong,80
+877,tool_calling,81.8,Assistant v1.1,2026-07-08,Strong,80
+878,tool_calling,76.62,Assistant v2.0,2026-07-08,Watch,70
+879,tool_calling,63.53,Assistant v1.1,2026-07-08,Watch,60
+880,tool_calling,38.7,Assistant v1.2,2026-07-08,Needs improvement,30
+881,reasoning,86.36,Assistant v1.2,2026-07-09,Strong,80
+882,reasoning,64.56,Assistant v1.0,2026-07-09,Watch,60
+883,reasoning,45.82,Assistant v1.1,2026-07-09,Needs improvement,40
+884,reasoning,30.57,Assistant v1.0,2026-07-09,Needs improvement,30
+885,knowledge,77.69,Assistant v1.2,2026-07-09,Watch,70
+886,knowledge,55.03,Assistant v2.0,2026-07-09,Needs improvement,50
+887,knowledge,79.63,Assistant v2.0,2026-07-09,Watch,70
+888,knowledge,86.49,Assistant v1.0,2026-07-09,Strong,80
+889,code,75.69,Assistant v1.2,2026-07-09,Watch,70
+890,code,24.11,Assistant v1.0,2026-07-09,Needs improvement,20
+891,code,98.09,Assistant v2.0,2026-07-09,Strong,90
+892,code,46.03,Assistant v1.1,2026-07-09,Needs improvement,40
+893,instruction_following,72.94,Assistant v1.0,2026-07-09,Watch,70
+894,instruction_following,71.9,Assistant v1.0,2026-07-09,Watch,70
+895,instruction_following,84.8,Assistant v2.0,2026-07-09,Strong,80
+896,instruction_following,50.07,Assistant v1.0,2026-07-09,Needs improvement,50
+897,tool_calling,41.05,Assistant v1.1,2026-07-09,Needs improvement,40
+898,tool_calling,59.78,Assistant v2.0,2026-07-09,Needs improvement,50
+899,tool_calling,65.4,Assistant v1.2,2026-07-09,Watch,60
+900,tool_calling,73.73,Assistant v1.1,2026-07-09,Watch,70
+901,reasoning,31.92,Assistant v1.2,2026-07-10,Needs improvement,30
+902,reasoning,41.72,Assistant v1.2,2026-07-10,Needs improvement,40
+903,reasoning,65.14,Assistant v1.0,2026-07-10,Watch,60
+904,reasoning,52.65,Assistant v1.2,2026-07-10,Needs improvement,50
+905,knowledge,58.97,Assistant v2.0,2026-07-10,Needs improvement,50
+906,knowledge,98.34,Assistant v2.0,2026-07-10,Strong,90
+907,knowledge,93.45,Assistant v1.2,2026-07-10,Strong,90
+908,knowledge,87.73,Assistant v1.2,2026-07-10,Strong,80
+909,code,31.61,Assistant v1.0,2026-07-10,Needs improvement,30
+910,code,77.12,Assistant v1.0,2026-07-10,Watch,70
+911,code,45.25,Assistant v1.1,2026-07-10,Needs improvement,40
+912,code,39.91,Assistant v1.0,2026-07-10,Needs improvement,30
+913,instruction_following,40.03,Assistant v1.2,2026-07-10,Needs improvement,40
+914,instruction_following,91.0,Assistant v1.2,2026-07-10,Strong,90
+915,instruction_following,74.53,Assistant v1.2,2026-07-10,Watch,70
+916,instruction_following,58.2,Assistant v1.2,2026-07-10,Needs improvement,50
+917,tool_calling,42.19,Assistant v1.0,2026-07-10,Needs improvement,40
+918,tool_calling,36.76,Assistant v1.2,2026-07-10,Needs improvement,30
+919,tool_calling,54.77,Assistant v1.2,2026-07-10,Needs improvement,50
+920,tool_calling,41.02,Assistant v1.0,2026-07-10,Needs improvement,40
+921,reasoning,76.55,Assistant v1.2,2026-07-11,Watch,70
+922,reasoning,57.13,Assistant v1.0,2026-07-11,Needs improvement,50
+923,reasoning,42.77,Assistant v1.2,2026-07-11,Needs improvement,40
+924,reasoning,27.35,Assistant v1.1,2026-07-11,Needs improvement,20
+925,knowledge,67.52,Assistant v1.1,2026-07-11,Watch,60
+926,knowledge,70.74,Assistant v2.0,2026-07-11,Watch,70
+927,knowledge,62.36,Assistant v1.0,2026-07-11,Watch,60
+928,knowledge,60.59,Assistant v2.0,2026-07-11,Watch,60
+929,code,73.63,Assistant v2.0,2026-07-11,Watch,70
+930,code,47.11,Assistant v1.1,2026-07-11,Needs improvement,40
+931,code,38.37,Assistant v1.0,2026-07-11,Needs improvement,30
+932,code,70.59,Assistant v2.0,2026-07-11,Watch,70
+933,instruction_following,97.83,Assistant v2.0,2026-07-11,Strong,90
+934,instruction_following,49.55,Assistant v2.0,2026-07-11,Needs improvement,40
+935,instruction_following,75.27,Assistant v2.0,2026-07-11,Watch,70
+936,instruction_following,76.88,Assistant v1.0,2026-07-11,Watch,70
+937,tool_calling,53.66,Assistant v2.0,2026-07-11,Needs improvement,50
+938,tool_calling,55.16,Assistant v1.1,2026-07-11,Needs improvement,50
+939,tool_calling,69.26,Assistant v1.2,2026-07-11,Watch,60
+940,tool_calling,52.42,Assistant v2.0,2026-07-11,Needs improvement,50
+941,reasoning,70.96,Assistant v2.0,2026-07-12,Watch,70
+942,reasoning,65.97,Assistant v1.0,2026-07-12,Watch,60
+943,reasoning,39.81,Assistant v1.0,2026-07-12,Needs improvement,30
+944,reasoning,16.38,Assistant v1.1,2026-07-12,Needs improvement,10
+945,knowledge,83.8,Assistant v1.1,2026-07-12,Strong,80
+946,knowledge,98.45,Assistant v2.0,2026-07-12,Strong,90
+947,knowledge,70.87,Assistant v2.0,2026-07-12,Watch,70
+948,knowledge,42.86,Assistant v1.0,2026-07-12,Needs improvement,40
+949,code,37.76,Assistant v1.2,2026-07-12,Needs improvement,30
+950,code,52.61,Assistant v1.2,2026-07-12,Needs improvement,50
+951,code,78.35,Assistant v1.2,2026-07-12,Watch,70
+952,code,44.87,Assistant v1.1,2026-07-12,Needs improvement,40
+953,instruction_following,89.57,Assistant v1.2,2026-07-12,Strong,80
+954,instruction_following,68.9,Assistant v1.2,2026-07-12,Watch,60
+955,instruction_following,81.94,Assistant v1.2,2026-07-12,Strong,80
+956,instruction_following,50.47,Assistant v1.1,2026-07-12,Needs improvement,50
+957,tool_calling,65.52,Assistant v2.0,2026-07-12,Watch,60
+958,tool_calling,38.36,Assistant v1.0,2026-07-12,Needs improvement,30
+959,tool_calling,52.92,Assistant v1.2,2026-07-12,Needs improvement,50
+960,tool_calling,100.0,Assistant v1.2,2026-07-12,Strong,90
+961,reasoning,34.91,Assistant v1.2,2026-07-13,Needs improvement,30
+962,reasoning,57.56,Assistant v1.2,2026-07-13,Needs improvement,50
+963,reasoning,35.48,Assistant v2.0,2026-07-13,Needs improvement,30
+964,reasoning,83.65,Assistant v2.0,2026-07-13,Strong,80
+965,knowledge,35.84,Assistant v1.0,2026-07-13,Needs improvement,30
+966,knowledge,84.64,Assistant v2.0,2026-07-13,Strong,80
+967,knowledge,94.26,Assistant v1.2,2026-07-13,Strong,90
+968,knowledge,56.31,Assistant v1.2,2026-07-13,Needs improvement,50
+969,code,41.47,Assistant v2.0,2026-07-13,Needs improvement,40
+970,code,27.65,Assistant v1.2,2026-07-13,Needs improvement,20
+971,code,20.08,Assistant v2.0,2026-07-13,Needs improvement,20
+972,code,32.76,Assistant v1.1,2026-07-13,Needs improvement,30
+973,instruction_following,92.15,Assistant v2.0,2026-07-13,Strong,90
+974,instruction_following,75.52,Assistant v1.2,2026-07-13,Watch,70
+975,instruction_following,89.51,Assistant v1.2,2026-07-13,Strong,80
+976,instruction_following,32.77,Assistant v1.0,2026-07-13,Needs improvement,30
+977,tool_calling,35.96,Assistant v1.1,2026-07-13,Needs improvement,30
+978,tool_calling,75.12,Assistant v2.0,2026-07-13,Watch,70
+979,tool_calling,43.55,Assistant v1.2,2026-07-13,Needs improvement,40
+980,tool_calling,52.1,Assistant v1.1,2026-07-13,Needs improvement,50
+981,reasoning,32.26,Assistant v1.2,2026-07-14,Needs improvement,30
+982,reasoning,87.85,Assistant v2.0,2026-07-14,Strong,80
+983,reasoning,41.13,Assistant v1.0,2026-07-14,Needs improvement,40
+984,reasoning,53.58,Assistant v2.0,2026-07-14,Needs improvement,50
+985,knowledge,46.06,Assistant v1.0,2026-07-14,Needs improvement,40
+986,knowledge,68.86,Assistant v2.0,2026-07-14,Watch,60
+987,knowledge,71.32,Assistant v1.0,2026-07-14,Watch,70
+988,knowledge,73.19,Assistant v2.0,2026-07-14,Watch,70
+989,code,59.5,Assistant v1.1,2026-07-14,Needs improvement,50
+990,code,46.57,Assistant v1.1,2026-07-14,Needs improvement,40
+991,code,47.53,Assistant v1.0,2026-07-14,Needs improvement,40
+992,code,73.15,Assistant v1.2,2026-07-14,Watch,70
+993,instruction_following,71.85,Assistant v1.2,2026-07-14,Watch,70
+994,instruction_following,75.37,Assistant v1.0,2026-07-14,Watch,70
+995,instruction_following,51.79,Assistant v1.0,2026-07-14,Needs improvement,50
+996,instruction_following,64.3,Assistant v1.0,2026-07-14,Watch,60
+997,tool_calling,86.9,Assistant v1.0,2026-07-14,Strong,80
+998,tool_calling,64.76,Assistant v1.0,2026-07-14,Watch,60
+999,tool_calling,56.56,Assistant v2.0,2026-07-14,Needs improvement,50
+1000,tool_calling,51.46,Assistant v1.1,2026-07-14,Needs improvement,50
+1001,reasoning,67.81,Assistant v1.0,2026-07-15,Watch,60
+1002,reasoning,31.73,Assistant v1.1,2026-07-15,Needs improvement,30
+1003,reasoning,37.3,Assistant v1.1,2026-07-15,Needs improvement,30
+1004,reasoning,78.86,Assistant v2.0,2026-07-15,Watch,70
+1005,knowledge,69.93,Assistant v1.0,2026-07-15,Watch,60
+1006,knowledge,67.13,Assistant v2.0,2026-07-15,Watch,60
+1007,knowledge,92.62,Assistant v1.1,2026-07-15,Strong,90
+1008,knowledge,81.9,Assistant v1.1,2026-07-15,Strong,80
+1009,code,33.69,Assistant v1.2,2026-07-15,Needs improvement,30
+1010,code,43.95,Assistant v2.0,2026-07-15,Needs improvement,40
+1011,code,69.7,Assistant v1.2,2026-07-15,Watch,60
+1012,code,23.27,Assistant v1.1,2026-07-15,Needs improvement,20
+1013,instruction_following,90.7,Assistant v1.2,2026-07-15,Strong,90
+1014,instruction_following,73.45,Assistant v2.0,2026-07-15,Watch,70
+1015,instruction_following,87.32,Assistant v1.2,2026-07-15,Strong,80
+1016,instruction_following,63.82,Assistant v2.0,2026-07-15,Watch,60
+1017,tool_calling,64.7,Assistant v1.2,2026-07-15,Watch,60
+1018,tool_calling,34.3,Assistant v1.0,2026-07-15,Needs improvement,30
+1019,tool_calling,35.74,Assistant v1.1,2026-07-15,Needs improvement,30
+1020,tool_calling,39.5,Assistant v1.0,2026-07-15,Needs improvement,30
+1021,reasoning,36.27,Assistant v1.0,2026-07-16,Needs improvement,30
+1022,reasoning,75.46,Assistant v2.0,2026-07-16,Watch,70
+1023,reasoning,63.14,Assistant v1.1,2026-07-16,Watch,60
+1024,reasoning,44.17,Assistant v1.1,2026-07-16,Needs improvement,40
+1025,knowledge,80.32,Assistant v2.0,2026-07-16,Strong,80
+1026,knowledge,86.44,Assistant v1.1,2026-07-16,Strong,80
+1027,knowledge,90.59,Assistant v1.2,2026-07-16,Strong,90
+1028,knowledge,98.69,Assistant v2.0,2026-07-16,Strong,90
+1029,code,54.14,Assistant v1.2,2026-07-16,Needs improvement,50
+1030,code,85.4,Assistant v2.0,2026-07-16,Strong,80
+1031,code,13.79,Assistant v1.2,2026-07-16,Needs improvement,10
+1032,code,26.3,Assistant v1.0,2026-07-16,Needs improvement,20
+1033,instruction_following,83.44,Assistant v1.2,2026-07-16,Strong,80
+1034,instruction_following,100.0,Assistant v2.0,2026-07-16,Strong,90
+1035,instruction_following,63.57,Assistant v1.1,2026-07-16,Watch,60
+1036,instruction_following,83.15,Assistant v1.0,2026-07-16,Strong,80
+1037,tool_calling,78.92,Assistant v1.1,2026-07-16,Watch,70
+1038,tool_calling,43.7,Assistant v2.0,2026-07-16,Needs improvement,40
+1039,tool_calling,75.5,Assistant v1.2,2026-07-16,Watch,70
+1040,tool_calling,65.95,Assistant v2.0,2026-07-16,Watch,60
+1041,reasoning,61.2,Assistant v2.0,2026-07-17,Watch,60
+1042,reasoning,42.66,Assistant v1.1,2026-07-17,Needs improvement,40
+1043,reasoning,44.52,Assistant v1.0,2026-07-17,Needs improvement,40
+1044,reasoning,47.07,Assistant v1.0,2026-07-17,Needs improvement,40
+1045,knowledge,98.17,Assistant v2.0,2026-07-17,Strong,90
+1046,knowledge,36.3,Assistant v1.0,2026-07-17,Needs improvement,30
+1047,knowledge,94.83,Assistant v1.2,2026-07-17,Strong,90
+1048,knowledge,89.98,Assistant v1.2,2026-07-17,Strong,80
+1049,code,46.95,Assistant v1.1,2026-07-17,Needs improvement,40
+1050,code,55.49,Assistant v1.0,2026-07-17,Needs improvement,50
+1051,code,58.8,Assistant v1.0,2026-07-17,Needs improvement,50
+1052,code,66.26,Assistant v2.0,2026-07-17,Watch,60
+1053,instruction_following,62.09,Assistant v1.1,2026-07-17,Watch,60
+1054,instruction_following,67.37,Assistant v1.1,2026-07-17,Watch,60
+1055,instruction_following,55.72,Assistant v1.2,2026-07-17,Needs improvement,50
+1056,instruction_following,58.21,Assistant v1.2,2026-07-17,Needs improvement,50
+1057,tool_calling,26.19,Assistant v2.0,2026-07-17,Needs improvement,20
+1058,tool_calling,30.57,Assistant v1.0,2026-07-17,Needs improvement,30
+1059,tool_calling,68.86,Assistant v1.1,2026-07-17,Watch,60
+1060,tool_calling,69.71,Assistant v1.2,2026-07-17,Watch,60
+1061,reasoning,63.86,Assistant v1.0,2026-07-18,Watch,60
+1062,reasoning,40.81,Assistant v1.2,2026-07-18,Needs improvement,40
+1063,reasoning,72.37,Assistant v1.0,2026-07-18,Watch,70
+1064,reasoning,56.4,Assistant v1.0,2026-07-18,Needs improvement,50
+1065,knowledge,82.02,Assistant v1.2,2026-07-18,Strong,80
+1066,knowledge,70.37,Assistant v1.0,2026-07-18,Watch,70
+1067,knowledge,50.33,Assistant v2.0,2026-07-18,Needs improvement,50
+1068,knowledge,77.49,Assistant v1.2,2026-07-18,Watch,70
+1069,code,64.5,Assistant v1.2,2026-07-18,Watch,60
+1070,code,91.89,Assistant v1.1,2026-07-18,Strong,90
+1071,code,26.91,Assistant v1.1,2026-07-18,Needs improvement,20
+1072,code,19.07,Assistant v1.1,2026-07-18,Needs improvement,10
+1073,instruction_following,50.47,Assistant v1.2,2026-07-18,Needs improvement,50
+1074,instruction_following,56.76,Assistant v1.2,2026-07-18,Needs improvement,50
+1075,instruction_following,50.75,Assistant v2.0,2026-07-18,Needs improvement,50
+1076,instruction_following,81.24,Assistant v1.1,2026-07-18,Strong,80
+1077,tool_calling,90.73,Assistant v2.0,2026-07-18,Strong,90
+1078,tool_calling,47.21,Assistant v1.0,2026-07-18,Needs improvement,40
+1079,tool_calling,47.85,Assistant v1.1,2026-07-18,Needs improvement,40
+1080,tool_calling,79.29,Assistant v1.0,2026-07-18,Watch,70
+1081,reasoning,45.1,Assistant v1.1,2026-07-19,Needs improvement,40
+1082,reasoning,34.11,Assistant v2.0,2026-07-19,Needs improvement,30
+1083,reasoning,45.36,Assistant v1.0,2026-07-19,Needs improvement,40
+1084,reasoning,56.08,Assistant v1.2,2026-07-19,Needs improvement,50
+1085,knowledge,79.99,Assistant v1.1,2026-07-19,Watch,70
+1086,knowledge,58.07,Assistant v1.1,2026-07-19,Needs improvement,50
+1087,knowledge,43.62,Assistant v1.1,2026-07-19,Needs improvement,40
+1088,knowledge,84.03,Assistant v2.0,2026-07-19,Strong,80
+1089,code,38.71,Assistant v1.2,2026-07-19,Needs improvement,30
+1090,code,50.39,Assistant v1.1,2026-07-19,Needs improvement,50
+1091,code,82.36,Assistant v1.1,2026-07-19,Strong,80
+1092,code,45.78,Assistant v1.1,2026-07-19,Needs improvement,40
+1093,instruction_following,65.93,Assistant v1.0,2026-07-19,Watch,60
+1094,instruction_following,48.21,Assistant v1.0,2026-07-19,Needs improvement,40
+1095,instruction_following,61.26,Assistant v1.0,2026-07-19,Watch,60
+1096,instruction_following,83.52,Assistant v1.0,2026-07-19,Strong,80
+1097,tool_calling,67.53,Assistant v2.0,2026-07-19,Watch,60
+1098,tool_calling,68.16,Assistant v1.0,2026-07-19,Watch,60
+1099,tool_calling,52.86,Assistant v1.2,2026-07-19,Needs improvement,50
+1100,tool_calling,76.79,Assistant v2.0,2026-07-19,Watch,70
+1101,reasoning,28.53,Assistant v1.1,2026-07-20,Needs improvement,20
+1102,reasoning,17.71,Assistant v1.2,2026-07-20,Needs improvement,10
+1103,reasoning,81.79,Assistant v2.0,2026-07-20,Strong,80
+1104,reasoning,70.57,Assistant v1.1,2026-07-20,Watch,70
+1105,knowledge,51.32,Assistant v1.2,2026-07-20,Needs improvement,50
+1106,knowledge,86.44,Assistant v1.2,2026-07-20,Strong,80
+1107,knowledge,46.17,Assistant v1.2,2026-07-20,Needs improvement,40
+1108,knowledge,52.17,Assistant v1.0,2026-07-20,Needs improvement,50
+1109,code,88.0,Assistant v2.0,2026-07-20,Strong,80
+1110,code,44.17,Assistant v2.0,2026-07-20,Needs improvement,40
+1111,code,63.11,Assistant v1.2,2026-07-20,Watch,60
+1112,code,65.66,Assistant v1.1,2026-07-20,Watch,60
+1113,instruction_following,92.25,Assistant v1.2,2026-07-20,Strong,90
+1114,instruction_following,64.56,Assistant v1.2,2026-07-20,Watch,60
+1115,instruction_following,47.01,Assistant v1.0,2026-07-20,Needs improvement,40
+1116,instruction_following,77.84,Assistant v1.1,2026-07-20,Watch,70
+1117,tool_calling,89.39,Assistant v2.0,2026-07-20,Strong,80
+1118,tool_calling,52.41,Assistant v1.2,2026-07-20,Needs improvement,50
+1119,tool_calling,41.85,Assistant v1.1,2026-07-20,Needs improvement,40
+1120,tool_calling,73.44,Assistant v1.1,2026-07-20,Watch,70
+1121,reasoning,45.0,Assistant v1.1,2026-07-21,Needs improvement,40
+1122,reasoning,61.11,Assistant v1.2,2026-07-21,Watch,60
+1123,reasoning,37.89,Assistant v1.2,2026-07-21,Needs improvement,30
+1124,reasoning,72.17,Assistant v1.2,2026-07-21,Watch,70
+1125,knowledge,23.05,Assistant v1.1,2026-07-21,Needs improvement,20
+1126,knowledge,62.71,Assistant v1.0,2026-07-21,Watch,60
+1127,knowledge,94.44,Assistant v2.0,2026-07-21,Strong,90
+1128,knowledge,94.65,Assistant v2.0,2026-07-21,Strong,90
+1129,code,34.02,Assistant v1.2,2026-07-21,Needs improvement,30
+1130,code,41.9,Assistant v1.2,2026-07-21,Needs improvement,40
+1131,code,58.84,Assistant v1.0,2026-07-21,Needs improvement,50
+1132,code,69.92,Assistant v1.2,2026-07-21,Watch,60
+1133,instruction_following,74.25,Assistant v1.2,2026-07-21,Watch,70
+1134,instruction_following,93.55,Assistant v1.2,2026-07-21,Strong,90
+1135,instruction_following,49.16,Assistant v2.0,2026-07-21,Needs improvement,40
+1136,instruction_following,99.74,Assistant v1.2,2026-07-21,Strong,90
+1137,tool_calling,60.1,Assistant v1.1,2026-07-21,Watch,60
+1138,tool_calling,46.97,Assistant v2.0,2026-07-21,Needs improvement,40
+1139,tool_calling,61.07,Assistant v2.0,2026-07-21,Watch,60
+1140,tool_calling,62.16,Assistant v1.1,2026-07-21,Watch,60
+1141,reasoning,34.14,Assistant v1.0,2026-07-22,Needs improvement,30
+1142,reasoning,76.6,Assistant v2.0,2026-07-22,Watch,70
+1143,reasoning,57.94,Assistant v2.0,2026-07-22,Needs improvement,50
+1144,reasoning,63.32,Assistant v2.0,2026-07-22,Watch,60
+1145,knowledge,72.31,Assistant v1.0,2026-07-22,Watch,70
+1146,knowledge,45.2,Assistant v1.0,2026-07-22,Needs improvement,40
+1147,knowledge,79.51,Assistant v1.2,2026-07-22,Watch,70
+1148,knowledge,88.7,Assistant v1.0,2026-07-22,Strong,80
+1149,code,66.12,Assistant v2.0,2026-07-22,Watch,60
+1150,code,57.73,Assistant v2.0,2026-07-22,Needs improvement,50
+1151,code,77.29,Assistant v2.0,2026-07-22,Watch,70
+1152,code,61.99,Assistant v2.0,2026-07-22,Watch,60
+1153,instruction_following,49.02,Assistant v1.1,2026-07-22,Needs improvement,40
+1154,instruction_following,91.52,Assistant v1.1,2026-07-22,Strong,90
+1155,instruction_following,91.69,Assistant v2.0,2026-07-22,Strong,90
+1156,instruction_following,94.92,Assistant v2.0,2026-07-22,Strong,90
+1157,tool_calling,58.43,Assistant v2.0,2026-07-22,Needs improvement,50
+1158,tool_calling,72.1,Assistant v2.0,2026-07-22,Watch,70
+1159,tool_calling,50.79,Assistant v1.1,2026-07-22,Needs improvement,50
+1160,tool_calling,72.07,Assistant v1.1,2026-07-22,Watch,70
+1161,reasoning,87.09,Assistant v2.0,2026-07-23,Strong,80
+1162,reasoning,44.98,Assistant v1.1,2026-07-23,Needs improvement,40
+1163,reasoning,70.8,Assistant v2.0,2026-07-23,Watch,70
+1164,reasoning,74.1,Assistant v2.0,2026-07-23,Watch,70
+1165,knowledge,73.58,Assistant v1.1,2026-07-23,Watch,70
+1166,knowledge,62.85,Assistant v2.0,2026-07-23,Watch,60
+1167,knowledge,58.6,Assistant v1.2,2026-07-23,Needs improvement,50
+1168,knowledge,93.71,Assistant v2.0,2026-07-23,Strong,90
+1169,code,44.59,Assistant v1.2,2026-07-23,Needs improvement,40
+1170,code,39.66,Assistant v1.2,2026-07-23,Needs improvement,30
+1171,code,73.99,Assistant v1.1,2026-07-23,Watch,70
+1172,code,66.51,Assistant v1.1,2026-07-23,Watch,60
+1173,instruction_following,70.71,Assistant v1.1,2026-07-23,Watch,70
+1174,instruction_following,97.81,Assistant v1.2,2026-07-23,Strong,90
+1175,instruction_following,100.0,Assistant v1.2,2026-07-23,Strong,90
+1176,instruction_following,80.99,Assistant v1.2,2026-07-23,Strong,80
+1177,tool_calling,73.75,Assistant v1.2,2026-07-23,Watch,70
+1178,tool_calling,33.23,Assistant v1.2,2026-07-23,Needs improvement,30
+1179,tool_calling,55.31,Assistant v1.2,2026-07-23,Needs improvement,50
+1180,tool_calling,42.89,Assistant v1.0,2026-07-23,Needs improvement,40
+1181,reasoning,40.94,Assistant v1.2,2026-07-24,Needs improvement,40
+1182,reasoning,35.75,Assistant v1.2,2026-07-24,Needs improvement,30
+1183,reasoning,50.65,Assistant v2.0,2026-07-24,Needs improvement,50
+1184,reasoning,22.96,Assistant v2.0,2026-07-24,Needs improvement,20
+1185,knowledge,73.23,Assistant v1.2,2026-07-24,Watch,70
+1186,knowledge,64.92,Assistant v1.2,2026-07-24,Watch,60
+1187,knowledge,54.76,Assistant v2.0,2026-07-24,Needs improvement,50
+1188,knowledge,95.98,Assistant v1.1,2026-07-24,Strong,90
+1189,code,41.76,Assistant v1.0,2026-07-24,Needs improvement,40
+1190,code,65.12,Assistant v1.2,2026-07-24,Watch,60
+1191,code,60.65,Assistant v1.2,2026-07-24,Watch,60
+1192,code,46.27,Assistant v1.1,2026-07-24,Needs improvement,40
+1193,instruction_following,65.33,Assistant v1.0,2026-07-24,Watch,60
+1194,instruction_following,95.98,Assistant v1.1,2026-07-24,Strong,90
+1195,instruction_following,70.61,Assistant v1.1,2026-07-24,Watch,70
+1196,instruction_following,81.76,Assistant v1.2,2026-07-24,Strong,80
+1197,tool_calling,43.66,Assistant v1.0,2026-07-24,Needs improvement,40
+1198,tool_calling,38.97,Assistant v1.2,2026-07-24,Needs improvement,30
+1199,tool_calling,78.63,Assistant v2.0,2026-07-24,Watch,70
+1200,tool_calling,68.96,Assistant v1.1,2026-07-24,Watch,60
+1201,reasoning,51.71,Assistant v1.2,2026-07-25,Needs improvement,50
+1202,reasoning,50.79,Assistant v1.2,2026-07-25,Needs improvement,50
+1203,reasoning,52.59,Assistant v1.0,2026-07-25,Needs improvement,50
+1204,reasoning,76.73,Assistant v1.2,2026-07-25,Watch,70
+1205,knowledge,75.82,Assistant v1.1,2026-07-25,Watch,70
+1206,knowledge,71.46,Assistant v1.0,2026-07-25,Watch,70
+1207,knowledge,89.81,Assistant v1.1,2026-07-25,Strong,80
+1208,knowledge,74.7,Assistant v1.1,2026-07-25,Watch,70
+1209,code,51.56,Assistant v1.2,2026-07-25,Needs improvement,50
+1210,code,86.74,Assistant v2.0,2026-07-25,Strong,80
+1211,code,49.36,Assistant v1.0,2026-07-25,Needs improvement,40
+1212,code,12.33,Assistant v1.1,2026-07-25,Needs improvement,10
+1213,instruction_following,84.31,Assistant v1.2,2026-07-25,Strong,80
+1214,instruction_following,78.67,Assistant v1.0,2026-07-25,Watch,70
+1215,instruction_following,99.26,Assistant v2.0,2026-07-25,Strong,90
+1216,instruction_following,81.88,Assistant v1.2,2026-07-25,Strong,80
+1217,tool_calling,79.92,Assistant v2.0,2026-07-25,Watch,70
+1218,tool_calling,80.97,Assistant v1.2,2026-07-25,Strong,80
+1219,tool_calling,42.9,Assistant v1.0,2026-07-25,Needs improvement,40
+1220,tool_calling,39.5,Assistant v1.1,2026-07-25,Needs improvement,30
+1221,reasoning,42.95,Assistant v1.1,2026-07-26,Needs improvement,40
+1222,reasoning,57.84,Assistant v2.0,2026-07-26,Needs improvement,50
+1223,reasoning,70.4,Assistant v2.0,2026-07-26,Watch,70
+1224,reasoning,56.25,Assistant v1.2,2026-07-26,Needs improvement,50
+1225,knowledge,90.14,Assistant v1.1,2026-07-26,Strong,90
+1226,knowledge,95.62,Assistant v1.2,2026-07-26,Strong,90
+1227,knowledge,76.27,Assistant v1.2,2026-07-26,Watch,70
+1228,knowledge,82.45,Assistant v1.1,2026-07-26,Strong,80
+1229,code,89.31,Assistant v2.0,2026-07-26,Strong,80
+1230,code,57.84,Assistant v1.0,2026-07-26,Needs improvement,50
+1231,code,41.57,Assistant v1.1,2026-07-26,Needs improvement,40
+1232,code,29.7,Assistant v1.1,2026-07-26,Needs improvement,20
+1233,instruction_following,77.98,Assistant v1.2,2026-07-26,Watch,70
+1234,instruction_following,76.13,Assistant v1.1,2026-07-26,Watch,70
+1235,instruction_following,85.91,Assistant v1.1,2026-07-26,Strong,80
+1236,instruction_following,81.3,Assistant v2.0,2026-07-26,Strong,80
+1237,tool_calling,58.24,Assistant v2.0,2026-07-26,Needs improvement,50
+1238,tool_calling,69.58,Assistant v1.0,2026-07-26,Watch,60
+1239,tool_calling,49.65,Assistant v1.2,2026-07-26,Needs improvement,40
+1240,tool_calling,81.85,Assistant v1.2,2026-07-26,Strong,80
+1241,reasoning,41.88,Assistant v2.0,2026-07-27,Needs improvement,40
+1242,reasoning,47.91,Assistant v2.0,2026-07-27,Needs improvement,40
+1243,reasoning,38.32,Assistant v1.2,2026-07-27,Needs improvement,30
+1244,reasoning,96.4,Assistant v1.2,2026-07-27,Strong,90
+1245,knowledge,83.64,Assistant v1.1,2026-07-27,Strong,80
+1246,knowledge,69.1,Assistant v1.2,2026-07-27,Watch,60
+1247,knowledge,92.68,Assistant v1.2,2026-07-27,Strong,90
+1248,knowledge,67.36,Assistant v1.1,2026-07-27,Watch,60
+1249,code,65.63,Assistant v1.1,2026-07-27,Watch,60
+1250,code,44.6,Assistant v1.0,2026-07-27,Needs improvement,40
+1251,code,73.46,Assistant v1.1,2026-07-27,Watch,70
+1252,code,69.48,Assistant v2.0,2026-07-27,Watch,60
+1253,instruction_following,87.97,Assistant v2.0,2026-07-27,Strong,80
+1254,instruction_following,78.62,Assistant v2.0,2026-07-27,Watch,70
+1255,instruction_following,91.86,Assistant v1.2,2026-07-27,Strong,90
+1256,instruction_following,81.98,Assistant v1.1,2026-07-27,Strong,80
+1257,tool_calling,31.61,Assistant v1.0,2026-07-27,Needs improvement,30
+1258,tool_calling,81.76,Assistant v1.1,2026-07-27,Strong,80
+1259,tool_calling,44.7,Assistant v1.1,2026-07-27,Needs improvement,40
+1260,tool_calling,92.48,Assistant v1.2,2026-07-27,Strong,90
+1261,reasoning,47.69,Assistant v1.0,2026-07-28,Needs improvement,40
+1262,reasoning,62.17,Assistant v1.2,2026-07-28,Watch,60
+1263,reasoning,49.55,Assistant v2.0,2026-07-28,Needs improvement,40
+1264,reasoning,66.39,Assistant v1.2,2026-07-28,Watch,60
+1265,knowledge,87.42,Assistant v1.2,2026-07-28,Strong,80
+1266,knowledge,59.5,Assistant v2.0,2026-07-28,Needs improvement,50
+1267,knowledge,71.88,Assistant v1.1,2026-07-28,Watch,70
+1268,knowledge,79.84,Assistant v1.2,2026-07-28,Watch,70
+1269,code,19.83,Assistant v1.0,2026-07-28,Needs improvement,10
+1270,code,55.52,Assistant v1.0,2026-07-28,Needs improvement,50
+1271,code,53.38,Assistant v1.2,2026-07-28,Needs improvement,50
+1272,code,32.64,Assistant v1.2,2026-07-28,Needs improvement,30
+1273,instruction_following,68.84,Assistant v1.2,2026-07-28,Watch,60
+1274,instruction_following,82.8,Assistant v1.0,2026-07-28,Strong,80
+1275,instruction_following,98.4,Assistant v2.0,2026-07-28,Strong,90
+1276,instruction_following,99.44,Assistant v1.2,2026-07-28,Strong,90
+1277,tool_calling,42.21,Assistant v2.0,2026-07-28,Needs improvement,40
+1278,tool_calling,73.46,Assistant v2.0,2026-07-28,Watch,70
+1279,tool_calling,41.44,Assistant v2.0,2026-07-28,Needs improvement,40
+1280,tool_calling,54.48,Assistant v1.1,2026-07-28,Needs improvement,50
+1281,reasoning,44.35,Assistant v1.0,2026-07-29,Needs improvement,40
+1282,reasoning,76.38,Assistant v1.0,2026-07-29,Watch,70
+1283,reasoning,20.93,Assistant v1.1,2026-07-29,Needs improvement,20
+1284,reasoning,65.16,Assistant v1.2,2026-07-29,Watch,60
+1285,knowledge,53.07,Assistant v1.2,2026-07-29,Needs improvement,50
+1286,knowledge,45.64,Assistant v1.2,2026-07-29,Needs improvement,40
+1287,knowledge,58.84,Assistant v1.1,2026-07-29,Needs improvement,50
+1288,knowledge,73.67,Assistant v1.1,2026-07-29,Watch,70
+1289,code,45.44,Assistant v1.0,2026-07-29,Needs improvement,40
+1290,code,30.53,Assistant v2.0,2026-07-29,Needs improvement,30
+1291,code,24.27,Assistant v2.0,2026-07-29,Needs improvement,20
+1292,code,99.7,Assistant v2.0,2026-07-29,Strong,90
+1293,instruction_following,100.0,Assistant v2.0,2026-07-29,Strong,90
+1294,instruction_following,92.06,Assistant v2.0,2026-07-29,Strong,90
+1295,instruction_following,72.05,Assistant v1.0,2026-07-29,Watch,70
+1296,instruction_following,66.17,Assistant v1.2,2026-07-29,Watch,60
+1297,tool_calling,55.67,Assistant v1.0,2026-07-29,Needs improvement,50
+1298,tool_calling,86.57,Assistant v1.1,2026-07-29,Strong,80
+1299,tool_calling,68.07,Assistant v2.0,2026-07-29,Watch,60
+1300,tool_calling,65.29,Assistant v1.0,2026-07-29,Watch,60
+1301,reasoning,53.79,Assistant v1.2,2026-07-30,Needs improvement,50
+1302,reasoning,61.42,Assistant v1.2,2026-07-30,Watch,60
+1303,reasoning,68.32,Assistant v2.0,2026-07-30,Watch,60
+1304,reasoning,70.51,Assistant v2.0,2026-07-30,Watch,70
+1305,knowledge,38.43,Assistant v1.0,2026-07-30,Needs improvement,30
+1306,knowledge,76.52,Assistant v1.1,2026-07-30,Watch,70
+1307,knowledge,49.17,Assistant v2.0,2026-07-30,Needs improvement,40
+1308,knowledge,49.65,Assistant v2.0,2026-07-30,Needs improvement,40
+1309,code,78.81,Assistant v2.0,2026-07-30,Watch,70
+1310,code,31.67,Assistant v2.0,2026-07-30,Needs improvement,30
+1311,code,26.68,Assistant v2.0,2026-07-30,Needs improvement,20
+1312,code,18.82,Assistant v1.0,2026-07-30,Needs improvement,10
+1313,instruction_following,72.94,Assistant v1.0,2026-07-30,Watch,70
+1314,instruction_following,78.05,Assistant v1.2,2026-07-30,Watch,70
+1315,instruction_following,100.0,Assistant v2.0,2026-07-30,Strong,90
+1316,instruction_following,91.82,Assistant v1.2,2026-07-30,Strong,90
+1317,tool_calling,74.78,Assistant v2.0,2026-07-30,Watch,70
+1318,tool_calling,56.26,Assistant v1.1,2026-07-30,Needs improvement,50
+1319,tool_calling,82.82,Assistant v1.0,2026-07-30,Strong,80
+1320,tool_calling,67.09,Assistant v1.0,2026-07-30,Watch,60
+1321,reasoning,33.84,Assistant v1.1,2026-07-31,Needs improvement,30
+1322,reasoning,69.51,Assistant v1.0,2026-07-31,Watch,60
+1323,reasoning,73.95,Assistant v1.0,2026-07-31,Watch,70
+1324,reasoning,26.39,Assistant v1.1,2026-07-31,Needs improvement,20
+1325,knowledge,79.45,Assistant v2.0,2026-07-31,Watch,70
+1326,knowledge,74.3,Assistant v1.1,2026-07-31,Watch,70
+1327,knowledge,72.7,Assistant v2.0,2026-07-31,Watch,70
+1328,knowledge,70.29,Assistant v1.2,2026-07-31,Watch,70
+1329,code,81.4,Assistant v1.2,2026-07-31,Strong,80
+1330,code,48.17,Assistant v1.1,2026-07-31,Needs improvement,40
+1331,code,27.89,Assistant v2.0,2026-07-31,Needs improvement,20
+1332,code,42.67,Assistant v1.2,2026-07-31,Needs improvement,40
+1333,instruction_following,62.33,Assistant v1.1,2026-07-31,Watch,60
+1334,instruction_following,86.13,Assistant v1.2,2026-07-31,Strong,80
+1335,instruction_following,79.82,Assistant v1.2,2026-07-31,Watch,70
+1336,instruction_following,82.74,Assistant v1.2,2026-07-31,Strong,80
+1337,tool_calling,41.37,Assistant v1.1,2026-07-31,Needs improvement,40
+1338,tool_calling,78.72,Assistant v1.2,2026-07-31,Watch,70
+1339,tool_calling,59.58,Assistant v1.2,2026-07-31,Needs improvement,50
+1340,tool_calling,71.64,Assistant v1.1,2026-07-31,Watch,70
+1341,reasoning,24.62,Assistant v1.2,2026-08-01,Needs improvement,20
+1342,reasoning,63.11,Assistant v1.1,2026-08-01,Watch,60
+1343,reasoning,46.87,Assistant v1.1,2026-08-01,Needs improvement,40
+1344,reasoning,50.36,Assistant v1.2,2026-08-01,Needs improvement,50
+1345,knowledge,39.27,Assistant v2.0,2026-08-01,Needs improvement,30
+1346,knowledge,38.52,Assistant v1.2,2026-08-01,Needs improvement,30
+1347,knowledge,79.74,Assistant v2.0,2026-08-01,Watch,70
+1348,knowledge,59.63,Assistant v1.1,2026-08-01,Needs improvement,50
+1349,code,35.06,Assistant v2.0,2026-08-01,Needs improvement,30
+1350,code,25.59,Assistant v1.2,2026-08-01,Needs improvement,20
+1351,code,76.44,Assistant v1.2,2026-08-01,Watch,70
+1352,code,55.35,Assistant v1.1,2026-08-01,Needs improvement,50
+1353,instruction_following,96.42,Assistant v1.0,2026-08-01,Strong,90
+1354,instruction_following,85.89,Assistant v1.1,2026-08-01,Strong,80
+1355,instruction_following,90.36,Assistant v1.0,2026-08-01,Strong,90
+1356,instruction_following,45.73,Assistant v2.0,2026-08-01,Needs improvement,40
+1357,tool_calling,85.71,Assistant v2.0,2026-08-01,Strong,80
+1358,tool_calling,41.19,Assistant v2.0,2026-08-01,Needs improvement,40
+1359,tool_calling,74.21,Assistant v1.0,2026-08-01,Watch,70
+1360,tool_calling,55.88,Assistant v2.0,2026-08-01,Needs improvement,50
+1361,reasoning,51.13,Assistant v1.0,2026-08-02,Needs improvement,50
+1362,reasoning,47.44,Assistant v1.0,2026-08-02,Needs improvement,40
+1363,reasoning,40.02,Assistant v1.2,2026-08-02,Needs improvement,40
+1364,reasoning,83.51,Assistant v2.0,2026-08-02,Strong,80
+1365,knowledge,89.85,Assistant v2.0,2026-08-02,Strong,80
+1366,knowledge,87.36,Assistant v1.2,2026-08-02,Strong,80
+1367,knowledge,73.2,Assistant v1.1,2026-08-02,Watch,70
+1368,knowledge,73.62,Assistant v1.2,2026-08-02,Watch,70
+1369,code,61.2,Assistant v1.0,2026-08-02,Watch,60
+1370,code,54.17,Assistant v1.1,2026-08-02,Needs improvement,50
+1371,code,56.78,Assistant v1.0,2026-08-02,Needs improvement,50
+1372,code,57.33,Assistant v1.2,2026-08-02,Needs improvement,50
+1373,instruction_following,79.51,Assistant v1.0,2026-08-02,Watch,70
+1374,instruction_following,95.65,Assistant v1.2,2026-08-02,Strong,90
+1375,instruction_following,93.07,Assistant v1.1,2026-08-02,Strong,90
+1376,instruction_following,75.22,Assistant v1.1,2026-08-02,Watch,70
+1377,tool_calling,55.69,Assistant v1.0,2026-08-02,Needs improvement,50
+1378,tool_calling,41.55,Assistant v1.1,2026-08-02,Needs improvement,40
+1379,tool_calling,61.69,Assistant v1.1,2026-08-02,Watch,60
+1380,tool_calling,20.69,Assistant v1.0,2026-08-02,Needs improvement,20
+1381,reasoning,42.46,Assistant v1.0,2026-08-03,Needs improvement,40
+1382,reasoning,88.28,Assistant v2.0,2026-08-03,Strong,80
+1383,reasoning,31.87,Assistant v1.1,2026-08-03,Needs improvement,30
+1384,reasoning,29.39,Assistant v1.1,2026-08-03,Needs improvement,20
+1385,knowledge,50.64,Assistant v1.1,2026-08-03,Needs improvement,50
+1386,knowledge,62.33,Assistant v2.0,2026-08-03,Watch,60
+1387,knowledge,64.39,Assistant v1.0,2026-08-03,Watch,60
+1388,knowledge,74.15,Assistant v1.0,2026-08-03,Watch,70
+1389,code,50.22,Assistant v1.0,2026-08-03,Needs improvement,50
+1390,code,38.79,Assistant v2.0,2026-08-03,Needs improvement,30
+1391,code,74.58,Assistant v1.1,2026-08-03,Watch,70
+1392,code,89.43,Assistant v1.2,2026-08-03,Strong,80
+1393,instruction_following,83.46,Assistant v2.0,2026-08-03,Strong,80
+1394,instruction_following,77.19,Assistant v1.2,2026-08-03,Watch,70
+1395,instruction_following,50.42,Assistant v1.0,2026-08-03,Needs improvement,50
+1396,instruction_following,66.18,Assistant v2.0,2026-08-03,Watch,60
+1397,tool_calling,44.1,Assistant v2.0,2026-08-03,Needs improvement,40
+1398,tool_calling,9.17,Assistant v1.1,2026-08-03,Needs improvement,0
+1399,tool_calling,62.34,Assistant v1.1,2026-08-03,Watch,60
+1400,tool_calling,73.93,Assistant v2.0,2026-08-03,Watch,70
+1401,reasoning,55.46,Assistant v1.1,2026-08-04,Needs improvement,50
+1402,reasoning,69.86,Assistant v1.0,2026-08-04,Watch,60
+1403,reasoning,42.42,Assistant v1.2,2026-08-04,Needs improvement,40
+1404,reasoning,65.54,Assistant v2.0,2026-08-04,Watch,60
+1405,knowledge,66.56,Assistant v1.0,2026-08-04,Watch,60
+1406,knowledge,80.56,Assistant v2.0,2026-08-04,Strong,80
+1407,knowledge,64.93,Assistant v1.0,2026-08-04,Watch,60
+1408,knowledge,72.8,Assistant v1.2,2026-08-04,Watch,70
+1409,code,48.28,Assistant v1.0,2026-08-04,Needs improvement,40
+1410,code,34.8,Assistant v1.2,2026-08-04,Needs improvement,30
+1411,code,38.4,Assistant v1.1,2026-08-04,Needs improvement,30
+1412,code,83.54,Assistant v1.1,2026-08-04,Strong,80
+1413,instruction_following,63.83,Assistant v1.2,2026-08-04,Watch,60
+1414,instruction_following,90.14,Assistant v1.0,2026-08-04,Strong,90
+1415,instruction_following,93.15,Assistant v1.1,2026-08-04,Strong,90
+1416,instruction_following,52.12,Assistant v1.2,2026-08-04,Needs improvement,50
+1417,tool_calling,48.99,Assistant v1.0,2026-08-04,Needs improvement,40
+1418,tool_calling,57.12,Assistant v1.2,2026-08-04,Needs improvement,50
+1419,tool_calling,48.0,Assistant v1.0,2026-08-04,Needs improvement,40
+1420,tool_calling,68.48,Assistant v1.1,2026-08-04,Watch,60
+1421,reasoning,67.74,Assistant v1.1,2026-08-05,Watch,60
+1422,reasoning,68.03,Assistant v1.1,2026-08-05,Watch,60
+1423,reasoning,34.57,Assistant v1.1,2026-08-05,Needs improvement,30
+1424,reasoning,33.2,Assistant v1.0,2026-08-05,Needs improvement,30
+1425,knowledge,46.2,Assistant v1.2,2026-08-05,Needs improvement,40
+1426,knowledge,49.67,Assistant v1.1,2026-08-05,Needs improvement,40
+1427,knowledge,65.53,Assistant v1.2,2026-08-05,Watch,60
+1428,knowledge,76.9,Assistant v1.2,2026-08-05,Watch,70
+1429,code,72.08,Assistant v1.1,2026-08-05,Watch,70
+1430,code,43.2,Assistant v1.1,2026-08-05,Needs improvement,40
+1431,code,24.92,Assistant v1.0,2026-08-05,Needs improvement,20
+1432,code,38.22,Assistant v1.2,2026-08-05,Needs improvement,30
+1433,instruction_following,56.7,Assistant v1.0,2026-08-05,Needs improvement,50
+1434,instruction_following,87.05,Assistant v1.0,2026-08-05,Strong,80
+1435,instruction_following,21.4,Assistant v1.0,2026-08-05,Needs improvement,20
+1436,instruction_following,76.3,Assistant v1.2,2026-08-05,Watch,70
+1437,tool_calling,86.28,Assistant v2.0,2026-08-05,Strong,80
+1438,tool_calling,56.23,Assistant v1.1,2026-08-05,Needs improvement,50
+1439,tool_calling,79.29,Assistant v1.2,2026-08-05,Watch,70
+1440,tool_calling,96.56,Assistant v2.0,2026-08-05,Strong,90
+1441,reasoning,48.07,Assistant v2.0,2026-08-06,Needs improvement,40
+1442,reasoning,39.74,Assistant v1.2,2026-08-06,Needs improvement,30
+1443,reasoning,47.26,Assistant v2.0,2026-08-06,Needs improvement,40
+1444,reasoning,60.35,Assistant v1.0,2026-08-06,Watch,60
+1445,knowledge,70.71,Assistant v1.0,2026-08-06,Watch,70
+1446,knowledge,61.76,Assistant v1.2,2026-08-06,Watch,60
+1447,knowledge,74.1,Assistant v1.2,2026-08-06,Watch,70
+1448,knowledge,78.87,Assistant v1.0,2026-08-06,Watch,70
+1449,code,48.57,Assistant v1.2,2026-08-06,Needs improvement,40
+1450,code,50.95,Assistant v2.0,2026-08-06,Needs improvement,50
+1451,code,40.68,Assistant v1.2,2026-08-06,Needs improvement,40
+1452,code,85.01,Assistant v1.2,2026-08-06,Strong,80
+1453,instruction_following,63.29,Assistant v2.0,2026-08-06,Watch,60
+1454,instruction_following,88.56,Assistant v1.1,2026-08-06,Strong,80
+1455,instruction_following,80.65,Assistant v2.0,2026-08-06,Strong,80
+1456,instruction_following,61.71,Assistant v1.1,2026-08-06,Watch,60
+1457,tool_calling,58.75,Assistant v1.1,2026-08-06,Needs improvement,50
+1458,tool_calling,79.92,Assistant v1.1,2026-08-06,Watch,70
+1459,tool_calling,100.0,Assistant v2.0,2026-08-06,Strong,90
+1460,tool_calling,49.02,Assistant v1.0,2026-08-06,Needs improvement,40
+1461,reasoning,46.46,Assistant v1.1,2026-08-07,Needs improvement,40
+1462,reasoning,29.46,Assistant v2.0,2026-08-07,Needs improvement,20
+1463,reasoning,67.17,Assistant v1.1,2026-08-07,Watch,60
+1464,reasoning,94.58,Assistant v1.2,2026-08-07,Strong,90
+1465,knowledge,81.84,Assistant v1.2,2026-08-07,Strong,80
+1466,knowledge,71.02,Assistant v2.0,2026-08-07,Watch,70
+1467,knowledge,74.27,Assistant v1.1,2026-08-07,Watch,70
+1468,knowledge,94.22,Assistant v1.2,2026-08-07,Strong,90
+1469,code,32.37,Assistant v1.1,2026-08-07,Needs improvement,30
+1470,code,9.68,Assistant v1.0,2026-08-07,Needs improvement,0
+1471,code,37.16,Assistant v2.0,2026-08-07,Needs improvement,30
+1472,code,49.37,Assistant v1.0,2026-08-07,Needs improvement,40
+1473,instruction_following,93.56,Assistant v1.1,2026-08-07,Strong,90
+1474,instruction_following,78.14,Assistant v1.2,2026-08-07,Watch,70
+1475,instruction_following,91.91,Assistant v2.0,2026-08-07,Strong,90
+1476,instruction_following,50.12,Assistant v1.0,2026-08-07,Needs improvement,50
+1477,tool_calling,32.98,Assistant v1.1,2026-08-07,Needs improvement,30
+1478,tool_calling,27.5,Assistant v1.0,2026-08-07,Needs improvement,20
+1479,tool_calling,40.76,Assistant v1.1,2026-08-07,Needs improvement,40
+1480,tool_calling,53.08,Assistant v2.0,2026-08-07,Needs improvement,50
+1481,reasoning,58.76,Assistant v1.0,2026-08-08,Needs improvement,50
+1482,reasoning,9.1,Assistant v1.0,2026-08-08,Needs improvement,0
+1483,reasoning,72.86,Assistant v1.0,2026-08-08,Watch,70
+1484,reasoning,84.6,Assistant v2.0,2026-08-08,Strong,80
+1485,knowledge,82.85,Assistant v1.0,2026-08-08,Strong,80
+1486,knowledge,74.51,Assistant v1.2,2026-08-08,Watch,70
+1487,knowledge,93.15,Assistant v1.2,2026-08-08,Strong,90
+1488,knowledge,77.61,Assistant v1.2,2026-08-08,Watch,70
+1489,code,75.31,Assistant v1.1,2026-08-08,Watch,70
+1490,code,54.26,Assistant v1.2,2026-08-08,Needs improvement,50
+1491,code,28.5,Assistant v2.0,2026-08-08,Needs improvement,20
+1492,code,81.77,Assistant v1.2,2026-08-08,Strong,80
+1493,instruction_following,73.11,Assistant v1.2,2026-08-08,Watch,70
+1494,instruction_following,88.09,Assistant v1.0,2026-08-08,Strong,80
+1495,instruction_following,68.26,Assistant v1.2,2026-08-08,Watch,60
+1496,instruction_following,59.35,Assistant v1.1,2026-08-08,Needs improvement,50
+1497,tool_calling,35.69,Assistant v1.0,2026-08-08,Needs improvement,30
+1498,tool_calling,92.12,Assistant v1.2,2026-08-08,Strong,90
+1499,tool_calling,58.83,Assistant v1.1,2026-08-08,Needs improvement,50
+1500,tool_calling,91.28,Assistant v2.0,2026-08-08,Strong,90
+1501,reasoning,49.52,Assistant v1.0,2026-08-09,Needs improvement,40
+1502,reasoning,91.57,Assistant v1.2,2026-08-09,Strong,90
+1503,reasoning,9.6,Assistant v1.1,2026-08-09,Needs improvement,0
+1504,reasoning,26.46,Assistant v1.2,2026-08-09,Needs improvement,20
+1505,knowledge,100.0,Assistant v2.0,2026-08-09,Strong,90
+1506,knowledge,77.02,Assistant v1.1,2026-08-09,Watch,70
+1507,knowledge,100.0,Assistant v2.0,2026-08-09,Strong,90
+1508,knowledge,48.66,Assistant v1.2,2026-08-09,Needs improvement,40
+1509,code,42.91,Assistant v1.1,2026-08-09,Needs improvement,40
+1510,code,61.26,Assistant v1.1,2026-08-09,Watch,60
+1511,code,40.18,Assistant v1.2,2026-08-09,Needs improvement,40
+1512,code,48.18,Assistant v1.2,2026-08-09,Needs improvement,40
+1513,instruction_following,75.91,Assistant v2.0,2026-08-09,Watch,70
+1514,instruction_following,100.0,Assistant v2.0,2026-08-09,Strong,90
+1515,instruction_following,53.74,Assistant v1.1,2026-08-09,Needs improvement,50
+1516,instruction_following,85.37,Assistant v2.0,2026-08-09,Strong,80
+1517,tool_calling,93.42,Assistant v1.1,2026-08-09,Strong,90
+1518,tool_calling,73.6,Assistant v1.2,2026-08-09,Watch,70
+1519,tool_calling,62.89,Assistant v1.1,2026-08-09,Watch,60
+1520,tool_calling,52.9,Assistant v1.0,2026-08-09,Needs improvement,50
+1521,reasoning,16.89,Assistant v1.1,2026-08-10,Needs improvement,10
+1522,reasoning,58.61,Assistant v1.1,2026-08-10,Needs improvement,50
+1523,reasoning,49.49,Assistant v1.0,2026-08-10,Needs improvement,40
+1524,reasoning,54.89,Assistant v2.0,2026-08-10,Needs improvement,50
+1525,knowledge,99.9,Assistant v1.2,2026-08-10,Strong,90
+1526,knowledge,96.8,Assistant v1.1,2026-08-10,Strong,90
+1527,knowledge,84.55,Assistant v1.2,2026-08-10,Strong,80
+1528,knowledge,56.36,Assistant v1.2,2026-08-10,Needs improvement,50
+1529,code,92.59,Assistant v2.0,2026-08-10,Strong,90
+1530,code,53.74,Assistant v2.0,2026-08-10,Needs improvement,50
+1531,code,63.24,Assistant v1.2,2026-08-10,Watch,60
+1532,code,45.8,Assistant v2.0,2026-08-10,Needs improvement,40
+1533,instruction_following,71.02,Assistant v1.2,2026-08-10,Watch,70
+1534,instruction_following,88.45,Assistant v1.2,2026-08-10,Strong,80
+1535,instruction_following,66.27,Assistant v1.1,2026-08-10,Watch,60
+1536,instruction_following,54.79,Assistant v2.0,2026-08-10,Needs improvement,50
+1537,tool_calling,33.62,Assistant v1.2,2026-08-10,Needs improvement,30
+1538,tool_calling,72.07,Assistant v1.2,2026-08-10,Watch,70
+1539,tool_calling,64.75,Assistant v1.1,2026-08-10,Watch,60
+1540,tool_calling,32.52,Assistant v1.0,2026-08-10,Needs improvement,30
+1541,reasoning,27.59,Assistant v1.0,2026-08-11,Needs improvement,20
+1542,reasoning,79.56,Assistant v1.2,2026-08-11,Watch,70
+1543,reasoning,48.39,Assistant v1.2,2026-08-11,Needs improvement,40
+1544,reasoning,38.19,Assistant v1.2,2026-08-11,Needs improvement,30
+1545,knowledge,71.19,Assistant v2.0,2026-08-11,Watch,70
+1546,knowledge,62.66,Assistant v1.0,2026-08-11,Watch,60
+1547,knowledge,27.86,Assistant v1.1,2026-08-11,Needs improvement,20
+1548,knowledge,99.96,Assistant v1.2,2026-08-11,Strong,90
+1549,code,35.13,Assistant v1.1,2026-08-11,Needs improvement,30
+1550,code,59.02,Assistant v2.0,2026-08-11,Needs improvement,50
+1551,code,48.08,Assistant v2.0,2026-08-11,Needs improvement,40
+1552,code,62.53,Assistant v1.0,2026-08-11,Watch,60
+1553,instruction_following,96.14,Assistant v1.2,2026-08-11,Strong,90
+1554,instruction_following,100.0,Assistant v1.2,2026-08-11,Strong,90
+1555,instruction_following,75.8,Assistant v1.1,2026-08-11,Watch,70
+1556,instruction_following,77.14,Assistant v1.1,2026-08-11,Watch,70
+1557,tool_calling,46.58,Assistant v1.0,2026-08-11,Needs improvement,40
+1558,tool_calling,65.92,Assistant v1.2,2026-08-11,Watch,60
+1559,tool_calling,48.29,Assistant v2.0,2026-08-11,Needs improvement,40
+1560,tool_calling,58.15,Assistant v1.1,2026-08-11,Needs improvement,50
+1561,reasoning,80.56,Assistant v1.2,2026-08-12,Strong,80
+1562,reasoning,47.08,Assistant v1.0,2026-08-12,Needs improvement,40
+1563,reasoning,49.75,Assistant v1.2,2026-08-12,Needs improvement,40
+1564,reasoning,53.79,Assistant v1.1,2026-08-12,Needs improvement,50
+1565,knowledge,66.69,Assistant v1.1,2026-08-12,Watch,60
+1566,knowledge,92.3,Assistant v1.0,2026-08-12,Strong,90
+1567,knowledge,94.52,Assistant v2.0,2026-08-12,Strong,90
+1568,knowledge,84.29,Assistant v1.2,2026-08-12,Strong,80
+1569,code,60.47,Assistant v1.1,2026-08-12,Watch,60
+1570,code,50.31,Assistant v1.1,2026-08-12,Needs improvement,50
+1571,code,60.15,Assistant v1.1,2026-08-12,Watch,60
+1572,code,41.65,Assistant v1.1,2026-08-12,Needs improvement,40
+1573,instruction_following,92.53,Assistant v2.0,2026-08-12,Strong,90
+1574,instruction_following,100.0,Assistant v2.0,2026-08-12,Strong,90
+1575,instruction_following,65.27,Assistant v1.2,2026-08-12,Watch,60
+1576,instruction_following,73.87,Assistant v1.2,2026-08-12,Watch,70
+1577,tool_calling,76.54,Assistant v1.1,2026-08-12,Watch,70
+1578,tool_calling,51.69,Assistant v1.0,2026-08-12,Needs improvement,50
+1579,tool_calling,79.59,Assistant v1.1,2026-08-12,Watch,70
+1580,tool_calling,79.06,Assistant v2.0,2026-08-12,Watch,70
+1581,reasoning,35.39,Assistant v1.2,2026-08-13,Needs improvement,30
+1582,reasoning,38.83,Assistant v1.1,2026-08-13,Needs improvement,30
+1583,reasoning,41.77,Assistant v1.0,2026-08-13,Needs improvement,40
+1584,reasoning,36.13,Assistant v1.0,2026-08-13,Needs improvement,30
+1585,knowledge,80.02,Assistant v1.1,2026-08-13,Strong,80
+1586,knowledge,66.67,Assistant v1.1,2026-08-13,Watch,60
+1587,knowledge,87.46,Assistant v1.2,2026-08-13,Strong,80
+1588,knowledge,73.68,Assistant v1.2,2026-08-13,Watch,70
+1589,code,60.17,Assistant v2.0,2026-08-13,Watch,60
+1590,code,70.96,Assistant v1.1,2026-08-13,Watch,70
+1591,code,25.71,Assistant v1.0,2026-08-13,Needs improvement,20
+1592,code,62.27,Assistant v1.2,2026-08-13,Watch,60
+1593,instruction_following,77.0,Assistant v2.0,2026-08-13,Watch,70
+1594,instruction_following,93.32,Assistant v2.0,2026-08-13,Strong,90
+1595,instruction_following,78.97,Assistant v1.0,2026-08-13,Watch,70
+1596,instruction_following,86.58,Assistant v1.1,2026-08-13,Strong,80
+1597,tool_calling,42.26,Assistant v1.1,2026-08-13,Needs improvement,40
+1598,tool_calling,38.23,Assistant v1.0,2026-08-13,Needs improvement,30
+1599,tool_calling,21.1,Assistant v1.2,2026-08-13,Needs improvement,20
+1600,tool_calling,70.77,Assistant v1.0,2026-08-13,Watch,70
+1601,reasoning,19.52,Assistant v1.0,2026-08-14,Needs improvement,10
+1602,reasoning,46.52,Assistant v1.0,2026-08-14,Needs improvement,40
+1603,reasoning,26.42,Assistant v1.2,2026-08-14,Needs improvement,20
+1604,reasoning,73.97,Assistant v1.2,2026-08-14,Watch,70
+1605,knowledge,74.6,Assistant v1.1,2026-08-14,Watch,70
+1606,knowledge,80.56,Assistant v1.1,2026-08-14,Strong,80
+1607,knowledge,89.72,Assistant v1.2,2026-08-14,Strong,80
+1608,knowledge,70.61,Assistant v2.0,2026-08-14,Watch,70
+1609,code,51.01,Assistant v1.0,2026-08-14,Needs improvement,50
+1610,code,68.19,Assistant v1.1,2026-08-14,Watch,60
+1611,code,76.37,Assistant v1.2,2026-08-14,Watch,70
+1612,code,31.45,Assistant v1.0,2026-08-14,Needs improvement,30
+1613,instruction_following,57.75,Assistant v1.0,2026-08-14,Needs improvement,50
+1614,instruction_following,83.82,Assistant v1.1,2026-08-14,Strong,80
+1615,instruction_following,59.08,Assistant v1.0,2026-08-14,Needs improvement,50
+1616,instruction_following,76.9,Assistant v2.0,2026-08-14,Watch,70
+1617,tool_calling,57.51,Assistant v2.0,2026-08-14,Needs improvement,50
+1618,tool_calling,100.0,Assistant v2.0,2026-08-14,Strong,90
+1619,tool_calling,47.39,Assistant v1.2,2026-08-14,Needs improvement,40
+1620,tool_calling,38.89,Assistant v1.2,2026-08-14,Needs improvement,30
+1621,reasoning,12.81,Assistant v1.1,2026-08-15,Needs improvement,10
+1622,reasoning,44.86,Assistant v1.0,2026-08-15,Needs improvement,40
+1623,reasoning,75.29,Assistant v1.2,2026-08-15,Watch,70
+1624,reasoning,55.89,Assistant v1.1,2026-08-15,Needs improvement,50
+1625,knowledge,61.42,Assistant v1.2,2026-08-15,Watch,60
+1626,knowledge,92.53,Assistant v1.2,2026-08-15,Strong,90
+1627,knowledge,42.25,Assistant v1.2,2026-08-15,Needs improvement,40
+1628,knowledge,69.48,Assistant v1.1,2026-08-15,Watch,60
+1629,code,38.95,Assistant v1.2,2026-08-15,Needs improvement,30
+1630,code,40.22,Assistant v1.1,2026-08-15,Needs improvement,40
+1631,code,36.8,Assistant v1.0,2026-08-15,Needs improvement,30
+1632,code,61.35,Assistant v2.0,2026-08-15,Watch,60
+1633,instruction_following,16.83,Assistant v1.1,2026-08-15,Needs improvement,10
+1634,instruction_following,89.37,Assistant v1.0,2026-08-15,Strong,80
+1635,instruction_following,77.58,Assistant v1.0,2026-08-15,Watch,70
+1636,instruction_following,60.13,Assistant v1.1,2026-08-15,Watch,60
+1637,tool_calling,55.56,Assistant v1.0,2026-08-15,Needs improvement,50
+1638,tool_calling,90.8,Assistant v1.1,2026-08-15,Strong,90
+1639,tool_calling,70.95,Assistant v1.0,2026-08-15,Watch,70
+1640,tool_calling,53.04,Assistant v1.0,2026-08-15,Needs improvement,50
+1641,reasoning,43.03,Assistant v1.0,2026-08-16,Needs improvement,40
+1642,reasoning,54.82,Assistant v1.1,2026-08-16,Needs improvement,50
+1643,reasoning,36.25,Assistant v1.1,2026-08-16,Needs improvement,30
+1644,reasoning,66.28,Assistant v2.0,2026-08-16,Watch,60
+1645,knowledge,98.93,Assistant v2.0,2026-08-16,Strong,90
+1646,knowledge,92.15,Assistant v2.0,2026-08-16,Strong,90
+1647,knowledge,78.83,Assistant v1.0,2026-08-16,Watch,70
+1648,knowledge,68.36,Assistant v2.0,2026-08-16,Watch,60
+1649,code,53.1,Assistant v1.2,2026-08-16,Needs improvement,50
+1650,code,65.46,Assistant v1.2,2026-08-16,Watch,60
+1651,code,35.83,Assistant v2.0,2026-08-16,Needs improvement,30
+1652,code,71.83,Assistant v2.0,2026-08-16,Watch,70
+1653,instruction_following,86.83,Assistant v2.0,2026-08-16,Strong,80
+1654,instruction_following,95.37,Assistant v1.1,2026-08-16,Strong,90
+1655,instruction_following,50.53,Assistant v1.1,2026-08-16,Needs improvement,50
+1656,instruction_following,67.03,Assistant v1.0,2026-08-16,Watch,60
+1657,tool_calling,84.47,Assistant v1.2,2026-08-16,Strong,80
+1658,tool_calling,46.38,Assistant v1.0,2026-08-16,Needs improvement,40
+1659,tool_calling,49.0,Assistant v1.2,2026-08-16,Needs improvement,40
+1660,tool_calling,30.97,Assistant v1.1,2026-08-16,Needs improvement,30
+1661,reasoning,81.27,Assistant v1.2,2026-08-17,Strong,80
+1662,reasoning,63.06,Assistant v2.0,2026-08-17,Watch,60
+1663,reasoning,78.18,Assistant v1.0,2026-08-17,Watch,70
+1664,reasoning,11.88,Assistant v1.2,2026-08-17,Needs improvement,10
+1665,knowledge,99.65,Assistant v1.0,2026-08-17,Strong,90
+1666,knowledge,63.26,Assistant v1.0,2026-08-17,Watch,60
+1667,knowledge,67.3,Assistant v1.2,2026-08-17,Watch,60
+1668,knowledge,88.85,Assistant v1.2,2026-08-17,Strong,80
+1669,code,46.44,Assistant v1.1,2026-08-17,Needs improvement,40
+1670,code,31.5,Assistant v1.2,2026-08-17,Needs improvement,30
+1671,code,58.13,Assistant v1.2,2026-08-17,Needs improvement,50
+1672,code,42.64,Assistant v1.0,2026-08-17,Needs improvement,40
+1673,instruction_following,88.08,Assistant v1.1,2026-08-17,Strong,80
+1674,instruction_following,59.91,Assistant v1.1,2026-08-17,Needs improvement,50
+1675,instruction_following,85.44,Assistant v2.0,2026-08-17,Strong,80
+1676,instruction_following,100.0,Assistant v2.0,2026-08-17,Strong,90
+1677,tool_calling,39.9,Assistant v1.1,2026-08-17,Needs improvement,30
+1678,tool_calling,44.6,Assistant v1.1,2026-08-17,Needs improvement,40
+1679,tool_calling,63.06,Assistant v1.1,2026-08-17,Watch,60
+1680,tool_calling,61.42,Assistant v1.0,2026-08-17,Watch,60
+1681,reasoning,85.37,Assistant v2.0,2026-08-18,Strong,80
+1682,reasoning,25.23,Assistant v2.0,2026-08-18,Needs improvement,20
+1683,reasoning,25.12,Assistant v1.1,2026-08-18,Needs improvement,20
+1684,reasoning,16.54,Assistant v1.1,2026-08-18,Needs improvement,10
+1685,knowledge,86.03,Assistant v1.2,2026-08-18,Strong,80
+1686,knowledge,22.78,Assistant v1.2,2026-08-18,Needs improvement,20
+1687,knowledge,72.17,Assistant v2.0,2026-08-18,Watch,70
+1688,knowledge,82.72,Assistant v1.0,2026-08-18,Strong,80
+1689,code,41.91,Assistant v1.1,2026-08-18,Needs improvement,40
+1690,code,58.64,Assistant v1.2,2026-08-18,Needs improvement,50
+1691,code,37.74,Assistant v1.0,2026-08-18,Needs improvement,30
+1692,code,43.38,Assistant v1.1,2026-08-18,Needs improvement,40
+1693,instruction_following,70.18,Assistant v1.2,2026-08-18,Watch,70
+1694,instruction_following,95.36,Assistant v1.0,2026-08-18,Strong,90
+1695,instruction_following,88.37,Assistant v1.2,2026-08-18,Strong,80
+1696,instruction_following,87.5,Assistant v1.2,2026-08-18,Strong,80
+1697,tool_calling,77.02,Assistant v1.2,2026-08-18,Watch,70
+1698,tool_calling,85.77,Assistant v1.2,2026-08-18,Strong,80
+1699,tool_calling,58.22,Assistant v1.2,2026-08-18,Needs improvement,50
+1700,tool_calling,82.23,Assistant v2.0,2026-08-18,Strong,80
+1701,reasoning,32.19,Assistant v1.0,2026-08-19,Needs improvement,30
+1702,reasoning,53.05,Assistant v1.0,2026-08-19,Needs improvement,50
+1703,reasoning,66.2,Assistant v1.0,2026-08-19,Watch,60
+1704,reasoning,64.33,Assistant v1.2,2026-08-19,Watch,60
+1705,knowledge,34.07,Assistant v1.0,2026-08-19,Needs improvement,30
+1706,knowledge,91.73,Assistant v2.0,2026-08-19,Strong,90
+1707,knowledge,100.0,Assistant v1.2,2026-08-19,Strong,90
+1708,knowledge,82.58,Assistant v1.1,2026-08-19,Strong,80
+1709,code,67.26,Assistant v2.0,2026-08-19,Watch,60
+1710,code,57.97,Assistant v1.2,2026-08-19,Needs improvement,50
+1711,code,75.06,Assistant v1.0,2026-08-19,Watch,70
+1712,code,45.1,Assistant v2.0,2026-08-19,Needs improvement,40
+1713,instruction_following,85.44,Assistant v2.0,2026-08-19,Strong,80
+1714,instruction_following,100.0,Assistant v1.2,2026-08-19,Strong,90
+1715,instruction_following,91.36,Assistant v1.1,2026-08-19,Strong,90
+1716,instruction_following,54.72,Assistant v1.2,2026-08-19,Needs improvement,50
+1717,tool_calling,89.22,Assistant v1.2,2026-08-19,Strong,80
+1718,tool_calling,61.83,Assistant v2.0,2026-08-19,Watch,60
+1719,tool_calling,47.53,Assistant v1.0,2026-08-19,Needs improvement,40
+1720,tool_calling,67.12,Assistant v2.0,2026-08-19,Watch,60
+1721,reasoning,54.33,Assistant v1.2,2026-08-20,Needs improvement,50
+1722,reasoning,49.51,Assistant v1.2,2026-08-20,Needs improvement,40
+1723,reasoning,69.1,Assistant v2.0,2026-08-20,Watch,60
+1724,reasoning,38.16,Assistant v2.0,2026-08-20,Needs improvement,30
+1725,knowledge,54.78,Assistant v1.0,2026-08-20,Needs improvement,50
+1726,knowledge,39.89,Assistant v1.0,2026-08-20,Needs improvement,30
+1727,knowledge,60.24,Assistant v1.0,2026-08-20,Watch,60
+1728,knowledge,100.0,Assistant v2.0,2026-08-20,Strong,90
+1729,code,47.5,Assistant v1.2,2026-08-20,Needs improvement,40
+1730,code,44.52,Assistant v1.1,2026-08-20,Needs improvement,40
+1731,code,79.52,Assistant v2.0,2026-08-20,Watch,70
+1732,code,68.69,Assistant v1.1,2026-08-20,Watch,60
+1733,instruction_following,35.1,Assistant v2.0,2026-08-20,Needs improvement,30
+1734,instruction_following,98.71,Assistant v2.0,2026-08-20,Strong,90
+1735,instruction_following,76.22,Assistant v1.0,2026-08-20,Watch,70
+1736,instruction_following,99.55,Assistant v2.0,2026-08-20,Strong,90
+1737,tool_calling,17.86,Assistant v1.2,2026-08-20,Needs improvement,10
+1738,tool_calling,32.82,Assistant v1.1,2026-08-20,Needs improvement,30
+1739,tool_calling,67.58,Assistant v2.0,2026-08-20,Watch,60
+1740,tool_calling,91.93,Assistant v2.0,2026-08-20,Strong,90
+1741,reasoning,31.13,Assistant v1.1,2026-08-21,Needs improvement,30
+1742,reasoning,31.68,Assistant v1.1,2026-08-21,Needs improvement,30
+1743,reasoning,73.3,Assistant v1.2,2026-08-21,Watch,70
+1744,reasoning,44.45,Assistant v1.0,2026-08-21,Needs improvement,40
+1745,knowledge,76.15,Assistant v2.0,2026-08-21,Watch,70
+1746,knowledge,63.83,Assistant v1.1,2026-08-21,Watch,60
+1747,knowledge,92.38,Assistant v1.2,2026-08-21,Strong,90
+1748,knowledge,77.57,Assistant v1.0,2026-08-21,Watch,70
+1749,code,39.57,Assistant v1.1,2026-08-21,Needs improvement,30
+1750,code,56.58,Assistant v1.2,2026-08-21,Needs improvement,50
+1751,code,60.67,Assistant v1.0,2026-08-21,Watch,60
+1752,code,73.44,Assistant v1.2,2026-08-21,Watch,70
+1753,instruction_following,77.37,Assistant v2.0,2026-08-21,Watch,70
+1754,instruction_following,68.14,Assistant v1.0,2026-08-21,Watch,60
+1755,instruction_following,96.95,Assistant v1.1,2026-08-21,Strong,90
+1756,instruction_following,53.93,Assistant v2.0,2026-08-21,Needs improvement,50
+1757,tool_calling,35.91,Assistant v1.0,2026-08-21,Needs improvement,30
+1758,tool_calling,82.35,Assistant v1.1,2026-08-21,Strong,80
+1759,tool_calling,32.06,Assistant v1.2,2026-08-21,Needs improvement,30
+1760,tool_calling,56.7,Assistant v1.1,2026-08-21,Needs improvement,50
+1761,reasoning,47.4,Assistant v1.2,2026-08-22,Needs improvement,40
+1762,reasoning,79.5,Assistant v1.2,2026-08-22,Watch,70
+1763,reasoning,50.71,Assistant v2.0,2026-08-22,Needs improvement,50
+1764,reasoning,64.39,Assistant v2.0,2026-08-22,Watch,60
+1765,knowledge,75.67,Assistant v1.1,2026-08-22,Watch,70
+1766,knowledge,80.55,Assistant v1.0,2026-08-22,Strong,80
+1767,knowledge,90.02,Assistant v2.0,2026-08-22,Strong,90
+1768,knowledge,36.3,Assistant v1.0,2026-08-22,Needs improvement,30
+1769,code,63.22,Assistant v1.0,2026-08-22,Watch,60
+1770,code,76.64,Assistant v1.2,2026-08-22,Watch,70
+1771,code,28.69,Assistant v1.2,2026-08-22,Needs improvement,20
+1772,code,85.78,Assistant v1.2,2026-08-22,Strong,80
+1773,instruction_following,77.31,Assistant v2.0,2026-08-22,Watch,70
+1774,instruction_following,83.6,Assistant v1.1,2026-08-22,Strong,80
+1775,instruction_following,83.37,Assistant v1.2,2026-08-22,Strong,80
+1776,instruction_following,74.07,Assistant v1.0,2026-08-22,Watch,70
+1777,tool_calling,94.73,Assistant v2.0,2026-08-22,Strong,90
+1778,tool_calling,23.68,Assistant v1.2,2026-08-22,Needs improvement,20
+1779,tool_calling,61.55,Assistant v2.0,2026-08-22,Watch,60
+1780,tool_calling,86.43,Assistant v2.0,2026-08-22,Strong,80
+1781,reasoning,70.83,Assistant v1.1,2026-08-23,Watch,70
+1782,reasoning,44.07,Assistant v1.0,2026-08-23,Needs improvement,40
+1783,reasoning,31.22,Assistant v1.0,2026-08-23,Needs improvement,30
+1784,reasoning,62.08,Assistant v1.2,2026-08-23,Watch,60
+1785,knowledge,90.9,Assistant v1.2,2026-08-23,Strong,90
+1786,knowledge,87.37,Assistant v1.1,2026-08-23,Strong,80
+1787,knowledge,59.29,Assistant v1.1,2026-08-23,Needs improvement,50
+1788,knowledge,64.58,Assistant v1.0,2026-08-23,Watch,60
+1789,code,59.32,Assistant v2.0,2026-08-23,Needs improvement,50
+1790,code,72.72,Assistant v2.0,2026-08-23,Watch,70
+1791,code,77.21,Assistant v2.0,2026-08-23,Watch,70
+1792,code,100.0,Assistant v2.0,2026-08-23,Strong,90
+1793,instruction_following,63.59,Assistant v1.0,2026-08-23,Watch,60
+1794,instruction_following,100.0,Assistant v2.0,2026-08-23,Strong,90
+1795,instruction_following,88.58,Assistant v1.0,2026-08-23,Strong,80
+1796,instruction_following,74.57,Assistant v1.0,2026-08-23,Watch,70
+1797,tool_calling,70.87,Assistant v1.2,2026-08-23,Watch,70
+1798,tool_calling,54.4,Assistant v2.0,2026-08-23,Needs improvement,50
+1799,tool_calling,30.96,Assistant v2.0,2026-08-23,Needs improvement,30
+1800,tool_calling,60.16,Assistant v2.0,2026-08-23,Watch,60
