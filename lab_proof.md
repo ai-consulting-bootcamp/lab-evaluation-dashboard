@@ -104,6 +104,27 @@ dashboard.
 - Filtered result: 1,141 evaluations.
 - All three visualizations updated.
 - Model filter test: PASSED.
-- Category and date filter tests were not independently verified.
+- Category and date filters subsequently verified.
 
 ![Successful GPT-4 filter test](filter_test_gpt4.png)
+
+
+## Final Interaction Test Log
+
+| Interaction | Result | Evidence |
+|---|---|---|
+| Model filter | PASS | GPT-4: 1,141 records |
+| Category filter | PASS | Reasoning: 879 records |
+| Date filter | PASS | Excluding 2026: zero marks |
+| Chart-to-chart filtering | BLOCKED | Tableau error C4E5AE8D |
+
+All three dashboard filters successfully updated
+all three visualizations.
+
+Chart-to-chart filtering was attempted but blocked
+by a Tableau internal error.
+
+## Refinement
+
+Changed the dashboard sizing to automatic to make
+all three filter controls accessible.
