@@ -51,4 +51,59 @@ Tableau Desktop is unavailable in the generation environment. The workbook XML i
 
 The date filter operates at year level.
 The dataset contains synthetic evaluation results.
-Cross-worksheet filter behavior requires final verification.
+Cross-worksheet model filtering successfully verified in Tableau.
+
+## Step 5 — Score Distribution Histogram
+
+Implemented and rendered in Tableau Public.
+
+- Worksheet: Score Distribution
+- Horizontal axis: score_range
+- Vertical axis: COUNT(evaluation_id)
+- Bin width: 10 points
+- Dataset: 4,489 synthetic evaluation records
+- Purpose: identify the overall distribution of evaluation scores.
+
+## Step 6 — Score Distribution by Category
+
+Implemented and rendered in Tableau Public.
+
+- Worksheet: Scores by Category
+- Categories: reasoning, knowledge, code,
+  instruction_following and tool_calling.
+- Purpose: identify performance differences across categories.
+
+## Step 9 — Dashboard Layout
+
+The Model Evaluation Score Dashboard combines all
+three worksheets in a single Tableau dashboard.
+
+Model version, category and year filter controls
+are visible in the dashboard.
+
+## Actual Tableau Evidence
+
+![Final Tableau Dashboard](dashboard_screenshot.png)
+
+[Download the packaged Tableau workbook](evaluation_score_dashboard.twbx)
+
+The workbook was successfully rendered in Tableau
+Public 2026.3.1 following XML compatibility repairs
+and creation of a native Hyper extract.
+
+Earlier draft references describe the initial
+development stage, not the subsequently rendered
+dashboard.
+
+
+
+## Final Interactive Filter Verification
+
+- Test input: GPT-4 selected exclusively.
+- Baseline: 4,489 evaluations.
+- Filtered result: 1,141 evaluations.
+- All three visualizations updated.
+- Model filter test: PASSED.
+- Category and date filter tests were not independently verified.
+
+![Successful GPT-4 filter test](filter_test_gpt4.png)
