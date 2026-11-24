@@ -1,0 +1,3 @@
+# Data Source
+
+This lab uses Option B: synthetic evaluation data generated with Python, pandas and NumPy using the lab's sample-generation approach and a fixed random seed of `42`. The validated dataset, [evaluation_data_clean.csv](./evaluation_data_clean.csv), contains 4,489 evaluation records across five categories and four randomly assigned model labels from August 26 to November 23, 2026, with scores ranging from 0 to 100 and no missing values or duplicate evaluation IDs. Synthetic data was selected to provide a consistent dataset for dashboard design and interactive filtering without exposing real evaluation data on Tableau Public; the scores do not represent actual model performance.
