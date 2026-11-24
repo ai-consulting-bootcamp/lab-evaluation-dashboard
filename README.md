@@ -1,23 +1,34 @@
-# Evaluation Dashboard
+# ShopCo Evaluation Dashboard
 
-**Track:** Module 5 — Evaluation & strategy · **When:** Week 8, Day 2 · **Status:** Required
+This lab uses Tableau Public to present 300 synthetic ShopCo evaluation records. The dashboard includes a score histogram, average scores by category, and a comparison of two fictional versions.
 
-This repository contains everything you need for this lab.
+Category and version filters update all three charts. The scores are simulated and do not measure real agent performance.
+
+## Review
+
+Start with [lab_proof.md](lab_proof.md) for the workflow, evidence, results, and limitations.
+
+[Open the interactive dashboard](https://public.tableau.com/views/ShopCoEvaluationDashboard-SyntheticData/ShopCoDashboard?:showVizHome=no)
 
 ## Files
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+| File | Purpose |
+|---|---|
+| lab_proof.md | Main evidence and workflow |
+| generate_shopco_data.py | Generates and validates the synthetic data |
+| evaluation_data_clean.csv | Dataset used in Tableau |
+| [evaluation_score_dashboard.twbx](evaluation_score_dashboard.twbx) | Editable Tableau packaged workbook |
+| dashboard_screenshot.png | Image of the complete dashboard |
+| data_source.md | Data source and reason for using synthetic data |
 
-## How to complete this lab
+## Generate the data
 
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
+With Python and pandas installed, run:
 
-## Submission hygiene
+python generate_shopco_data.py
 
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+The script saves evaluation_data_clean.csv in the same folder.
+
+## Scope
+
+The optional judge agreement dashboard was not completed.

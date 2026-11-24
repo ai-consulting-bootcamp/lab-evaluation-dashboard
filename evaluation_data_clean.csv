@@ -1,0 +1,301 @@
+evaluation_id,category,score,model_version,data_source
+SYN-001,Returns,75.98,ShopCo_v1,synthetic
+SYN-002,Returns,75.58,ShopCo_v1,synthetic
+SYN-003,Returns,76.44,ShopCo_v1,synthetic
+SYN-004,Returns,87.83,ShopCo_v1,synthetic
+SYN-005,Returns,76.21,ShopCo_v1,synthetic
+SYN-006,Returns,57.04,ShopCo_v1,synthetic
+SYN-007,Returns,82.65,ShopCo_v1,synthetic
+SYN-008,Returns,74.26,ShopCo_v1,synthetic
+SYN-009,Returns,74.96,ShopCo_v1,synthetic
+SYN-010,Returns,79.62,ShopCo_v1,synthetic
+SYN-011,Returns,81.25,ShopCo_v1,synthetic
+SYN-012,Returns,94.29,ShopCo_v1,synthetic
+SYN-013,Returns,87.19,ShopCo_v1,synthetic
+SYN-014,Returns,79.55,ShopCo_v1,synthetic
+SYN-015,Returns,67.66,ShopCo_v1,synthetic
+SYN-016,Returns,63.79,ShopCo_v1,synthetic
+SYN-017,Returns,81.45,ShopCo_v1,synthetic
+SYN-018,Returns,96.36,ShopCo_v1,synthetic
+SYN-019,Returns,78.58,ShopCo_v1,synthetic
+SYN-020,Returns,76.51,ShopCo_v1,synthetic
+SYN-021,Returns,85.44,ShopCo_v1,synthetic
+SYN-022,Returns,57.65,ShopCo_v1,synthetic
+SYN-023,Returns,73.63,ShopCo_v1,synthetic
+SYN-024,Returns,84.87,ShopCo_v1,synthetic
+SYN-025,Returns,90.23,ShopCo_v1,synthetic
+SYN-026,Returns,74.63,ShopCo_v1,synthetic
+SYN-027,Returns,83.27,ShopCo_v1,synthetic
+SYN-028,Returns,81.47,ShopCo_v1,synthetic
+SYN-029,Returns,88.95,ShopCo_v1,synthetic
+SYN-030,Returns,62.41,ShopCo_v1,synthetic
+SYN-031,Returns,91.96,ShopCo_v2,synthetic
+SYN-032,Returns,62.8,ShopCo_v2,synthetic
+SYN-033,Returns,47.32,ShopCo_v2,synthetic
+SYN-034,Returns,75.5,ShopCo_v2,synthetic
+SYN-035,Returns,71.18,ShopCo_v2,synthetic
+SYN-036,Returns,96.26,ShopCo_v2,synthetic
+SYN-037,Returns,93.3,ShopCo_v2,synthetic
+SYN-038,Returns,66.93,ShopCo_v2,synthetic
+SYN-039,Returns,95.86,ShopCo_v2,synthetic
+SYN-040,Returns,69.97,ShopCo_v2,synthetic
+SYN-041,Returns,82.79,ShopCo_v2,synthetic
+SYN-042,Returns,79.89,ShopCo_v2,synthetic
+SYN-043,Returns,85.6,ShopCo_v2,synthetic
+SYN-044,Returns,95.46,ShopCo_v2,synthetic
+SYN-045,Returns,92.94,ShopCo_v2,synthetic
+SYN-046,Returns,88.9,ShopCo_v2,synthetic
+SYN-047,Returns,93.1,ShopCo_v2,synthetic
+SYN-048,Returns,90.7,ShopCo_v2,synthetic
+SYN-049,Returns,75.22,ShopCo_v2,synthetic
+SYN-050,Returns,73.96,ShopCo_v2,synthetic
+SYN-051,Returns,77.42,ShopCo_v2,synthetic
+SYN-052,Returns,90.99,ShopCo_v2,synthetic
+SYN-053,Returns,80.5,ShopCo_v2,synthetic
+SYN-054,Returns,100.0,ShopCo_v2,synthetic
+SYN-055,Returns,72.53,ShopCo_v2,synthetic
+SYN-056,Returns,68.62,ShopCo_v2,synthetic
+SYN-057,Returns,94.76,ShopCo_v2,synthetic
+SYN-058,Returns,100.0,ShopCo_v2,synthetic
+SYN-059,Returns,91.08,ShopCo_v2,synthetic
+SYN-060,Returns,95.7,ShopCo_v2,synthetic
+SYN-061,Delivery,100.0,ShopCo_v1,synthetic
+SYN-062,Delivery,80.68,ShopCo_v1,synthetic
+SYN-063,Delivery,62.08,ShopCo_v1,synthetic
+SYN-064,Delivery,74.55,ShopCo_v1,synthetic
+SYN-065,Delivery,95.34,ShopCo_v1,synthetic
+SYN-066,Delivery,61.79,ShopCo_v1,synthetic
+SYN-067,Delivery,82.47,ShopCo_v1,synthetic
+SYN-068,Delivery,85.55,ShopCo_v1,synthetic
+SYN-069,Delivery,77.58,ShopCo_v1,synthetic
+SYN-070,Delivery,92.13,ShopCo_v1,synthetic
+SYN-071,Delivery,90.13,ShopCo_v1,synthetic
+SYN-072,Delivery,100.0,ShopCo_v1,synthetic
+SYN-073,Delivery,90.68,ShopCo_v1,synthetic
+SYN-074,Delivery,73.47,ShopCo_v1,synthetic
+SYN-075,Delivery,74.13,ShopCo_v1,synthetic
+SYN-076,Delivery,70.36,ShopCo_v1,synthetic
+SYN-077,Delivery,95.33,ShopCo_v1,synthetic
+SYN-078,Delivery,74.06,ShopCo_v1,synthetic
+SYN-079,Delivery,81.02,ShopCo_v1,synthetic
+SYN-080,Delivery,92.49,ShopCo_v1,synthetic
+SYN-081,Delivery,71.87,ShopCo_v1,synthetic
+SYN-082,Delivery,77.89,ShopCo_v1,synthetic
+SYN-083,Delivery,56.22,ShopCo_v1,synthetic
+SYN-084,Delivery,66.85,ShopCo_v1,synthetic
+SYN-085,Delivery,74.05,ShopCo_v1,synthetic
+SYN-086,Delivery,87.82,ShopCo_v1,synthetic
+SYN-087,Delivery,98.71,ShopCo_v1,synthetic
+SYN-088,Delivery,81.74,ShopCo_v1,synthetic
+SYN-089,Delivery,85.66,ShopCo_v1,synthetic
+SYN-090,Delivery,84.35,ShopCo_v1,synthetic
+SYN-091,Delivery,100.0,ShopCo_v2,synthetic
+SYN-092,Delivery,98.51,ShopCo_v2,synthetic
+SYN-093,Delivery,89.83,ShopCo_v2,synthetic
+SYN-094,Delivery,71.85,ShopCo_v2,synthetic
+SYN-095,Delivery,98.65,ShopCo_v2,synthetic
+SYN-096,Delivery,91.33,ShopCo_v2,synthetic
+SYN-097,Delivery,100.0,ShopCo_v2,synthetic
+SYN-098,Delivery,85.58,ShopCo_v2,synthetic
+SYN-099,Delivery,100.0,ShopCo_v2,synthetic
+SYN-100,Delivery,80.98,ShopCo_v2,synthetic
+SYN-101,Delivery,100.0,ShopCo_v2,synthetic
+SYN-102,Delivery,87.61,ShopCo_v2,synthetic
+SYN-103,Delivery,78.77,ShopCo_v2,synthetic
+SYN-104,Delivery,70.2,ShopCo_v2,synthetic
+SYN-105,Delivery,83.89,ShopCo_v2,synthetic
+SYN-106,Delivery,100.0,ShopCo_v2,synthetic
+SYN-107,Delivery,97.43,ShopCo_v2,synthetic
+SYN-108,Delivery,95.64,ShopCo_v2,synthetic
+SYN-109,Delivery,52.74,ShopCo_v2,synthetic
+SYN-110,Delivery,95.95,ShopCo_v2,synthetic
+SYN-111,Delivery,93.78,ShopCo_v2,synthetic
+SYN-112,Delivery,78.3,ShopCo_v2,synthetic
+SYN-113,Delivery,77.22,ShopCo_v2,synthetic
+SYN-114,Delivery,85.97,ShopCo_v2,synthetic
+SYN-115,Delivery,100.0,ShopCo_v2,synthetic
+SYN-116,Delivery,71.23,ShopCo_v2,synthetic
+SYN-117,Delivery,80.01,ShopCo_v2,synthetic
+SYN-118,Delivery,100.0,ShopCo_v2,synthetic
+SYN-119,Delivery,79.75,ShopCo_v2,synthetic
+SYN-120,Delivery,80.9,ShopCo_v2,synthetic
+SYN-121,Refunds,69.37,ShopCo_v1,synthetic
+SYN-122,Refunds,50.62,ShopCo_v1,synthetic
+SYN-123,Refunds,71.08,ShopCo_v1,synthetic
+SYN-124,Refunds,51.07,ShopCo_v1,synthetic
+SYN-125,Refunds,80.39,ShopCo_v1,synthetic
+SYN-126,Refunds,68.04,ShopCo_v1,synthetic
+SYN-127,Refunds,99.97,ShopCo_v1,synthetic
+SYN-128,Refunds,71.93,ShopCo_v1,synthetic
+SYN-129,Refunds,87.12,ShopCo_v1,synthetic
+SYN-130,Refunds,49.75,ShopCo_v1,synthetic
+SYN-131,Refunds,66.29,ShopCo_v1,synthetic
+SYN-132,Refunds,72.52,ShopCo_v1,synthetic
+SYN-133,Refunds,92.44,ShopCo_v1,synthetic
+SYN-134,Refunds,44.47,ShopCo_v1,synthetic
+SYN-135,Refunds,81.87,ShopCo_v1,synthetic
+SYN-136,Refunds,76.28,ShopCo_v1,synthetic
+SYN-137,Refunds,89.47,ShopCo_v1,synthetic
+SYN-138,Refunds,77.97,ShopCo_v1,synthetic
+SYN-139,Refunds,68.73,ShopCo_v1,synthetic
+SYN-140,Refunds,60.7,ShopCo_v1,synthetic
+SYN-141,Refunds,50.53,ShopCo_v1,synthetic
+SYN-142,Refunds,70.74,ShopCo_v1,synthetic
+SYN-143,Refunds,65.32,ShopCo_v1,synthetic
+SYN-144,Refunds,96.28,ShopCo_v1,synthetic
+SYN-145,Refunds,59.45,ShopCo_v1,synthetic
+SYN-146,Refunds,72.49,ShopCo_v1,synthetic
+SYN-147,Refunds,46.03,ShopCo_v1,synthetic
+SYN-148,Refunds,62.46,ShopCo_v1,synthetic
+SYN-149,Refunds,71.66,ShopCo_v1,synthetic
+SYN-150,Refunds,79.54,ShopCo_v1,synthetic
+SYN-151,Refunds,97.27,ShopCo_v2,synthetic
+SYN-152,Refunds,76.38,ShopCo_v2,synthetic
+SYN-153,Refunds,61.36,ShopCo_v2,synthetic
+SYN-154,Refunds,83.41,ShopCo_v2,synthetic
+SYN-155,Refunds,84.24,ShopCo_v2,synthetic
+SYN-156,Refunds,83.88,ShopCo_v2,synthetic
+SYN-157,Refunds,67.2,ShopCo_v2,synthetic
+SYN-158,Refunds,92.87,ShopCo_v2,synthetic
+SYN-159,Refunds,78.23,ShopCo_v2,synthetic
+SYN-160,Refunds,86.8,ShopCo_v2,synthetic
+SYN-161,Refunds,94.84,ShopCo_v2,synthetic
+SYN-162,Refunds,85.53,ShopCo_v2,synthetic
+SYN-163,Refunds,81.01,ShopCo_v2,synthetic
+SYN-164,Refunds,100.0,ShopCo_v2,synthetic
+SYN-165,Refunds,80.41,ShopCo_v2,synthetic
+SYN-166,Refunds,72.86,ShopCo_v2,synthetic
+SYN-167,Refunds,78.57,ShopCo_v2,synthetic
+SYN-168,Refunds,97.76,ShopCo_v2,synthetic
+SYN-169,Refunds,78.66,ShopCo_v2,synthetic
+SYN-170,Refunds,84.27,ShopCo_v2,synthetic
+SYN-171,Refunds,93.74,ShopCo_v2,synthetic
+SYN-172,Refunds,69.82,ShopCo_v2,synthetic
+SYN-173,Refunds,52.83,ShopCo_v2,synthetic
+SYN-174,Refunds,81.19,ShopCo_v2,synthetic
+SYN-175,Refunds,80.22,ShopCo_v2,synthetic
+SYN-176,Refunds,68.49,ShopCo_v2,synthetic
+SYN-177,Refunds,89.2,ShopCo_v2,synthetic
+SYN-178,Refunds,85.51,ShopCo_v2,synthetic
+SYN-179,Refunds,63.07,ShopCo_v2,synthetic
+SYN-180,Refunds,84.26,ShopCo_v2,synthetic
+SYN-181,Cancellations,72.25,ShopCo_v1,synthetic
+SYN-182,Cancellations,54.24,ShopCo_v1,synthetic
+SYN-183,Cancellations,81.34,ShopCo_v1,synthetic
+SYN-184,Cancellations,74.37,ShopCo_v1,synthetic
+SYN-185,Cancellations,64.57,ShopCo_v1,synthetic
+SYN-186,Cancellations,82.32,ShopCo_v1,synthetic
+SYN-187,Cancellations,81.83,ShopCo_v1,synthetic
+SYN-188,Cancellations,66.91,ShopCo_v1,synthetic
+SYN-189,Cancellations,80.6,ShopCo_v1,synthetic
+SYN-190,Cancellations,89.21,ShopCo_v1,synthetic
+SYN-191,Cancellations,65.02,ShopCo_v1,synthetic
+SYN-192,Cancellations,80.33,ShopCo_v1,synthetic
+SYN-193,Cancellations,75.04,ShopCo_v1,synthetic
+SYN-194,Cancellations,100.0,ShopCo_v1,synthetic
+SYN-195,Cancellations,48.93,ShopCo_v1,synthetic
+SYN-196,Cancellations,84.73,ShopCo_v1,synthetic
+SYN-197,Cancellations,70.71,ShopCo_v1,synthetic
+SYN-198,Cancellations,73.6,ShopCo_v1,synthetic
+SYN-199,Cancellations,100.0,ShopCo_v1,synthetic
+SYN-200,Cancellations,74.88,ShopCo_v1,synthetic
+SYN-201,Cancellations,100.0,ShopCo_v1,synthetic
+SYN-202,Cancellations,68.81,ShopCo_v1,synthetic
+SYN-203,Cancellations,79.91,ShopCo_v1,synthetic
+SYN-204,Cancellations,68.13,ShopCo_v1,synthetic
+SYN-205,Cancellations,65.33,ShopCo_v1,synthetic
+SYN-206,Cancellations,75.87,ShopCo_v1,synthetic
+SYN-207,Cancellations,71.04,ShopCo_v1,synthetic
+SYN-208,Cancellations,77.83,ShopCo_v1,synthetic
+SYN-209,Cancellations,45.53,ShopCo_v1,synthetic
+SYN-210,Cancellations,100.0,ShopCo_v1,synthetic
+SYN-211,Cancellations,78.66,ShopCo_v2,synthetic
+SYN-212,Cancellations,100.0,ShopCo_v2,synthetic
+SYN-213,Cancellations,66.9,ShopCo_v2,synthetic
+SYN-214,Cancellations,85.1,ShopCo_v2,synthetic
+SYN-215,Cancellations,100.0,ShopCo_v2,synthetic
+SYN-216,Cancellations,68.82,ShopCo_v2,synthetic
+SYN-217,Cancellations,60.07,ShopCo_v2,synthetic
+SYN-218,Cancellations,73.35,ShopCo_v2,synthetic
+SYN-219,Cancellations,87.61,ShopCo_v2,synthetic
+SYN-220,Cancellations,90.71,ShopCo_v2,synthetic
+SYN-221,Cancellations,99.07,ShopCo_v2,synthetic
+SYN-222,Cancellations,77.4,ShopCo_v2,synthetic
+SYN-223,Cancellations,58.57,ShopCo_v2,synthetic
+SYN-224,Cancellations,74.91,ShopCo_v2,synthetic
+SYN-225,Cancellations,98.36,ShopCo_v2,synthetic
+SYN-226,Cancellations,87.52,ShopCo_v2,synthetic
+SYN-227,Cancellations,53.6,ShopCo_v2,synthetic
+SYN-228,Cancellations,80.51,ShopCo_v2,synthetic
+SYN-229,Cancellations,100.0,ShopCo_v2,synthetic
+SYN-230,Cancellations,100.0,ShopCo_v2,synthetic
+SYN-231,Cancellations,88.86,ShopCo_v2,synthetic
+SYN-232,Cancellations,85.33,ShopCo_v2,synthetic
+SYN-233,Cancellations,63.64,ShopCo_v2,synthetic
+SYN-234,Cancellations,69.19,ShopCo_v2,synthetic
+SYN-235,Cancellations,81.66,ShopCo_v2,synthetic
+SYN-236,Cancellations,88.04,ShopCo_v2,synthetic
+SYN-237,Cancellations,89.12,ShopCo_v2,synthetic
+SYN-238,Cancellations,74.31,ShopCo_v2,synthetic
+SYN-239,Cancellations,64.87,ShopCo_v2,synthetic
+SYN-240,Cancellations,70.11,ShopCo_v2,synthetic
+SYN-241,Ambiguous requests,41.8,ShopCo_v1,synthetic
+SYN-242,Ambiguous requests,67.01,ShopCo_v1,synthetic
+SYN-243,Ambiguous requests,25.63,ShopCo_v1,synthetic
+SYN-244,Ambiguous requests,53.33,ShopCo_v1,synthetic
+SYN-245,Ambiguous requests,64.3,ShopCo_v1,synthetic
+SYN-246,Ambiguous requests,79.31,ShopCo_v1,synthetic
+SYN-247,Ambiguous requests,59.0,ShopCo_v1,synthetic
+SYN-248,Ambiguous requests,72.02,ShopCo_v1,synthetic
+SYN-249,Ambiguous requests,52.41,ShopCo_v1,synthetic
+SYN-250,Ambiguous requests,47.58,ShopCo_v1,synthetic
+SYN-251,Ambiguous requests,48.56,ShopCo_v1,synthetic
+SYN-252,Ambiguous requests,79.38,ShopCo_v1,synthetic
+SYN-253,Ambiguous requests,71.92,ShopCo_v1,synthetic
+SYN-254,Ambiguous requests,64.82,ShopCo_v1,synthetic
+SYN-255,Ambiguous requests,100.0,ShopCo_v1,synthetic
+SYN-256,Ambiguous requests,57.55,ShopCo_v1,synthetic
+SYN-257,Ambiguous requests,66.68,ShopCo_v1,synthetic
+SYN-258,Ambiguous requests,62.31,ShopCo_v1,synthetic
+SYN-259,Ambiguous requests,54.89,ShopCo_v1,synthetic
+SYN-260,Ambiguous requests,90.43,ShopCo_v1,synthetic
+SYN-261,Ambiguous requests,79.09,ShopCo_v1,synthetic
+SYN-262,Ambiguous requests,38.41,ShopCo_v1,synthetic
+SYN-263,Ambiguous requests,52.4,ShopCo_v1,synthetic
+SYN-264,Ambiguous requests,64.0,ShopCo_v1,synthetic
+SYN-265,Ambiguous requests,68.96,ShopCo_v1,synthetic
+SYN-266,Ambiguous requests,39.12,ShopCo_v1,synthetic
+SYN-267,Ambiguous requests,26.42,ShopCo_v1,synthetic
+SYN-268,Ambiguous requests,31.31,ShopCo_v1,synthetic
+SYN-269,Ambiguous requests,57.0,ShopCo_v1,synthetic
+SYN-270,Ambiguous requests,56.56,ShopCo_v1,synthetic
+SYN-271,Ambiguous requests,70.83,ShopCo_v2,synthetic
+SYN-272,Ambiguous requests,55.22,ShopCo_v2,synthetic
+SYN-273,Ambiguous requests,48.86,ShopCo_v2,synthetic
+SYN-274,Ambiguous requests,37.68,ShopCo_v2,synthetic
+SYN-275,Ambiguous requests,70.61,ShopCo_v2,synthetic
+SYN-276,Ambiguous requests,71.18,ShopCo_v2,synthetic
+SYN-277,Ambiguous requests,79.9,ShopCo_v2,synthetic
+SYN-278,Ambiguous requests,77.07,ShopCo_v2,synthetic
+SYN-279,Ambiguous requests,63.33,ShopCo_v2,synthetic
+SYN-280,Ambiguous requests,84.89,ShopCo_v2,synthetic
+SYN-281,Ambiguous requests,64.09,ShopCo_v2,synthetic
+SYN-282,Ambiguous requests,56.75,ShopCo_v2,synthetic
+SYN-283,Ambiguous requests,58.71,ShopCo_v2,synthetic
+SYN-284,Ambiguous requests,57.81,ShopCo_v2,synthetic
+SYN-285,Ambiguous requests,35.68,ShopCo_v2,synthetic
+SYN-286,Ambiguous requests,68.19,ShopCo_v2,synthetic
+SYN-287,Ambiguous requests,69.5,ShopCo_v2,synthetic
+SYN-288,Ambiguous requests,60.93,ShopCo_v2,synthetic
+SYN-289,Ambiguous requests,56.01,ShopCo_v2,synthetic
+SYN-290,Ambiguous requests,71.21,ShopCo_v2,synthetic
+SYN-291,Ambiguous requests,90.04,ShopCo_v2,synthetic
+SYN-292,Ambiguous requests,66.54,ShopCo_v2,synthetic
+SYN-293,Ambiguous requests,58.89,ShopCo_v2,synthetic
+SYN-294,Ambiguous requests,57.72,ShopCo_v2,synthetic
+SYN-295,Ambiguous requests,65.02,ShopCo_v2,synthetic
+SYN-296,Ambiguous requests,48.29,ShopCo_v2,synthetic
+SYN-297,Ambiguous requests,64.25,ShopCo_v2,synthetic
+SYN-298,Ambiguous requests,66.86,ShopCo_v2,synthetic
+SYN-299,Ambiguous requests,91.83,ShopCo_v2,synthetic
+SYN-300,Ambiguous requests,79.21,ShopCo_v2,synthetic

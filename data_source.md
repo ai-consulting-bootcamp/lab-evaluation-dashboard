@@ -1,0 +1,3 @@
+# Data Source
+
+I used 300 synthetic records generated with Python and a fixed random seed of 42, with 30 records for each category and version combination. The dataset covers five ShopCo support categories and two fictional versions, with simulated quality scores from 0 to 100. I chose synthetic data to practise dashboard design with more records than my previous 15-example lab; these scores are not real agent evaluations and do not prove that one version performs better.
