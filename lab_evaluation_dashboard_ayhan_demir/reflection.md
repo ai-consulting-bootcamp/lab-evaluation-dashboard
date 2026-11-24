@@ -1,0 +1,5 @@
+# Reflection
+
+I treated the dashboard as the communication layer: it answers "what" (scores by category and model) and "so what" (where to act first), and leaves the "how" in the notebooks. On the dashboard there are no p-values, confidence intervals, standard deviations or test names; the box plot is explained as "where the middle half of scores sits" and the takeaways are written as actions, for example fixing Reasoning before scaling multi-step use cases. I included three charts, three KPI cards for scope (average, volume, date range), filters with a one-line how-to, and a click-to-filter action so stakeholders can explore without asking for new charts. I excluded summary tables, raw rows, bin settings and the data generation details, which stay in the notebooks.
+
+Next time I would use real evaluation results from a client project instead of synthetic data, because here the model version is random and the "model choice barely matters" message is a feature of the generator, not a finding. I would also add a target line agreed with the business (for example a minimum acceptable score) so the dashboard shows pass or fail against a goal, not only a ranking.

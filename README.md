@@ -1,23 +1,20 @@
-# Evaluation Dashboard
+# LAB | Evaluation Dashboard (Ayhan Demir)
 
-**Track:** Module 5 — Evaluation & strategy · **When:** Week 8, Day 2 · **Status:** Required
+**Tool:** Tableau Desktop Public Edition
+**Dashboard:** one page for non-technical stakeholders showing where models succeed and fail by evaluation category: score distribution, scores by category, category comparison, three KPI cards, filters for model, category and date, and a click-to-filter action.
+**Data:** Option B, generated sample data (4489 evaluations). See `data_source.md`.
 
-This repository contains everything you need for this lab.
+Start with `lab_proof.md`.
 
-## Files
-
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
-
-## How to complete this lab
-
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
-
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+| File | Purpose |
+|---|---|
+| `lab_proof.md` | Entry point for the reviewer: workflow, run, evidence, output, limitation |
+| `01_data_preparation.ipynb` | Part 1: generate, check and clean the data, write `data_source.md` |
+| `02_visualizations.ipynb` | Part 2: Tableau steps 4-8 with reference numbers to check each chart |
+| `03_dashboard.ipynb` | Part 3: Tableau steps 9-11, dashboard texts, writes README, reflection, lab_proof |
+| `evaluation_data.csv` | Raw generated data |
+| `evaluation_data_clean.csv` | Clean data connected to Tableau |
+| `evaluation_score_dashboard.twbx` | Tableau packaged workbook |
+| `dashboard_screenshot.png` | Screenshot of the final dashboard |
+| `data_source.md` | Which data option was used and why |
+| `reflection.md` | Communication layer reflection |
