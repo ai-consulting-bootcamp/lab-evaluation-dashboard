@@ -21,3 +21,12 @@ This repository contains everything you need for this lab.
 - Keep this repository scoped to this lab only — no unrelated projects or personal files.
 - Use clear, descriptive filenames.
 - Remove secrets, API keys, and tokens before committing.
+
+## Completed lab deliverables
+
+- [Lab proof](lab_proof.md)
+- [Tableau dashboard](evaluation_score_dashboard.twbx)
+- [Dashboard screenshot](dashboard_screenshot.png)
+- [Data source](data_source.md)
+- [Reflection](reflection.md)
+- [Data generation script](generate_evaluation_data.py)

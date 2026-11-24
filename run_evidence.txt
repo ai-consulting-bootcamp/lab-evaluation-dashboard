@@ -1,0 +1,8 @@
+Rows: 4489; overall mean: 55.33; dates: 2026-08-26 to 2026-11-23
+                       count   mean
+category
+code                     914  49.62
+instruction_following    898  72.21
+knowledge                871  65.98
+reasoning                879  40.85
+tool_calling             927  48.35
