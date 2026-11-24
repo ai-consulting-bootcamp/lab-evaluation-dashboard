@@ -1,0 +1,1 @@
+Option B: synthetic evaluation data generated using the lab’s seeded category-specific distributions, with a fixed 90-day period for reproducibility. Model names are simulated labels; the results are not evidence of real model performance. The cleaned CSV adds a ten-point score bin (100 is included in the 90–100 bin).
