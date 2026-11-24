@@ -1,0 +1,5 @@
+# Data Source
+
+**Option B – generated sample data.** The dataset was created with the lab's `generate_evaluation_data.py` script (fixed random seed 42), producing 4,489 simulated evaluation results across 5 task categories (reasoning, knowledge, code, instruction following, tool calling), 4 model versions and 90 days (26 Aug – 23 Nov 2026).
+
+I chose generated data because I don't have access to real production evaluation logs, and synthetic data carries no privacy or confidentiality risk, which matters because Tableau Public dashboards are publicly visible. Before loading it into Tableau, `clean_evaluation_data.py` checked for missing or out-of-range scores (none found), formatted dates, and turned category and model names into readable labels (e.g. `instruction_following` → "Instruction Following", `gpt-4-turbo` → "GPT-4 Turbo"), saved as `evaluation_data_clean.csv`.
