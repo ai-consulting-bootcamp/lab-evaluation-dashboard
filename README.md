@@ -6,6 +6,11 @@ This repository contains everything you need for this lab.
 
 ## Files
 
+- [`evaluation_data.csv`](./evaluation_data.csv) - the data source for the dashboard
+- [`Model Evaluation Score Dashboard.png`](./Model%20Evaluation%20Score%20Dashboard.png) - an image of the dashboard
+- [`generate_evaluation_data.py`](./generate_evaluation_data.py) - the Python script used to create the data source
+- [`evaluation_score_dashboard.twbx.twbx`](./evaluation_score_dashboard.twbx.twbx) - the Tableau workbook containing the dashboard
+
 - [`instructions.md`](./instructions.md) — the lab instructions
 - [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
 
