@@ -1,0 +1,3 @@
+# Data source
+
+I used **Option B: generated sample data**, made with the script provided in the lab (`generate_evaluation_data.py`; the only change is a fixed end date, 26/11/2026, so the file can be reproduced). My own evaluation results from earlier labs were too small for meaningful distributions: the LLM-judges run has 5 scored answers and the LangSmith experiment had not produced scores yet, and the lab asks for 100+ rows. The dataset has **4,489 evaluations** across 5 skills, 4 model versions and 90 days (28 Aug – 25 Nov 2026), scores from 0 to 100. Because it is synthetic, the dashboard says so in its footer.
