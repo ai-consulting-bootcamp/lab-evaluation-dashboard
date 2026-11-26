@@ -1,0 +1,5 @@
+# Data sources
+
+**Main dashboard: generated sample data (Option B).** `data/evaluation_data_clean.csv` holds 4,489 evaluations: 5 categories, 4 model versions, 28 Aug–25 Nov 2026, scores from 0 to 100. It was generated with the lab's own script (`scripts/generate_evaluation_data.py`, fixed seed 42) and validated by `scripts/clean_evaluation_data.py`, which added plain-language columns (category label, score band, Pass/Below target at a score of 70). I chose Option B because my previous labs produced fewer than 100 scored examples, with no dates, and no model versions beyond three, too little for a meaningful distribution dashboard with filters.
+
+**Optional judge-agreement dashboard: my own data (Option A).** `data/judge_agreement_data.csv` (72 rows) comes from my **W7D4 LLM Judges lab** (`data/source/`), where a gpt-5.4-mini judge scored 12 loan-decline letters three times each, with judge prompt v1 and then with the corrected v2. `scripts/build_judge_agreement_data.py` pairs the runs of the same letter (run 1 vs 2, 1 vs 3, 2 vs 3), converts the 1-5 scores to 0-100, and counts runs within 25 points as agreement.
