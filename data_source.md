@@ -1,0 +1,7 @@
+# Data source
+
+I used **Option B, the generated sample data**. My Day 1 and Day 2 labs produced marketing-channel data, not per-example evaluation scores, so I had nothing usable for an evaluation dashboard. `generate_evaluation_data.py` runs the lab's generator (seed 42). The only change is a fixed end date (2026-11-26) in place of `datetime.now()`, so every run gives the same file. The output has 4,489 evaluations across 5 categories, 4 model versions and 90 days (2026-08-28 to 2026-11-25), with scores from 0 to 100.
+
+`clean_evaluation_data.py` validates the file and writes `evaluation_data_clean.csv`, which is the file the Tableau workbook connects to. It checks for numeric scores within 0 to 100, known categories, ISO dates, missing values and duplicate IDs. No rows failed. The script also adds a readable `category_label` column ("Instruction Following" instead of `instruction_following`). The optional judge-agreement page uses `judge_agreement_data.csv` from the same script: 2,696 evaluations, each scored by two judges, where "agreement" means the two scores are within 10 points.
+
+**Caveat:** the data is synthetic. Category is the only thing that changes the score distribution, and the model is picked at random. That's why the dashboard shows large differences between categories and almost none between models. It's an artefact of the generator, not a finding about GPT-4 or Claude.
